@@ -1,0 +1,166 @@
+departmentdata = [
+  {
+    "Website Listing of Department": "american_studies",
+    "Abbreviation": "AMST"
+  },
+  {
+    "Website Listing of Department": "anthropology_sociology",
+    "Abbreviation": "ANTH"
+  },
+  {
+    "Website Listing of Department": "arabic",
+    "Abbreviation": "ARAB"
+  },
+  {
+    "Website Listing of Department": "architectural_studies",
+    "Abbreviation": "ARCH"
+  },
+  {
+    "Website Listing of Department": "art",
+    "Abbreviation": "ARHA"
+  },
+  {
+    "Website Listing of Department": "asian",
+    "Abbreviation": "ASLC"
+  },
+  {
+    "Website Listing of Department": "astronomy",
+    "Abbreviation": "ASTR"
+  },
+  {
+    "Website Listing of Department": "biochemistry-biophysics",
+    "Abbreviation": "BCBP"
+  },
+  {
+    "Website Listing of Department": "Biology",
+    "Abbreviation": "BIOL"
+  },
+  {
+    "Website Listing of Department": "black_studies",
+    "Abbreviation": "BLST"
+  },
+  {
+    "Website Listing of Department": "chemistry",
+    "Abbreviation": "CHEM"
+  },
+  {
+    "Website Listing of Department": "chinese",
+    "Abbreviation": "CHIN"
+  },
+  {
+    "Website Listing of Department": "classics",
+    "Abbreviation": "CLAS"
+  },
+  {
+    "Website Listing of Department": "computer_science",
+    "Abbreviation": "COSC"
+  },
+  {
+    "Website Listing of Department": "economics",
+    "Abbreviation": "ECON"
+  },
+  {
+    "Website Listing of Department": "english",
+    "Abbreviation": "ENGL"
+  },
+  {
+    "Website Listing of Department": "environmental_studies",
+    "Abbreviation": "ENST"
+  },
+  {
+    "Website Listing of Department": "european_studies",
+    "Abbreviation": "EUST"
+  },
+  {
+    "Website Listing of Department": "film",
+    "Abbreviation": "FAMS"
+  },
+  {
+    "Website Listing of Department": "french",
+    "Abbreviation": "FREN"
+  },
+  {
+    "Website Listing of Department": "geology",
+    "Abbreviation": "GEOL"
+  },
+  {
+    "Website Listing of Department": "german",
+    "Abbreviation": "GERM"
+  },
+  {
+    "Website Listing of Department": "greek",
+    "Abbreviation": "GREE"
+  },
+  {
+    "Website Listing of Department": "history",
+    "Abbreviation": "HIST"
+  },
+  {
+    "Website Listing of Department": "japanese",
+    "Abbreviation": "JAPA"
+  },
+  {
+    "Website Listing of Department": "latin",
+    "Abbreviation": "LATI"
+  },
+  {
+    "Website Listing of Department": "ljst",
+    "Abbreviation": "LJST"
+  },
+  {
+    "Website Listing of Department": "mathematics-statistics",
+    "Abbreviation": "MATH"
+  },
+  {
+    "Website Listing of Department": "music",
+    "Abbreviation": "MUSI"
+  },
+  {
+    "Website Listing of Department": "neuroscience",
+    "Abbreviation": "NEUR"
+  },
+  {
+    "Website Listing of Department": "philosophy",
+    "Abbreviation": "PHIL"
+  },
+  {
+    "Website Listing of Department": "physics",
+    "Abbreviation": "PHYS"
+  },
+  {
+    "Website Listing of Department": "political_science",
+    "Abbreviation": "POSC"
+  },
+  {
+    "Website Listing of Department": "psychology",
+    "Abbreviation": "PSYC"
+  },
+  {
+    "Website Listing of Department": "religion",
+    "Abbreviation": "RELI"
+  },
+  {
+    "Website Listing of Department": "russian",
+    "Abbreviation": "RUSS"
+  },
+  {
+    "Website Listing of Department": "sexuality_womens_gender_studies",
+    "Abbreviation": "SWAG"
+  },
+  {
+    "Website Listing of Department": "sociology",
+    "Abbreviation": "SOCI"
+  },
+  {
+    "Website Listing of Department": "spanish",
+    "Abbreviation": "SPAN"
+  },
+  {
+    "Website Listing of Department": "statistics",
+    "Abbreviation": "STAT"
+  },
+  {
+    "Website Listing of Department": "theater_dance",
+    "Abbreviation": "THDA"
+  }
+]

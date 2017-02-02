@@ -1,0 +1,8837 @@
+/**
+ Export to JSON plugin for PHPMyAdmin
+ @version 0.1
+ */
+
+// Database 'rateourcourses'
+
+// rateourcourses.courses
+
+coursedata = [
+  {
+    "": 1,
+    "Department": "AMST",
+    "Number": 111,
+    "Name": "Global Valley"
+  },
+  {
+    "": 2,
+    "Department": "AMST",
+    "Number": 112,
+    "Name": "The City: New York"
+  },
+  {
+    "": 3,
+    "Department": "AMST",
+    "Number": 165,
+    "Name": "An Introduction to U.S. Latino/a History, 1848--Present"
+  },
+  {
+    "": 4,
+    "Department": "AMST",
+    "Number": 201,
+    "Name": "Native American Life: Past and Present"
+  },
+  {
+    "": 5,
+    "Department": "AMST",
+    "Number": 205,
+    "Name": "Whose Game? Sports in America"
+  },
+  {
+    "": 6,
+    "Department": "AMST",
+    "Number": 210,
+    "Name": "American Jewish Keywords"
+  },
+  {
+    "": 7,
+    "Department": "AMST",
+    "Number": 215,
+    "Name": "The Embodied Self in American Culture and Society"
+  },
+  {
+    "": 8,
+    "Department": "AMST",
+    "Number": 217,
+    "Name": "Religion, Democracy, and American Culture\n&nbsp;"
+  },
+  {
+    "": 9,
+    "Department": "AMST",
+    "Number": 221,
+    "Name": "Building Community"
+  },
+  {
+    "": 10,
+    "Department": "AMST",
+    "Number": 224,
+    "Name": "The Neo-Western"
+  },
+  {
+    "": 11,
+    "Department": "AMST",
+    "Number": 230,
+    "Name": "Performing Race, Racism, and Racialization"
+  },
+  {
+    "": 12,
+    "Department": "AMST",
+    "Number": 240,
+    "Name": "Rethinking Pocahontas: An Introduction to Native American Studies"
+  },
+  {
+    "": 13,
+    "Department": "AMST",
+    "Number": 260,
+    "Name": "Latino Migration:&nbsp; Labor, Lifestyle and Legality"
+  },
+  {
+    "": 14,
+    "Department": "AMST",
+    "Number": 265,
+    "Name": "Unequal Childhoods:&nbsp; Race, Class and Gender in the United States"
+  },
+  {
+    "": 15,
+    "Department": "AMST",
+    "Number": 274,
+    "Name": "Native American Literature:&nbsp; Decolonizing Intellectual Traditions"
+  },
+  {
+    "": 16,
+    "Department": "AMST",
+    "Number": 280,
+    "Name": "When Corn Mother Meets King Corn:&nbsp; Cultural Studies of the Americas"
+  },
+  {
+    "": 17,
+    "Department": "AMST",
+    "Number": 302,
+    "Name": "Globalization, Inequality and Social Change"
+  },
+  {
+    "": 18,
+    "Department": "AMST",
+    "Number": 305,
+    "Name": "Gender, Migration and Power:&nbsp; Latinos in the Americas"
+  },
+  {
+    "": 19,
+    "Department": "AMST",
+    "Number": 311,
+    "Name": "Race and Nation: The History of Hispaniola"
+  },
+  {
+    "": 20,
+    "Department": "AMST",
+    "Number": 315,
+    "Name": "Race and U.S. Empire: 1898 in the Caribbean and the Pacific"
+  },
+  {
+    "": 21,
+    "Department": "AMST",
+    "Number": 316,
+    "Name": "Afro-Latinos"
+  },
+  {
+    "": 22,
+    "Department": "AMST",
+    "Number": 317,
+    "Name": "Puerto Rican Migration"
+  },
+  {
+    "": 23,
+    "Department": "AMST",
+    "Number": 320,
+    "Name": "Red/Black Literature: At the Crossroads of Native American and African American Literary Histories"
+  },
+  {
+    "": 24,
+    "Department": "AMST",
+    "Number": 322,
+    "Name": "A History of the Native Book"
+  },
+  {
+    "": 25,
+    "Department": "AMST",
+    "Number": 326,
+    "Name": "Immigration and the New Latino Second Generation"
+  },
+  {
+    "": 26,
+    "Department": "AMST",
+    "Number": 330,
+    "Name": "Making Asians:&nbsp; Asian American in Literature and Law"
+  },
+  {
+    "": 27,
+    "Department": "AMST",
+    "Number": 350,
+    "Name": "American Origins"
+  },
+  {
+    "": 28,
+    "Department": "AMST",
+    "Number": 358,
+    "Name": "Indigenous American Epics"
+  },
+  {
+    "": 29,
+    "Department": "AMST",
+    "Number": 371,
+    "Name": "Race and Revolution in Cuban History"
+  },
+  {
+    "": 30,
+    "Department": "AMST",
+    "Number": 372,
+    "Name": "Race and Public History/Memory"
+  },
+  {
+    "": 31,
+    "Department": "AMST",
+    "Number": 374,
+    "Name": "WWII and Japanese Americans"
+  },
+  {
+    "": 32,
+    "Department": "AMST",
+    "Number": 468,
+    "Name": "Research Methods in American Culture"
+  },
+  {
+    "": 33,
+    "Department": "AMST",
+    "Number": "490,",
+    "Name": "390 Special Topics"
+  },
+  {
+    "": 34,
+    "Department": "AMST",
+    "Number": 496,
+    "Name": "Capstone Project"
+  },
+  {
+    "": 89,
+    "Department": "ARCH",
+    "Number": 102,
+    "Name": "Introduction to Architectural Studies"
+  },
+  {
+    "": 90,
+    "Department": "ARCH",
+    "Number": 104,
+    "Name": "Housing, Urbanization, and Development"
+  },
+  {
+    "": 91,
+    "Department": "ARCH",
+    "Number": 106,
+    "Name": "Sonic Architecture: Sound as Anthropogenic and Experiential Medium"
+  },
+  {
+    "": 92,
+    "Department": "ARCH",
+    "Number": 135,
+    "Name": "Art and Architecture of Europe from 1400 to 1800"
+  },
+  {
+    "": 93,
+    "Department": "ARCH",
+    "Number": 154,
+    "Name": "Art and Architecture of South Asia"
+  },
+  {
+    "": 94,
+    "Department": "ARCH",
+    "Number": 157,
+    "Name": "The Postcolonial City"
+  },
+  {
+    "": 95,
+    "Department": "ARCH",
+    "Number": 206,
+    "Name": "Auralized Architectures: Re-Sounding the Ancient Past"
+  },
+  {
+    "": 96,
+    "Department": "ARCH",
+    "Number": 208,
+    "Name": "Architecture of Traditional Societies"
+  },
+  {
+    "": 97,
+    "Department": "ARCH",
+    "Number": 216,
+    "Name": "Digital Constructions: Intermediate Architectural Design Studio"
+  },
+  {
+    "": 98,
+    "Department": "ARCH",
+    "Number": 218,
+    "Name": "Precedents of Domesticity: &nbsp;Architectural Studies Design Seminar"
+  },
+  {
+    "": 99,
+    "Department": "ARCH",
+    "Number": 220,
+    "Name": "Reinventing Tokyo: The Art, Literature, and Politics of Japan's Modern Capital"
+  },
+  {
+    "": 100,
+    "Department": "ARCH",
+    "Number": 242,
+    "Name": "Material Culture of American Homes"
+  },
+  {
+    "": 101,
+    "Department": "ARCH",
+    "Number": 257,
+    "Name": "The Colonial City: Global Perspectives"
+  },
+  {
+    "": 102,
+    "Department": "ARCH",
+    "Number": 355,
+    "Name": "Renaissance Illusions: Art, Matter, Spirit"
+  },
+  {
+    "": 103,
+    "Department": "ARCH",
+    "Number": 356,
+    "Name": "Baroque Art in Italy, France, Spain, and the Spanish Netherlands"
+  },
+  {
+    "": 104,
+    "Department": "ARCH",
+    "Number": 363,
+    "Name": "Traumatic Events"
+  },
+  {
+    "": 105,
+    "Department": "ARCH",
+    "Number": 364,
+    "Name": "Architectures of Disappearance"
+  },
+  {
+    "": 106,
+    "Department": "ARCH",
+    "Number": 365,
+    "Name": "Making Memorials"
+  },
+  {
+    "": 107,
+    "Department": "ARCH",
+    "Number": 368,
+    "Name": "SPACE"
+  },
+  {
+    "": 108,
+    "Department": "ARCH",
+    "Number": 369,
+    "Name": "TIME"
+  },
+  {
+    "": 109,
+    "Department": "ARCH",
+    "Number": 375,
+    "Name": "The Poetics and Politics of Sustainable Architecture"
+  },
+  {
+    "": 110,
+    "Department": "ARCH",
+    "Number": "390,",
+    "Name": "490 Special Topics"
+  },
+  {
+    "": 111,
+    "Department": "ARCH",
+    "Number": "499,",
+    "Name": "498, 499D Senior Departmental Honors."
+  },
+  {
+    "": 112,
+    "Department": "ARHA",
+    "Number": 102,
+    "Name": "Practice of Art"
+  },
+  {
+    "": 113,
+    "Department": "ARHA",
+    "Number": 111,
+    "Name": "Drawing I"
+  },
+  {
+    "": 114,
+    "Department": "ARHA",
+    "Number": 133,
+    "Name": "Material Culture of American Homes"
+  },
+  {
+    "": 115,
+    "Department": "ARHA",
+    "Number": 135,
+    "Name": "Art and Architecture of Europe from 1400 to 1800"
+  },
+  {
+    "": 116,
+    "Department": "ARHA",
+    "Number": 138,
+    "Name": "Visual Arts and Orature in Africa"
+  },
+  {
+    "": 117,
+    "Department": "ARHA",
+    "Number": 145,
+    "Name": "The Modern World"
+  },
+  {
+    "": 118,
+    "Department": "ARHA",
+    "Number": 147,
+    "Name": "Arts of China"
+  },
+  {
+    "": 119,
+    "Department": "ARHA",
+    "Number": 148,
+    "Name": "Arts of Japan"
+  },
+  {
+    "": 120,
+    "Department": "ARHA",
+    "Number": 149,
+    "Name": "Survey of African Art"
+  },
+  {
+    "": 121,
+    "Department": "ARHA",
+    "Number": 151,
+    "Name": "Twenty-four Buildings"
+  },
+  {
+    "": 122,
+    "Department": "ARHA",
+    "Number": 152,
+    "Name": "Visual Culture of the Islamic World"
+  },
+  {
+    "": 123,
+    "Department": "ARHA",
+    "Number": 154,
+    "Name": "Art and Architecture of South Asia"
+  },
+  {
+    "": 124,
+    "Department": "ARHA",
+    "Number": 155,
+    "Name": "Introduction to Contemporary Art"
+  },
+  {
+    "": 125,
+    "Department": "ARHA",
+    "Number": 157,
+    "Name": "The Postcolonial City"
+  },
+  {
+    "": 126,
+    "Department": "ARHA",
+    "Number": 158,
+    "Name": "Introduction to Architectural Studies"
+  },
+  {
+    "": 127,
+    "Department": "ARHA",
+    "Number": 213,
+    "Name": "Printmaking I: The Handprinted Image"
+  },
+  {
+    "": 128,
+    "Department": "ARHA",
+    "Number": 214,
+    "Name": "Sculpture I"
+  },
+  {
+    "": 129,
+    "Department": "ARHA",
+    "Number": 215,
+    "Name": "Painting I"
+  },
+  {
+    "": 130,
+    "Department": "ARHA",
+    "Number": 216,
+    "Name": "Digital Constructions: Intermediate Architectural Design Studio"
+  },
+  {
+    "": 131,
+    "Department": "ARHA",
+    "Number": 217,
+    "Name": "Improvising the Space Between: Drawing, Architecture, and Sculpture"
+  },
+  {
+    "": 132,
+    "Department": "ARHA",
+    "Number": 218,
+    "Name": "Photography I"
+  },
+  {
+    "": 133,
+    "Department": "ARHA",
+    "Number": 221,
+    "Name": "Foundations in Video Production"
+  },
+  {
+    "": 134,
+    "Department": "ARHA",
+    "Number": 222,
+    "Name": "Drawing II"
+  },
+  {
+    "": 135,
+    "Department": "ARHA",
+    "Number": 223,
+    "Name": "The Artist Is Absent"
+  },
+  {
+    "": 136,
+    "Department": "ARHA",
+    "Number": 224,
+    "Name": "Translating Nature: Drawing, Painting, and Sculpture"
+  },
+  {
+    "": 137,
+    "Department": "ARHA",
+    "Number": 226,
+    "Name": "Women and War in European History, 1558-1918"
+  },
+  {
+    "": 138,
+    "Department": "ARHA",
+    "Number": 245,
+    "Name": "Art and Politics in Russia, 1860 to the Present"
+  },
+  {
+    "": 139,
+    "Department": "ARHA",
+    "Number": 251,
+    "Name": "Contemporary Art Since 1960"
+  },
+  {
+    "": 140,
+    "Department": "ARHA",
+    "Number": 252,
+    "Name": "Contemporary Art Since 1989"
+  },
+  {
+    "": 141,
+    "Department": "ARHA",
+    "Number": 254,
+    "Name": "Art&rsquo;s World since 1989"
+  },
+  {
+    "": 142,
+    "Department": "ARHA",
+    "Number": 256,
+    "Name": "Twentieth-Century Architecture: Socialism, Capitalism and Globalization"
+  },
+  {
+    "": 143,
+    "Department": "ARHA",
+    "Number": 257,
+    "Name": "The Colonial City: Global Perspectives"
+  },
+  {
+    "": 144,
+    "Department": "ARHA",
+    "Number": 261,
+    "Name": "Buddhist Art of Asia"
+  },
+  {
+    "": 145,
+    "Department": "ARHA",
+    "Number": 262,
+    "Name": "From Edo to Tokyo: Japanese Art from 1600 to the Present"
+  },
+  {
+    "": 146,
+    "Department": "ARHA",
+    "Number": 266,
+    "Name": "Sacred Images and Sacred Space: The Visual Culture of Religion in Japan"
+  },
+  {
+    "": 147,
+    "Department": "ARHA",
+    "Number": 267,
+    "Name": "Arts of the Islamic Book"
+  },
+  {
+    "": 148,
+    "Department": "ARHA",
+    "Number": 268,
+    "Name": "Image of Empire: Art and Architecture of Mughal India, 1526-1858"
+  },
+  {
+    "": 149,
+    "Department": "ARHA",
+    "Number": 270,
+    "Name": "African Art and the Diaspora"
+  },
+  {
+    "": 150,
+    "Department": "ARHA",
+    "Number": 272,
+    "Name": "Foundations and Integrations:&nbsp; Film and Media Studies"
+  },
+  {
+    "": 151,
+    "Department": "ARHA",
+    "Number": 274,
+    "Name": "Contemporary Art and Curatorial Practice"
+  },
+  {
+    "": 152,
+    "Department": "ARHA",
+    "Number": 276,
+    "Name": "Border Culture: Globalization and Contemporary Art"
+  },
+  {
+    "": 153,
+    "Department": "ARHA",
+    "Number": 277,
+    "Name": "The Culture and Idea of Photography"
+  },
+  {
+    "": 154,
+    "Department": "ARHA",
+    "Number": 281,
+    "Name": "The Arts of Exchange: Cross-Cultural Interaction in the Islamic World, 1400-1800"
+  },
+  {
+    "": 155,
+    "Department": "ARHA",
+    "Number": 284,
+    "Name": "Women and Art in Early Modern Europe"
+  },
+  {
+    "": 156,
+    "Department": "ARHA",
+    "Number": 301,
+    "Name": "Experimental Painting: Materials and Meaning"
+  },
+  {
+    "": 157,
+    "Department": "ARHA",
+    "Number": 302,
+    "Name": "Belief as a Basis for Practice"
+  },
+  {
+    "": 158,
+    "Department": "ARHA",
+    "Number": 306,
+    "Name": "Eight People, One Place and a Book I"
+  },
+  {
+    "": 159,
+    "Department": "ARHA",
+    "Number": 307,
+    "Name": "Eight People, One Place and a Book II\n&nbsp;"
+  },
+  {
+    "": 160,
+    "Department": "ARHA",
+    "Number": 308,
+    "Name": "Make it Public: Art and Social Practice"
+  },
+  {
+    "": 161,
+    "Department": "ARHA",
+    "Number": 319,
+    "Name": "Working in Series: The Interdisciplinary Connection Between Drawing and the Hand-Printed Image"
+  },
+  {
+    "": 162,
+    "Department": "ARHA",
+    "Number": 323,
+    "Name": "Advanced Studio Seminar"
+  },
+  {
+    "": 163,
+    "Department": "ARHA",
+    "Number": 324,
+    "Name": "Sculpture II"
+  },
+  {
+    "": 164,
+    "Department": "ARHA",
+    "Number": 326,
+    "Name": "Painting II"
+  },
+  {
+    "": 165,
+    "Department": "ARHA",
+    "Number": 327,
+    "Name": "Printmaking II: Further Investigations of the Hand Pulled Print"
+  },
+  {
+    "": 166,
+    "Department": "ARHA",
+    "Number": 328,
+    "Name": "Photography II"
+  },
+  {
+    "": 167,
+    "Department": "ARHA",
+    "Number": 332,
+    "Name": "Substance and Space: Explorations in Sculpture"
+  },
+  {
+    "": 168,
+    "Department": "ARHA",
+    "Number": 335,
+    "Name": "Experiments in 16mm Film"
+  },
+  {
+    "": 169,
+    "Department": "ARHA",
+    "Number": 342,
+    "Name": "Performance in Place: Site Specific&nbsp;"
+  },
+  {
+    "": 170,
+    "Department": "ARHA",
+    "Number": 343,
+    "Name": "Lost and Found: Appropriated, Recycled and Reclaimed Images"
+  },
+  {
+    "": 171,
+    "Department": "ARHA",
+    "Number": 350,
+    "Name": "Practice and Theory of Art History"
+  },
+  {
+    "": 172,
+    "Department": "ARHA",
+    "Number": 351,
+    "Name": "Art, Power, and Global Exhibitions, 1850--Present"
+  },
+  {
+    "": 173,
+    "Department": "ARHA",
+    "Number": 353,
+    "Name": "Myth, Ritual and Iconography in West Africa"
+  },
+  {
+    "": 174,
+    "Department": "ARHA",
+    "Number": 354,
+    "Name": "Renaissance Illusions: Art, Matter, Spirit"
+  },
+  {
+    "": 175,
+    "Department": "ARHA",
+    "Number": 355,
+    "Name": "Modes of Making: Art, 1996-2016"
+  },
+  {
+    "": 176,
+    "Department": "ARHA",
+    "Number": 356,
+    "Name": "Baroque Art in Italy, France, Spain, and the Spanish Netherlands"
+  },
+  {
+    "": 177,
+    "Department": "ARHA",
+    "Number": 357,
+    "Name": "American Art in the Jazz Age"
+  },
+  {
+    "": 178,
+    "Department": "ARHA",
+    "Number": 358,
+    "Name": "Photography and Political Violence"
+  },
+  {
+    "": 179,
+    "Department": "ARHA",
+    "Number": 374,
+    "Name": "To Sculpt a Modern Woman's Life"
+  },
+  {
+    "": 180,
+    "Department": "ARHA",
+    "Number": 381,
+    "Name": "The Art of the Talisman"
+  },
+  {
+    "": 181,
+    "Department": "ARHA",
+    "Number": 382,
+    "Name": "American Avant-Garde Cinema"
+  },
+  {
+    "": 182,
+    "Department": "ARHA",
+    "Number": 383,
+    "Name": "The Tea Ceremony and Japanese Culture"
+  },
+  {
+    "": 183,
+    "Department": "ARHA",
+    "Number": 385,
+    "Name": "Witches, Vampires and Other Monsters"
+  },
+  {
+    "": 184,
+    "Department": "ARHA",
+    "Number": 386,
+    "Name": "Pre-Columbian Art and Architecture"
+  },
+  {
+    "": 185,
+    "Department": "ARHA",
+    "Number": 387,
+    "Name": "Native American Art and Architecture"
+  },
+  {
+    "": 186,
+    "Department": "ARHA",
+    "Number": 441,
+    "Name": "Documentary Production"
+  },
+  {
+    "": 187,
+    "Department": "ARHA",
+    "Number": 444,
+    "Name": "Films That Try: Essay Film Production"
+  },
+  {
+    "": 188,
+    "Department": "ARHA",
+    "Number": 452,
+    "Name": "The Earthly Paradise"
+  },
+  {
+    "": 189,
+    "Department": "ARHA",
+    "Number": 462,
+    "Name": "Film and Video Curation"
+  },
+  {
+    "": 190,
+    "Department": "ARHA",
+    "Number": 481,
+    "Name": "Conversations with Experimental Filmmakers"
+  },
+  {
+    "": 191,
+    "Department": "ARHA",
+    "Number": 490,
+    "Name": "Special Topics"
+  },
+  {
+    "": 282,
+    "Department": "BCBP",
+    "Number": 251,
+    "Name": "Molecular Genetics"
+  },
+  {
+    "": 283,
+    "Department": "BCBP",
+    "Number": 291,
+    "Name": "Cell Structure and Function"
+  },
+  {
+    "": 284,
+    "Department": "BCBP",
+    "Number": 310,
+    "Name": "Structural Biochemistry"
+  },
+  {
+    "": 285,
+    "Department": "BCBP",
+    "Number": 331,
+    "Name": "Biochemistry"
+  },
+  {
+    "": 286,
+    "Department": "BCBP",
+    "Number": 400,
+    "Name": "Molecular and Cellular Biophysics"
+  },
+  {
+    "": 287,
+    "Department": "BCBP",
+    "Number": 404,
+    "Name": "Seminar in Biochemistry"
+  },
+  {
+    "": 288,
+    "Department": "BCBP",
+    "Number": 420,
+    "Name": "Seminar in Molecular Genetics: DNA Makes RNA"
+  },
+  {
+    "": 289,
+    "Department": "BCBP",
+    "Number": 490,
+    "Name": "Special Topics"
+  },
+  {
+    "": 290,
+    "Department": "BIOL",
+    "Number": 104,
+    "Name": "Food, Fiber, and Pharmaceuticals"
+  },
+  {
+    "": 291,
+    "Department": "BIOL",
+    "Number": 106,
+    "Name": "Why Sex?"
+  },
+  {
+    "": 292,
+    "Department": "BIOL",
+    "Number": 110,
+    "Name": "Contagion"
+  },
+  {
+    "": 293,
+    "Department": "BIOL",
+    "Number": 114,
+    "Name": "The Evolution of Human Nature"
+  },
+  {
+    "": 294,
+    "Department": "BIOL",
+    "Number": 181,
+    "Name": "Adaptation and the Organism"
+  },
+  {
+    "": 295,
+    "Department": "BIOL",
+    "Number": 191,
+    "Name": "Molecules, Genes and Cells"
+  },
+  {
+    "": 296,
+    "Department": "BIOL",
+    "Number": 201,
+    "Name": "Introduction to Field Biology: Disease Ecology"
+  },
+  {
+    "": 297,
+    "Department": "BIOL",
+    "Number": 211,
+    "Name": "Plants as Models in Organismal Biology"
+  },
+  {
+    "": 298,
+    "Department": "BIOL",
+    "Number": 221,
+    "Name": "Developmental Biology"
+  },
+  {
+    "": 299,
+    "Department": "BIOL",
+    "Number": 230,
+    "Name": "Ecology"
+  },
+  {
+    "": 300,
+    "Department": "BIOL",
+    "Number": 240,
+    "Name": "Mathematical Modeling of Biological Systems"
+  },
+  {
+    "": 301,
+    "Department": "BIOL",
+    "Number": 241,
+    "Name": "Genetic Analysis of Biological Processes"
+  },
+  {
+    "": 302,
+    "Department": "BIOL",
+    "Number": 251,
+    "Name": "Molecular Genetics"
+  },
+  {
+    "": 303,
+    "Department": "BIOL",
+    "Number": 260,
+    "Name": "Animal Physiology"
+  },
+  {
+    "": 304,
+    "Department": "BIOL",
+    "Number": 264,
+    "Name": "Form and Function"
+  },
+  {
+    "": 305,
+    "Department": "BIOL",
+    "Number": 271,
+    "Name": "Microbiology"
+  },
+  {
+    "": 306,
+    "Department": "BIOL",
+    "Number": 280,
+    "Name": "Animal Behavior"
+  },
+  {
+    "": 307,
+    "Department": "BIOL",
+    "Number": 281,
+    "Name": "Animal Behavior with Lab"
+  },
+  {
+    "": 308,
+    "Department": "BIOL",
+    "Number": "290,",
+    "Name": "490, 490H, 290H Special Topics"
+  },
+  {
+    "": 309,
+    "Department": "BIOL",
+    "Number": 291,
+    "Name": "Cell Structure and Function"
+  },
+  {
+    "": 310,
+    "Department": "BIOL",
+    "Number": 301,
+    "Name": "Molecular Neurobiology"
+  },
+  {
+    "": 311,
+    "Department": "BIOL",
+    "Number": 310,
+    "Name": "Structural Biochemistry"
+  },
+  {
+    "": 312,
+    "Department": "BIOL",
+    "Number": 320,
+    "Name": "Evolutionary Biology"
+  },
+  {
+    "": 313,
+    "Department": "BIOL",
+    "Number": 321,
+    "Name": "Evolutionary Biology with Lab"
+  },
+  {
+    "": 314,
+    "Department": "BIOL",
+    "Number": 330,
+    "Name": "Biochemical Principles of Life at the Molecular Level"
+  },
+  {
+    "": 315,
+    "Department": "BIOL",
+    "Number": 331,
+    "Name": "Biochemistry"
+  },
+  {
+    "": 316,
+    "Department": "BIOL",
+    "Number": 351,
+    "Name": "Neurophysiology"
+  },
+  {
+    "": 317,
+    "Department": "BIOL",
+    "Number": 380,
+    "Name": "Genome Biology"
+  },
+  {
+    "": 318,
+    "Department": "BIOL",
+    "Number": 381,
+    "Name": "Genome Biology with Lab"
+  },
+  {
+    "": 319,
+    "Department": "BIOL",
+    "Number": 400,
+    "Name": "Molecular and Cellular Biophysics"
+  },
+  {
+    "": 320,
+    "Department": "BIOL",
+    "Number": 404,
+    "Name": "Seminar in Biochemistry"
+  },
+  {
+    "": 321,
+    "Department": "BIOL",
+    "Number": 414,
+    "Name": "Seminar in Microbiology: Host-Microbe Interactions"
+  },
+  {
+    "": 322,
+    "Department": "BIOL",
+    "Number": 420,
+    "Name": "Seminar in Molecular Genetics: DNA Makes RNA"
+  },
+  {
+    "": 323,
+    "Department": "BIOL",
+    "Number": 424,
+    "Name": "Seminar in Evolution: Sex and Sexual Reproduction"
+  },
+  {
+    "": 324,
+    "Department": "BIOL",
+    "Number": 434,
+    "Name": "Seminar in Ecology: Plant-animal Interactions"
+  },
+  {
+    "": 325,
+    "Department": "BIOL",
+    "Number": 440,
+    "Name": "Seminar in Conservation Biology."
+  },
+  {
+    "": 326,
+    "Department": "BIOL",
+    "Number": 450,
+    "Name": "Seminar in Physiology: Classic Papers in Neurophysiology"
+  },
+  {
+    "": 327,
+    "Department": "BIOL",
+    "Number": 454,
+    "Name": "Seminar in Tropical Biology"
+  },
+  {
+    "": 328,
+    "Department": "BIOL",
+    "Number": 470,
+    "Name": "Seminar in Biology of Metals: a molecular/cellular perspective&nbsp;"
+  },
+  {
+    "": 329,
+    "Department": "BLST",
+    "Number": 111,
+    "Name": "Introduction to Black Studies"
+  },
+  {
+    "": 330,
+    "Department": "BLST",
+    "Number": 123,
+    "Name": "Survey of African Art"
+  },
+  {
+    "": 331,
+    "Department": "BLST",
+    "Number": 147,
+    "Name": "Race, Place, and the Law"
+  },
+  {
+    "": 332,
+    "Department": "BLST",
+    "Number": 154,
+    "Name": "Bob Marley and the Globalization of Jamaican Popular Music"
+  },
+  {
+    "": 333,
+    "Department": "BLST",
+    "Number": 193,
+    "Name": "The Postcolonial City"
+  },
+  {
+    "": 334,
+    "Department": "BLST",
+    "Number": 200,
+    "Name": "Critical Debates in Black Studies"
+  },
+  {
+    "": 335,
+    "Department": "BLST",
+    "Number": 201,
+    "Name": "Introduction to the Black Atlantic"
+  },
+  {
+    "": 336,
+    "Department": "BLST",
+    "Number": 202,
+    "Name": "Global Women's Literature"
+  },
+  {
+    "": 337,
+    "Department": "BLST",
+    "Number": 203,
+    "Name": "Women Writers of Africa and the African Diaspora"
+  },
+  {
+    "": 338,
+    "Department": "BLST",
+    "Number": 204,
+    "Name": "African Popular Music"
+  },
+  {
+    "": 339,
+    "Department": "BLST",
+    "Number": 205,
+    "Name": "Introduction to Postcolonial Theory"
+  },
+  {
+    "": 340,
+    "Department": "BLST",
+    "Number": 209,
+    "Name": "&ne; (Inequality)"
+  },
+  {
+    "": 341,
+    "Department": "BLST",
+    "Number": 212,
+    "Name": "Digital Africas"
+  },
+  {
+    "": 342,
+    "Department": "BLST",
+    "Number": 214,
+    "Name": "Master Musicians of Africa I: West Africa"
+  },
+  {
+    "": 343,
+    "Department": "BLST",
+    "Number": 221,
+    "Name": "Colonial and Post-Colonial Africa"
+  },
+  {
+    "": 344,
+    "Department": "BLST",
+    "Number": 222,
+    "Name": "South African History"
+  },
+  {
+    "": 345,
+    "Department": "BLST",
+    "Number": 231,
+    "Name": "African American History from the Slave Trade to Reconstruction"
+  },
+  {
+    "": 346,
+    "Department": "BLST",
+    "Number": 232,
+    "Name": "Foundations of African American Literature"
+  },
+  {
+    "": 347,
+    "Department": "BLST",
+    "Number": 234,
+    "Name": "Jazz History to 1945: Emergence, Early Development, and Innovation"
+  },
+  {
+    "": 348,
+    "Department": "BLST",
+    "Number": 235,
+    "Name": "Black Panther, Black Power"
+  },
+  {
+    "": 349,
+    "Department": "BLST",
+    "Number": 236,
+    "Name": "Black Sexualities"
+  },
+  {
+    "": 350,
+    "Department": "BLST",
+    "Number": 237,
+    "Name": "Incarcerating Blackness"
+  },
+  {
+    "": 351,
+    "Department": "BLST",
+    "Number": 238,
+    "Name": "African-American Religious History"
+  },
+  {
+    "": 352,
+    "Department": "BLST",
+    "Number": 239,
+    "Name": "Segregated America"
+  },
+  {
+    "": 353,
+    "Department": "BLST",
+    "Number": 242,
+    "Name": "Black Women's Narratives and Counternarratives: Love and the Family"
+  },
+  {
+    "": 354,
+    "Department": "BLST",
+    "Number": 244,
+    "Name": "Jazz History After 1945: Experimentalism, Pluralism, and Traditionalism"
+  },
+  {
+    "": 355,
+    "Department": "BLST",
+    "Number": 247,
+    "Name": "Panther Theory:&nbsp; Reading Black Power"
+  },
+  {
+    "": 356,
+    "Department": "BLST",
+    "Number": 248,
+    "Name": "Race and American Capitalism:&nbsp; from Slavery to Ferguson"
+  },
+  {
+    "": 357,
+    "Department": "BLST",
+    "Number": 253,
+    "Name": "The Colonial City: Global Perspectives"
+  },
+  {
+    "": 358,
+    "Department": "BLST",
+    "Number": 291,
+    "Name": "Black Radicalism in the Global South"
+  },
+  {
+    "": 359,
+    "Department": "BLST",
+    "Number": 293,
+    "Name": "African Art and the Diaspora"
+  },
+  {
+    "": 360,
+    "Department": "BLST",
+    "Number": 294,
+    "Name": "Black Europe"
+  },
+  {
+    "": 361,
+    "Department": "BLST",
+    "Number": 295,
+    "Name": "Black Existentialism"
+  },
+  {
+    "": 362,
+    "Department": "BLST",
+    "Number": 296,
+    "Name": "The Concept of Race"
+  },
+  {
+    "": 363,
+    "Department": "BLST",
+    "Number": 300,
+    "Name": "Research in Black Studies"
+  },
+  {
+    "": 364,
+    "Department": "BLST",
+    "Number": 309,
+    "Name": "Africa/Brazil"
+  },
+  {
+    "": 365,
+    "Department": "BLST",
+    "Number": 313,
+    "Name": "Visual Arts and Orature in Africa"
+  },
+  {
+    "": 366,
+    "Department": "BLST",
+    "Number": 315,
+    "Name": "Myth, Ritual and Iconography in West Africa"
+  },
+  {
+    "": 367,
+    "Department": "BLST",
+    "Number": 316,
+    "Name": "Five Colleges Capstone Course in African Studies"
+  },
+  {
+    "": 368,
+    "Department": "BLST",
+    "Number": 321,
+    "Name": "Riot and Rebellion in Colonial and Post-Colonial Africa"
+  },
+  {
+    "": 369,
+    "Department": "BLST",
+    "Number": 327,
+    "Name": "The Politics of Intervention in Africa"
+  },
+  {
+    "": 370,
+    "Department": "BLST",
+    "Number": 330,
+    "Name": "Spike Lee&rsquo;s Joints"
+  },
+  {
+    "": 371,
+    "Department": "BLST",
+    "Number": 331,
+    "Name": "Afro-Latinos"
+  },
+  {
+    "": 372,
+    "Department": "BLST",
+    "Number": 332,
+    "Name": "Red/Black Literature: At the Crossroads of Native American and African American Literary Histories"
+  },
+  {
+    "": 373,
+    "Department": "BLST",
+    "Number": 336,
+    "Name": "Contours of a Colorblind Culture"
+  },
+  {
+    "": 374,
+    "Department": "BLST",
+    "Number": 341,
+    "Name": "Topics in African American History: Race and Educational Opportunity in America"
+  },
+  {
+    "": 375,
+    "Department": "BLST",
+    "Number": 342,
+    "Name": "The Local and Global 1970s"
+  },
+  {
+    "": 376,
+    "Department": "BLST",
+    "Number": 345,
+    "Name": "Black Feminist Literary Traditions"
+  },
+  {
+    "": 377,
+    "Department": "BLST",
+    "Number": 347,
+    "Name": "Race, Sex, and Gender in the U.S. Military"
+  },
+  {
+    "": 378,
+    "Department": "BLST",
+    "Number": 361,
+    "Name": "Race and Nation: The History of Hispaniola"
+  },
+  {
+    "": 379,
+    "Department": "BLST",
+    "Number": 362,
+    "Name": "Childhood in African and Caribbean Literature"
+  },
+  {
+    "": 380,
+    "Department": "BLST",
+    "Number": 365,
+    "Name": "Race and Relationality"
+  },
+  {
+    "": 381,
+    "Department": "BLST",
+    "Number": 371,
+    "Name": "Race and Revolution in Cuban History"
+  },
+  {
+    "": 382,
+    "Department": "BLST",
+    "Number": 377,
+    "Name": "Bad Black Women"
+  },
+  {
+    "": 383,
+    "Department": "BLST",
+    "Number": 381,
+    "Name": "The Age of Emancipation in the Atlantic World, 1790-1900"
+  },
+  {
+    "": 384,
+    "Department": "BLST",
+    "Number": 395,
+    "Name": "Baldwin and the Black Atlantic"
+  },
+  {
+    "": 385,
+    "Department": "BLST",
+    "Number": 412,
+    "Name": "Corporeal States:&nbsp; Body, Nation, Text in Modern African Literature"
+  },
+  {
+    "": 386,
+    "Department": "BLST",
+    "Number": 431,
+    "Name": "The Long Civil Rights Movement"
+  },
+  {
+    "": 387,
+    "Department": "BLST",
+    "Number": 432,
+    "Name": "Exploring Ralph Ellison's <em>Invisible Man</em>"
+  },
+  {
+    "": 388,
+    "Department": "BLST",
+    "Number": 441,
+    "Name": "Ghosts in Shells? Virtuality and Embodiment from Passing to the Posthuman"
+  },
+  {
+    "": 389,
+    "Department": "BLST",
+    "Number": 442,
+    "Name": "Toomer, Faulkner, and Morrison"
+  },
+  {
+    "": 390,
+    "Department": "BLST",
+    "Number": 452,
+    "Name": "Panama Silver, Asian Gold:&nbsp; Reimagining Diasporas, Archives, and the Humanities"
+  },
+  {
+    "": 391,
+    "Department": "BLST",
+    "Number": 461,
+    "Name": "The Creole Imagination"
+  },
+  {
+    "": 392,
+    "Department": "BLST",
+    "Number": "490,",
+    "Name": "390 Special Topics"
+  },
+  {
+    "": 393,
+    "Department": "CHEM",
+    "Number": 100,
+    "Name": "Molecular Gastronomy and Food Science: from Test Tubes to Taste Buds"
+  },
+  {
+    "": 394,
+    "Department": "CHEM",
+    "Number": 151,
+    "Name": "Introductory Chemistry"
+  },
+  {
+    "": 395,
+    "Department": "CHEM",
+    "Number": 155,
+    "Name": "Fundamental Principles of Chemistry"
+  },
+  {
+    "": 396,
+    "Department": "CHEM",
+    "Number": 161,
+    "Name": "Chemical Principles"
+  },
+  {
+    "": 397,
+    "Department": "CHEM",
+    "Number": 191,
+    "Name": "Bridging Macroscopic and Molecular: Teaching and Learning through Experiments"
+  },
+  {
+    "": 398,
+    "Department": "CHEM",
+    "Number": 221,
+    "Name": "Organic Chemistry I"
+  },
+  {
+    "": 399,
+    "Department": "CHEM",
+    "Number": 231,
+    "Name": "Organic Chemistry II"
+  },
+  {
+    "": 400,
+    "Department": "CHEM",
+    "Number": 330,
+    "Name": "Biochemical Principles of Life at the Molecular Level"
+  },
+  {
+    "": 401,
+    "Department": "CHEM",
+    "Number": 331,
+    "Name": "Biochemistry"
+  },
+  {
+    "": 402,
+    "Department": "CHEM",
+    "Number": 351,
+    "Name": "Quantum Chemistry and Spectroscopy"
+  },
+  {
+    "": 403,
+    "Department": "CHEM",
+    "Number": 361,
+    "Name": "Physical Chemistry"
+  },
+  {
+    "": 404,
+    "Department": "CHEM",
+    "Number": 371,
+    "Name": "Inorganic Chemistry"
+  },
+  {
+    "": 405,
+    "Department": "CHEM",
+    "Number": 400,
+    "Name": "Molecular and Cellular Biophysics"
+  },
+  {
+    "": 406,
+    "Department": "CHEM",
+    "Number": 418,
+    "Name": "Advanced Organic Chemistry"
+  },
+  {
+    "": 407,
+    "Department": "CHEM",
+    "Number": "490,",
+    "Name": "390H, 290, 290H, 390, 490H Special Topics"
+  },
+  {
+    "": 435,
+    "Department": "COSC",
+    "Number": 111,
+    "Name": "Introduction to Computer Science I"
+  },
+  {
+    "": 436,
+    "Department": "COSC",
+    "Number": 112,
+    "Name": "Introduction to Computer Science II"
+  },
+  {
+    "": 437,
+    "Department": "COSC",
+    "Number": 161,
+    "Name": "Computer Systems I"
+  },
+  {
+    "": 438,
+    "Department": "COSC",
+    "Number": 201,
+    "Name": "Data Structures and Algorithms I"
+  },
+  {
+    "": 439,
+    "Department": "COSC",
+    "Number": 211,
+    "Name": "Data Structures"
+  },
+  {
+    "": 440,
+    "Department": "COSC",
+    "Number": 231,
+    "Name": "Programming Language Paradigms"
+  },
+  {
+    "": 441,
+    "Department": "COSC",
+    "Number": 241,
+    "Name": "Artificial Intelligence"
+  },
+  {
+    "": 442,
+    "Department": "COSC",
+    "Number": 247,
+    "Name": "Machine Learning"
+  },
+  {
+    "": 443,
+    "Department": "COSC",
+    "Number": 251,
+    "Name": "Principles of Database Design"
+  },
+  {
+    "": 444,
+    "Department": "COSC",
+    "Number": 261,
+    "Name": "Computer Systems II"
+  },
+  {
+    "": 445,
+    "Department": "COSC",
+    "Number": 281,
+    "Name": "Networks and Cryptography"
+  },
+  {
+    "": 446,
+    "Department": "COSC",
+    "Number": 301,
+    "Name": "Data Structures and Algorithms II"
+  },
+  {
+    "": 447,
+    "Department": "COSC",
+    "Number": 321,
+    "Name": "Computer Graphics"
+  },
+  {
+    "": 448,
+    "Department": "COSC",
+    "Number": 331,
+    "Name": "Games"
+  },
+  {
+    "": 449,
+    "Department": "COSC",
+    "Number": 342,
+    "Name": "Mobile Computing and Smart Sensing"
+  },
+  {
+    "": 450,
+    "Department": "COSC",
+    "Number": 352,
+    "Name": "Big Data"
+  },
+  {
+    "": 451,
+    "Department": "COSC",
+    "Number": 371,
+    "Name": "Compiler Design"
+  },
+  {
+    "": 452,
+    "Department": "COSC",
+    "Number": "390,",
+    "Name": "490 Special Topics"
+  },
+  {
+    "": 453,
+    "Department": "COSC",
+    "Number": 401,
+    "Name": "Theoretical Foundations of Computer Science"
+  },
+  {
+    "": 454,
+    "Department": "COSC",
+    "Number": 450,
+    "Name": "Seminar in Computer Science"
+  },
+  {
+    "": 455,
+    "Department": "COSC",
+    "Number": 461,
+    "Name": "Advanced Operating Systems"
+  },
+  {
+    "": 456,
+    "Department": "ECON",
+    "Number": 111,
+    "Name": "An Introduction to Economics"
+  },
+  {
+    "": 457,
+    "Department": "ECON",
+    "Number": "111E",
+    "Name": "An Introduction to Economics with Environmental Applications"
+  },
+  {
+    "": 458,
+    "Department": "ECON",
+    "Number": 208,
+    "Name": "The Economics of Irrationality"
+  },
+  {
+    "": 459,
+    "Department": "ECON",
+    "Number": 210,
+    "Name": "Environmental and Natural Resource Economics"
+  },
+  {
+    "": 460,
+    "Department": "ECON",
+    "Number": 212,
+    "Name": "Public Economics: Environment, Health, and Inequality"
+  },
+  {
+    "": 461,
+    "Department": "ECON",
+    "Number": 214,
+    "Name": "Health Economics and Policy"
+  },
+  {
+    "": 462,
+    "Department": "ECON",
+    "Number": 223,
+    "Name": "Economics of Migration"
+  },
+  {
+    "": 463,
+    "Department": "ECON",
+    "Number": 225,
+    "Name": "Industrial Organization"
+  },
+  {
+    "": 464,
+    "Department": "ECON",
+    "Number": 226,
+    "Name": "Law and Economics"
+  },
+  {
+    "": 465,
+    "Department": "ECON",
+    "Number": 227,
+    "Name": "International Trade"
+  },
+  {
+    "": 466,
+    "Department": "ECON",
+    "Number": 235,
+    "Name": "Open-Economy Macroeconomics"
+  },
+  {
+    "": 467,
+    "Department": "ECON",
+    "Number": 237,
+    "Name": "Financial Globalization, Growth and Crises"
+  },
+  {
+    "": 468,
+    "Department": "ECON",
+    "Number": 245,
+    "Name": "Development Economics"
+  },
+  {
+    "": 469,
+    "Department": "ECON",
+    "Number": 252,
+    "Name": "Statistical Principles, Ethics and Institutions"
+  },
+  {
+    "": 470,
+    "Department": "ECON",
+    "Number": 265,
+    "Name": "Money and Economic Activity"
+  },
+  {
+    "": 471,
+    "Department": "ECON",
+    "Number": 271,
+    "Name": "Economic History of the United States, 1600-1860"
+  },
+  {
+    "": 472,
+    "Department": "ECON",
+    "Number": 272,
+    "Name": "Economic History of the United States, 1865-1965"
+  },
+  {
+    "": 473,
+    "Department": "ECON",
+    "Number": 275,
+    "Name": "Consumption and the Pursuit of Happiness"
+  },
+  {
+    "": 474,
+    "Department": "ECON",
+    "Number": 300,
+    "Name": "Microeconomics"
+  },
+  {
+    "": 475,
+    "Department": "ECON",
+    "Number": 301,
+    "Name": "Advanced Microeconomics"
+  },
+  {
+    "": 476,
+    "Department": "ECON",
+    "Number": 330,
+    "Name": "Macroeconomics"
+  },
+  {
+    "": 477,
+    "Department": "ECON",
+    "Number": 331,
+    "Name": "Advanced Macroeconomics"
+  },
+  {
+    "": 478,
+    "Department": "ECON",
+    "Number": 360,
+    "Name": "Econometrics"
+  },
+  {
+    "": 479,
+    "Department": "ECON",
+    "Number": 361,
+    "Name": "Advanced Econometrics"
+  },
+  {
+    "": 480,
+    "Department": "ECON",
+    "Number": 408,
+    "Name": "Behavioral Economics"
+  },
+  {
+    "": 481,
+    "Department": "ECON",
+    "Number": 410,
+    "Name": "Microeconomics of Development"
+  },
+  {
+    "": 482,
+    "Department": "ECON",
+    "Number": 412,
+    "Name": "Applied Microeconomics Seminar"
+  },
+  {
+    "": 483,
+    "Department": "ECON",
+    "Number": 414,
+    "Name": "Urban Economics"
+  },
+  {
+    "": 484,
+    "Department": "ECON",
+    "Number": 416,
+    "Name": "Evaluating Social Policy"
+  },
+  {
+    "": 485,
+    "Department": "ECON",
+    "Number": 420,
+    "Name": "Game Theory and Applications"
+  },
+  {
+    "": 486,
+    "Department": "ECON",
+    "Number": 423,
+    "Name": "The Economics of Finance"
+  },
+  {
+    "": 487,
+    "Department": "ECON",
+    "Number": 425,
+    "Name": "Microeconomic Foundations of Consumption and Happiness"
+  },
+  {
+    "": 488,
+    "Department": "ECON",
+    "Number": 435,
+    "Name": "Topics in Open-Economy Macroeconomics"
+  },
+  {
+    "": 489,
+    "Department": "ECON",
+    "Number": 441,
+    "Name": "Information and Incentives in Macroeconomics"
+  },
+  {
+    "": 490,
+    "Department": "ECON",
+    "Number": 457,
+    "Name": "Macroeconomic Analysis of the Labor Market"
+  },
+  {
+    "": 491,
+    "Department": "ECON",
+    "Number": 470,
+    "Name": "Mechanism Design"
+  },
+  {
+    "": 492,
+    "Department": "ECON",
+    "Number": 471,
+    "Name": "Economic History Seminar"
+  },
+  {
+    "": 493,
+    "Department": "ECON",
+    "Number": 473,
+    "Name": "History of Economic Thought"
+  },
+  {
+    "": 494,
+    "Department": "ECON",
+    "Number": 479,
+    "Name": "Institutions and Governance"
+  },
+  {
+    "": 495,
+    "Department": "ECON",
+    "Number": "490,",
+    "Name": "490H, 390, 290 Special Topics"
+  },
+  {
+    "": 496,
+    "Department": "ECON",
+    "Number": 498,
+    "Name": "Senior Departmental Honors Seminar"
+  },
+  {
+    "": 497,
+    "Department": "ENGL",
+    "Number": 104,
+    "Name": "Engaging the Arts"
+  },
+  {
+    "": 498,
+    "Department": "ENGL",
+    "Number": 105,
+    "Name": "Engaging Literature:&nbsp; Close Reading"
+  },
+  {
+    "": 499,
+    "Department": "ENGL",
+    "Number": 106,
+    "Name": "Engaging Literature:&nbsp; Craft, Conversation, Community"
+  },
+  {
+    "": 500,
+    "Department": "ENGL",
+    "Number": 111,
+    "Name": "Having Arguments"
+  },
+  {
+    "": 501,
+    "Department": "ENGL",
+    "Number": 112,
+    "Name": "Realism"
+  },
+  {
+    "": 502,
+    "Department": "ENGL",
+    "Number": 117,
+    "Name": "Arthurian Literature"
+  },
+  {
+    "": 503,
+    "Department": "ENGL",
+    "Number": 120,
+    "Name": "Reading, Writing, and Teaching"
+  },
+  {
+    "": 504,
+    "Department": "ENGL",
+    "Number": 125,
+    "Name": "Representing Illness"
+  },
+  {
+    "": 505,
+    "Department": "ENGL",
+    "Number": 153,
+    "Name": "New Women in America"
+  },
+  {
+    "": 506,
+    "Department": "ENGL",
+    "Number": 180,
+    "Name": "Film and Writing"
+  },
+  {
+    "": 507,
+    "Department": "ENGL",
+    "Number": 216,
+    "Name": "Women Writers of Africa and the African Diaspora"
+  },
+  {
+    "": 508,
+    "Department": "ENGL",
+    "Number": 217,
+    "Name": "Making Literary Histories I"
+  },
+  {
+    "": 509,
+    "Department": "ENGL",
+    "Number": 218,
+    "Name": "Making Literary Histories II"
+  },
+  {
+    "": 510,
+    "Department": "ENGL",
+    "Number": 221,
+    "Name": "Writing Poetry I"
+  },
+  {
+    "": 511,
+    "Department": "ENGL",
+    "Number": 222,
+    "Name": "Playwriting I"
+  },
+  {
+    "": 512,
+    "Department": "ENGL",
+    "Number": 223,
+    "Name": "Sound, Movement, and Text: Interactions and Collaborations"
+  },
+  {
+    "": 513,
+    "Department": "ENGL",
+    "Number": 226,
+    "Name": "Fiction Writing I"
+  },
+  {
+    "": 514,
+    "Department": "ENGL",
+    "Number": 230,
+    "Name": "Introduction to Performance Theory"
+  },
+  {
+    "": 515,
+    "Department": "ENGL",
+    "Number": 231,
+    "Name": "Three, Two, One: Reading Small Drama"
+  },
+  {
+    "": 516,
+    "Department": "ENGL",
+    "Number": 232,
+    "Name": "Reading Drama"
+  },
+  {
+    "": 517,
+    "Department": "ENGL",
+    "Number": 240,
+    "Name": "Reading Poetry"
+  },
+  {
+    "": 518,
+    "Department": "ENGL",
+    "Number": 242,
+    "Name": "Long Poems"
+  },
+  {
+    "": 519,
+    "Department": "ENGL",
+    "Number": 250,
+    "Name": "Reading the Novel"
+  },
+  {
+    "": 520,
+    "Department": "ENGL",
+    "Number": 252,
+    "Name": "Criticizing Fiction"
+  },
+  {
+    "": 521,
+    "Department": "ENGL",
+    "Number": 257,
+    "Name": "Postcolonial Archipelagos"
+  },
+  {
+    "": 522,
+    "Department": "ENGL",
+    "Number": 259,
+    "Name": "Black Women's Narratives and Counternarratives: Love and the Family"
+  },
+  {
+    "": 523,
+    "Department": "ENGL",
+    "Number": 272,
+    "Name": "A Primer to Children&rsquo;s Literature"
+  },
+  {
+    "": 524,
+    "Department": "ENGL",
+    "Number": 273,
+    "Name": "When Corn Mother Meets King Corn:&nbsp; Cultural Studies of the Americas"
+  },
+  {
+    "": 525,
+    "Department": "ENGL",
+    "Number": 274,
+    "Name": "Native American Literature:&nbsp; Decolonizing Intellectual Traditions"
+  },
+  {
+    "": 526,
+    "Department": "ENGL",
+    "Number": 275,
+    "Name": "Foundations of African American Literature"
+  },
+  {
+    "": 527,
+    "Department": "ENGL",
+    "Number": 276,
+    "Name": "Black Feminist Literary Traditions"
+  },
+  {
+    "": 528,
+    "Department": "ENGL",
+    "Number": 277,
+    "Name": "Videogames and the Boundaries of Narrative"
+  },
+  {
+    "": 529,
+    "Department": "ENGL",
+    "Number": 278,
+    "Name": "Digital Africas"
+  },
+  {
+    "": 530,
+    "Department": "ENGL",
+    "Number": 279,
+    "Name": "Global Women's Literature"
+  },
+  {
+    "": 531,
+    "Department": "ENGL",
+    "Number": 280,
+    "Name": "Coming to Terms: Cinema"
+  },
+  {
+    "": 532,
+    "Department": "ENGL",
+    "Number": 281,
+    "Name": "Foundations and Integrations:&nbsp; Film and Media Studies"
+  },
+  {
+    "": 533,
+    "Department": "ENGL",
+    "Number": 282,
+    "Name": "Knowing Television"
+  },
+  {
+    "": 534,
+    "Department": "ENGL",
+    "Number": 287,
+    "Name": "Introduction to Super 8 Film and Digital Video"
+  },
+  {
+    "": 535,
+    "Department": "ENGL",
+    "Number": 295,
+    "Name": "Literature and Psychoanalysis"
+  },
+  {
+    "": 536,
+    "Department": "ENGL",
+    "Number": 304,
+    "Name": "Narratives of Suffering"
+  },
+  {
+    "": 537,
+    "Department": "ENGL",
+    "Number": 306,
+    "Name": "Modern British and American Poetry, 1900-1950"
+  },
+  {
+    "": 538,
+    "Department": "ENGL",
+    "Number": 307,
+    "Name": "Poetry of the Closet"
+  },
+  {
+    "": 539,
+    "Department": "ENGL",
+    "Number": 308,
+    "Name": "Expatriate Poets"
+  },
+  {
+    "": 540,
+    "Department": "ENGL",
+    "Number": 310,
+    "Name": "Animals in Contemporary Global Novels"
+  },
+  {
+    "": 541,
+    "Department": "ENGL",
+    "Number": 315,
+    "Name": "Vladimir Nabokov and the Writing of Exile"
+  },
+  {
+    "": 542,
+    "Department": "ENGL",
+    "Number": 316,
+    "Name": "Out of China:&nbsp; Transnational Literatures of the Chinese Diaspora"
+  },
+  {
+    "": 543,
+    "Department": "ENGL",
+    "Number": 318,
+    "Name": "Childhood in African and Caribbean Literature"
+  },
+  {
+    "": 544,
+    "Department": "ENGL",
+    "Number": 319,
+    "Name": "The Postcolonial Novel: Gender, Race and Empire"
+  },
+  {
+    "": 545,
+    "Department": "ENGL",
+    "Number": 320,
+    "Name": "Literature as Translation"
+  },
+  {
+    "": 546,
+    "Department": "ENGL",
+    "Number": 322,
+    "Name": "Playwriting Studio"
+  },
+  {
+    "": 547,
+    "Department": "ENGL",
+    "Number": 324,
+    "Name": "Writing Poetry II"
+  },
+  {
+    "": 548,
+    "Department": "ENGL",
+    "Number": 326,
+    "Name": "Fiction Writing II"
+  },
+  {
+    "": 549,
+    "Department": "ENGL",
+    "Number": 332,
+    "Name": "Chaucer: <em>The Canterbury Tales</em>"
+  },
+  {
+    "": 550,
+    "Department": "ENGL",
+    "Number": 337,
+    "Name": "Thinking Law with Shakespeare"
+  },
+  {
+    "": 551,
+    "Department": "ENGL",
+    "Number": 338,
+    "Name": "Shakespeare"
+  },
+  {
+    "": 552,
+    "Department": "ENGL",
+    "Number": 339,
+    "Name": "Early Women Writers"
+  },
+  {
+    "": 553,
+    "Department": "ENGL",
+    "Number": 342,
+    "Name": "The Rise of the English Novel"
+  },
+  {
+    "": 554,
+    "Department": "ENGL",
+    "Number": 343,
+    "Name": "British Romantic Poetry:&nbsp; Nature and the Imagination"
+  },
+  {
+    "": 555,
+    "Department": "ENGL",
+    "Number": 348,
+    "Name": "Modern British Literature, 1900-1950"
+  },
+  {
+    "": 556,
+    "Department": "ENGL",
+    "Number": 350,
+    "Name": "American Origins"
+  },
+  {
+    "": 557,
+    "Department": "ENGL",
+    "Number": 355,
+    "Name": "Emily Dickinson"
+  },
+  {
+    "": 558,
+    "Department": "ENGL",
+    "Number": 357,
+    "Name": "Race and Relationality"
+  },
+  {
+    "": 559,
+    "Department": "ENGL",
+    "Number": 358,
+    "Name": "Readings in English and American Fiction, 1950-2010"
+  },
+  {
+    "": 560,
+    "Department": "ENGL",
+    "Number": 359,
+    "Name": "The American Short Story"
+  },
+  {
+    "": 561,
+    "Department": "ENGL",
+    "Number": 368,
+    "Name": "Bad Black Women"
+  },
+  {
+    "": 562,
+    "Department": "ENGL",
+    "Number": 369,
+    "Name": "American Extravaganzas"
+  },
+  {
+    "": 563,
+    "Department": "ENGL",
+    "Number": 373,
+    "Name": "A Decade Under the Influence:&nbsp; U.S. Film of the 1970s"
+  },
+  {
+    "": 564,
+    "Department": "ENGL",
+    "Number": 374,
+    "Name": "Spike Lee&rsquo;s Joints"
+  },
+  {
+    "": 565,
+    "Department": "ENGL",
+    "Number": 376,
+    "Name": "Experimental Narrative Cinema in a Global Context"
+  },
+  {
+    "": 566,
+    "Department": "ENGL",
+    "Number": 377,
+    "Name": "The Documentary Impulse"
+  },
+  {
+    "": 567,
+    "Department": "ENGL",
+    "Number": 381,
+    "Name": "Cinema and Everyday Life"
+  },
+  {
+    "": 568,
+    "Department": "ENGL",
+    "Number": 382,
+    "Name": "American Avant-Garde Cinema"
+  },
+  {
+    "": 569,
+    "Department": "ENGL",
+    "Number": 388,
+    "Name": "Screenwriting"
+  },
+  {
+    "": 570,
+    "Department": "ENGL",
+    "Number": 395,
+    "Name": "Literature and the Nonhuman World"
+  },
+  {
+    "": 571,
+    "Department": "ENGL",
+    "Number": 397,
+    "Name": "Editors and Authors"
+  },
+  {
+    "": 572,
+    "Department": "ENGL",
+    "Number": 412,
+    "Name": "Medieval Manuscripts"
+  },
+  {
+    "": 573,
+    "Department": "ENGL",
+    "Number": 417,
+    "Name": "Holocaust Literature"
+  },
+  {
+    "": 574,
+    "Department": "ENGL",
+    "Number": 427,
+    "Name": "Crafting the Novel"
+  },
+  {
+    "": 575,
+    "Department": "ENGL",
+    "Number": 431,
+    "Name": "Transnational Shakespeares"
+  },
+  {
+    "": 576,
+    "Department": "ENGL",
+    "Number": 433,
+    "Name": "Renaissance Drama and Media History"
+  },
+  {
+    "": 577,
+    "Department": "ENGL",
+    "Number": 434,
+    "Name": "Technology and Performance"
+  },
+  {
+    "": 578,
+    "Department": "ENGL",
+    "Number": 435,
+    "Name": "The Play of Ideas"
+  },
+  {
+    "": 579,
+    "Department": "ENGL",
+    "Number": 438,
+    "Name": "Solitude and the Self in British Romanticism"
+  },
+  {
+    "": 580,
+    "Department": "ENGL",
+    "Number": 439,
+    "Name": "Poetry 1914-2014:&nbsp; The American Century"
+  },
+  {
+    "": 581,
+    "Department": "ENGL",
+    "Number": 440,
+    "Name": "Imitations"
+  },
+  {
+    "": 582,
+    "Department": "ENGL",
+    "Number": 441,
+    "Name": "Medieval and Renaissance Lyric"
+  },
+  {
+    "": 583,
+    "Department": "ENGL",
+    "Number": 443,
+    "Name": "The Wordsworths"
+  },
+  {
+    "": 584,
+    "Department": "ENGL",
+    "Number": 446,
+    "Name": "Lyrics and More"
+  },
+  {
+    "": 585,
+    "Department": "ENGL",
+    "Number": 449,
+    "Name": "Avant-Garde Poetry"
+  },
+  {
+    "": 586,
+    "Department": "ENGL",
+    "Number": 454,
+    "Name": "Toomer, Faulkner, and Morrison"
+  },
+  {
+    "": 587,
+    "Department": "ENGL",
+    "Number": 456,
+    "Name": "Ghosts in Shells? Virtuality and Embodiment from Passing to the Posthuman"
+  },
+  {
+    "": 588,
+    "Department": "ENGL",
+    "Number": 457,
+    "Name": "Exploring Ralph Ellison's <em>Invisible Man</em>"
+  },
+  {
+    "": 589,
+    "Department": "ENGL",
+    "Number": 458,
+    "Name": "Indigenous American Epics"
+  },
+  {
+    "": 590,
+    "Department": "ENGL",
+    "Number": 462,
+    "Name": "Film and Video Curation"
+  },
+  {
+    "": 591,
+    "Department": "ENGL",
+    "Number": 471,
+    "Name": "Corporeal States:&nbsp; Body, Nation, Text in Modern African Literature"
+  },
+  {
+    "": 592,
+    "Department": "ENGL",
+    "Number": 474,
+    "Name": "Panama Silver, Asian Gold:&nbsp; Reimagining Diasporas, Archives, and the Humanities"
+  },
+  {
+    "": 593,
+    "Department": "ENGL",
+    "Number": 475,
+    "Name": "Serial Fictions: The Victorian Novel and Contemporary Television"
+  },
+  {
+    "": 594,
+    "Department": "ENGL",
+    "Number": 477,
+    "Name": "The Confession:&nbsp; Theory and Practice"
+  },
+  {
+    "": 595,
+    "Department": "ENGL",
+    "Number": 478,
+    "Name": "&ldquo;Having a Voice&rdquo;:&nbsp; Theories of Voice and Documentary"
+  },
+  {
+    "": 596,
+    "Department": "ENGL",
+    "Number": 481,
+    "Name": "Conversations with Experimental Filmmakers"
+  },
+  {
+    "": 597,
+    "Department": "ENGL",
+    "Number": 486,
+    "Name": "Inventing Film Theory"
+  },
+  {
+    "": 598,
+    "Department": "ENGL",
+    "Number": 490,
+    "Name": "Special Topics"
+  },
+  {
+    "": 599,
+    "Department": "ENGL",
+    "Number": 491,
+    "Name": "The Creole Imagination"
+  },
+  {
+    "": 600,
+    "Department": "ENGL",
+    "Number": 496,
+    "Name": "Literary and Critical Theory"
+  },
+  {
+    "": 601,
+    "Department": "ENGL",
+    "Number": "498,",
+    "Name": "499 Senior Tutorial"
+  },
+  {
+    "": 602,
+    "Department": "ENST",
+    "Number": 120,
+    "Name": "The Resilient (?) Earth: An Introduction to Environmental Studies"
+  },
+  {
+    "": 603,
+    "Department": "ENST",
+    "Number": 160,
+    "Name": "The Politics of Food"
+  },
+  {
+    "": 604,
+    "Department": "ENST",
+    "Number": 210,
+    "Name": "Ecology"
+  },
+  {
+    "": 605,
+    "Department": "ENST",
+    "Number": 220,
+    "Name": "Environmental Issues of the Nineteenth Century"
+  },
+  {
+    "": 606,
+    "Department": "ENST",
+    "Number": 228,
+    "Name": "Environmental Philosophy"
+  },
+  {
+    "": 607,
+    "Department": "ENST",
+    "Number": 230,
+    "Name": "An Introduction to Economics with Environmental Applications"
+  },
+  {
+    "": 608,
+    "Department": "ENST",
+    "Number": 240,
+    "Name": "Introduction to Statistics"
+  },
+  {
+    "": 609,
+    "Department": "ENST",
+    "Number": 250,
+    "Name": "Environmental Politics and Policies"
+  },
+  {
+    "": 610,
+    "Department": "ENST",
+    "Number": 252,
+    "Name": "U. S. Environmental Policy"
+  },
+  {
+    "": 611,
+    "Department": "ENST",
+    "Number": 260,
+    "Name": "Global Environmental Politics"
+  },
+  {
+    "": 612,
+    "Department": "ENST",
+    "Number": 310,
+    "Name": "Conservation Social Science"
+  },
+  {
+    "": 613,
+    "Department": "ENST",
+    "Number": 320,
+    "Name": "Knowledge, Politics and the Environment"
+  },
+  {
+    "": 614,
+    "Department": "ENST",
+    "Number": 330,
+    "Name": "Environmental Justice"
+  },
+  {
+    "": 615,
+    "Department": "ENST",
+    "Number": 401,
+    "Name": "Wine, History, and the Environment"
+  },
+  {
+    "": 616,
+    "Department": "ENST",
+    "Number": 441,
+    "Name": "Seminar in Conservation Biology."
+  },
+  {
+    "": 617,
+    "Department": "ENST",
+    "Number": 464,
+    "Name": "Seminar: Population Ethics"
+  },
+  {
+    "": 618,
+    "Department": "ENST",
+    "Number": 490,
+    "Name": "Special Topics"
+  },
+  {
+    "": 619,
+    "Department": "ENST",
+    "Number": 495,
+    "Name": "Senior Seminar"
+  },
+  {
+    "": 620,
+    "Department": "ENST",
+    "Number": 499,
+    "Name": "Senior Departmental Honors"
+  },
+  {
+    "": 621,
+    "Department": "EUST",
+    "Number": 101,
+    "Name": "Discovering Music: Listening Through History"
+  },
+  {
+    "": 622,
+    "Department": "EUST",
+    "Number": 117,
+    "Name": "Arthurian Literature"
+  },
+  {
+    "": 623,
+    "Department": "EUST",
+    "Number": 121,
+    "Name": "Readings in the European Tradition I"
+  },
+  {
+    "": 624,
+    "Department": "EUST",
+    "Number": 122,
+    "Name": "Readings in the European Tradition II"
+  },
+  {
+    "": 625,
+    "Department": "EUST",
+    "Number": 123,
+    "Name": "Europe in the Middle Ages"
+  },
+  {
+    "": 626,
+    "Department": "EUST",
+    "Number": 124,
+    "Name": "Europe in Transition, 1350-1750"
+  },
+  {
+    "": 627,
+    "Department": "EUST",
+    "Number": 130,
+    "Name": "World War I"
+  },
+  {
+    "": 628,
+    "Department": "EUST",
+    "Number": 133,
+    "Name": "Europe in the Twentieth Century"
+  },
+  {
+    "": 629,
+    "Department": "EUST",
+    "Number": 135,
+    "Name": "Art and Architecture of Europe from 1400 to 1800"
+  },
+  {
+    "": 630,
+    "Department": "EUST",
+    "Number": 145,
+    "Name": "The Modern World"
+  },
+  {
+    "": 631,
+    "Department": "EUST",
+    "Number": 201,
+    "Name": "Napoleon's Legends"
+  },
+  {
+    "": 632,
+    "Department": "EUST",
+    "Number": 202,
+    "Name": "World War II in European Literature and Film"
+  },
+  {
+    "": 633,
+    "Department": "EUST",
+    "Number": 215,
+    "Name": "Modernism and Revolution"
+  },
+  {
+    "": 634,
+    "Department": "EUST",
+    "Number": 216,
+    "Name": "Creativity and Revolution"
+  },
+  {
+    "": 635,
+    "Department": "EUST",
+    "Number": 220,
+    "Name": "Art, Politics, and Propaganda in Modern Europe"
+  },
+  {
+    "": 636,
+    "Department": "EUST",
+    "Number": 221,
+    "Name": "Music and Culture I"
+  },
+  {
+    "": 637,
+    "Department": "EUST",
+    "Number": 222,
+    "Name": "Music and Culture II"
+  },
+  {
+    "": 638,
+    "Department": "EUST",
+    "Number": 223,
+    "Name": "Music and Culture III"
+  },
+  {
+    "": 639,
+    "Department": "EUST",
+    "Number": 224,
+    "Name": "The Century of Sex: Gender and Sexual Politics in Modern Europe"
+  },
+  {
+    "": 640,
+    "Department": "EUST",
+    "Number": 225,
+    "Name": "The Age of Chivalry, 1000-1500"
+  },
+  {
+    "": 641,
+    "Department": "EUST",
+    "Number": 226,
+    "Name": "Women and War in European History, 1558-1918"
+  },
+  {
+    "": 642,
+    "Department": "EUST",
+    "Number": 227,
+    "Name": "Early Modern England, 1558-1702: Renaissance, Reformation, and Revolution"
+  },
+  {
+    "": 643,
+    "Department": "EUST",
+    "Number": 228,
+    "Name": "Vladimir Nabokov and the Writing of Exile"
+  },
+  {
+    "": 644,
+    "Department": "EUST",
+    "Number": 230,
+    "Name": "The French Revolution"
+  },
+  {
+    "": 645,
+    "Department": "EUST",
+    "Number": 231,
+    "Name": "Race and Empire: The British Experience from 1760"
+  },
+  {
+    "": 646,
+    "Department": "EUST",
+    "Number": 232,
+    "Name": "Representation and Reality in Spanish Cinema"
+  },
+  {
+    "": 647,
+    "Department": "EUST",
+    "Number": 233,
+    "Name": "Love"
+  },
+  {
+    "": 648,
+    "Department": "EUST",
+    "Number": 234,
+    "Name": "Nazi Germany"
+  },
+  {
+    "": 649,
+    "Department": "EUST",
+    "Number": 235,
+    "Name": "Impostors"
+  },
+  {
+    "": 650,
+    "Department": "EUST",
+    "Number": 238,
+    "Name": "Soviet Union During the Cold War"
+  },
+  {
+    "": 651,
+    "Department": "EUST",
+    "Number": 240,
+    "Name": "The Last Russian Revolution: State and Society from the Late Soviet Period to the Present"
+  },
+  {
+    "": 652,
+    "Department": "EUST",
+    "Number": 242,
+    "Name": "European Intellectual History in the Twentieth Century"
+  },
+  {
+    "": 653,
+    "Department": "EUST",
+    "Number": 243,
+    "Name": "Childhood and Child Welfare in Modern Europe"
+  },
+  {
+    "": 654,
+    "Department": "EUST",
+    "Number": 245,
+    "Name": "Stalin and Stalinism"
+  },
+  {
+    "": 655,
+    "Department": "EUST",
+    "Number": 255,
+    "Name": "Art and Politics in Russia, 1860 to the Present"
+  },
+  {
+    "": 656,
+    "Department": "EUST",
+    "Number": 259,
+    "Name": "Shakespeare in Prison"
+  },
+  {
+    "": 657,
+    "Department": "EUST",
+    "Number": 264,
+    "Name": "<em>Don Quixote</em><em></em>"
+  },
+  {
+    "": 658,
+    "Department": "EUST",
+    "Number": 265,
+    "Name": "Forbidden"
+  },
+  {
+    "": 659,
+    "Department": "EUST",
+    "Number": 284,
+    "Name": "Women and Art in Early Modern Europe"
+  },
+  {
+    "": 660,
+    "Department": "EUST",
+    "Number": 294,
+    "Name": "Black Europe"
+  },
+  {
+    "": 661,
+    "Department": "EUST",
+    "Number": 303,
+    "Name": "Literature as Translation"
+  },
+  {
+    "": 662,
+    "Department": "EUST",
+    "Number": 317,
+    "Name": "Women in Early Modern Spain"
+  },
+  {
+    "": 663,
+    "Department": "EUST",
+    "Number": 321,
+    "Name": "European Economic Take-Off in Global Perspective, 750-1750"
+  },
+  {
+    "": 664,
+    "Department": "EUST",
+    "Number": 329,
+    "Name": "A Price for Everything: Making of a Market Society"
+  },
+  {
+    "": 665,
+    "Department": "EUST",
+    "Number": 331,
+    "Name": "Travel"
+  },
+  {
+    "": 666,
+    "Department": "EUST",
+    "Number": 332,
+    "Name": "Gender, Class, and Crime: the Victorian Underworld"
+  },
+  {
+    "": 667,
+    "Department": "EUST",
+    "Number": 335,
+    "Name": "European Migrations"
+  },
+  {
+    "": 668,
+    "Department": "EUST",
+    "Number": 339,
+    "Name": "Defining the Modern: Russia Between Tsars and Communists"
+  },
+  {
+    "": 669,
+    "Department": "EUST",
+    "Number": 340,
+    "Name": "Violence, Art, and Memory of the Spanish Civil War"
+  },
+  {
+    "": 670,
+    "Department": "EUST",
+    "Number": 354,
+    "Name": "War and Memory"
+  },
+  {
+    "": 671,
+    "Department": "EUST",
+    "Number": 355,
+    "Name": "Renaissance Illusions: Art, Matter, Spirit"
+  },
+  {
+    "": 672,
+    "Department": "EUST",
+    "Number": 356,
+    "Name": "Baroque Art in Italy, France, Spain, and the Spanish Netherlands"
+  },
+  {
+    "": 673,
+    "Department": "EUST",
+    "Number": 363,
+    "Name": "Traumatic Events"
+  },
+  {
+    "": 674,
+    "Department": "EUST",
+    "Number": 364,
+    "Name": "Architectures of Disappearance"
+  },
+  {
+    "": 675,
+    "Department": "EUST",
+    "Number": 365,
+    "Name": "Making Memorials"
+  },
+  {
+    "": 676,
+    "Department": "EUST",
+    "Number": 368,
+    "Name": "SPACE"
+  },
+  {
+    "": 677,
+    "Department": "EUST",
+    "Number": 369,
+    "Name": "TIME"
+  },
+  {
+    "": 678,
+    "Department": "EUST",
+    "Number": 374,
+    "Name": "Medieval and Renaissance Lyric"
+  },
+  {
+    "": 679,
+    "Department": "EUST",
+    "Number": 384,
+    "Name": "To Sculpt a Modern Woman's Life"
+  },
+  {
+    "": 680,
+    "Department": "EUST",
+    "Number": 385,
+    "Name": "Witches, Vampires and Other Monsters"
+  },
+  {
+    "": 681,
+    "Department": "EUST",
+    "Number": 412,
+    "Name": "Medieval Manuscripts"
+  },
+  {
+    "": 682,
+    "Department": "EUST",
+    "Number": 417,
+    "Name": "Holocaust Literature"
+  },
+  {
+    "": 683,
+    "Department": "EUST",
+    "Number": 452,
+    "Name": "The Earthly Paradise"
+  },
+  {
+    "": 684,
+    "Department": "EUST",
+    "Number": "490,",
+    "Name": "390 Special Topics"
+  },
+  {
+    "": 685,
+    "Department": "EUST",
+    "Number": "499D,",
+    "Name": ", 498, 499 Senior Departmental Honors"
+  },
+  {
+    "": 686,
+    "Department": "FAMS",
+    "Number": 110,
+    "Name": "Film and Writing"
+  },
+  {
+    "": 687,
+    "Department": "FAMS",
+    "Number": 210,
+    "Name": "Coming to Terms: Cinema"
+  },
+  {
+    "": 688,
+    "Department": "FAMS",
+    "Number": 213,
+    "Name": "Knowing Cinema"
+  },
+  {
+    "": 689,
+    "Department": "FAMS",
+    "Number": 215,
+    "Name": "Knowing Television"
+  },
+  {
+    "": 690,
+    "Department": "FAMS",
+    "Number": 220,
+    "Name": "Foundations and Integrations:&nbsp; Film and Media Studies"
+  },
+  {
+    "": 691,
+    "Department": "FAMS",
+    "Number": 221,
+    "Name": "Foundations in Video Production"
+  },
+  {
+    "": 692,
+    "Department": "FAMS",
+    "Number": 226,
+    "Name": "Video Production: Bodies in Motion"
+  },
+  {
+    "": 693,
+    "Department": "FAMS",
+    "Number": 228,
+    "Name": "Introduction to Super 8 Film and Digital Video"
+  },
+  {
+    "": 694,
+    "Department": "FAMS",
+    "Number": 240,
+    "Name": "Screenwriting"
+  },
+  {
+    "": 695,
+    "Department": "FAMS",
+    "Number": 312,
+    "Name": "Pioneer Valley Soundscapes"
+  },
+  {
+    "": 696,
+    "Department": "FAMS",
+    "Number": 320,
+    "Name": "Japan on Screen"
+  },
+  {
+    "": 697,
+    "Department": "FAMS",
+    "Number": 321,
+    "Name": "European Film"
+  },
+  {
+    "": 698,
+    "Department": "FAMS",
+    "Number": 322,
+    "Name": "South Asian Feminist Cinema"
+  },
+  {
+    "": 699,
+    "Department": "FAMS",
+    "Number": 323,
+    "Name": "Weimar Cinema: The \"Golden Age\" of German Film"
+  },
+  {
+    "": 700,
+    "Department": "FAMS",
+    "Number": 326,
+    "Name": "Popular Cinema"
+  },
+  {
+    "": 701,
+    "Department": "FAMS",
+    "Number": 327,
+    "Name": "Toward the New Wave"
+  },
+  {
+    "": 702,
+    "Department": "FAMS",
+    "Number": 328,
+    "Name": "Representation and Reality in Spanish Cinema"
+  },
+  {
+    "": 703,
+    "Department": "FAMS",
+    "Number": 329,
+    "Name": "Russian and Soviet Film"
+  },
+  {
+    "": 704,
+    "Department": "FAMS",
+    "Number": 333,
+    "Name": "Videogames and the Boundaries of Narrative"
+  },
+  {
+    "": 705,
+    "Department": "FAMS",
+    "Number": 335,
+    "Name": "Experiments in 16mm Film"
+  },
+  {
+    "": 706,
+    "Department": "FAMS",
+    "Number": 342,
+    "Name": "Performance in Place: Site Specific&nbsp;"
+  },
+  {
+    "": 707,
+    "Department": "FAMS",
+    "Number": 345,
+    "Name": "Performance Studio"
+  },
+  {
+    "": 708,
+    "Department": "FAMS",
+    "Number": 350,
+    "Name": "Experimental Narrative Cinema in a Global Context"
+  },
+  {
+    "": 709,
+    "Department": "FAMS",
+    "Number": 351,
+    "Name": "Cinema and Everyday Life"
+  },
+  {
+    "": 710,
+    "Department": "FAMS",
+    "Number": 352,
+    "Name": "Latin American Cinema"
+  },
+  {
+    "": 711,
+    "Department": "FAMS",
+    "Number": 353,
+    "Name": "A Decade Under the Influence:&nbsp; U.S. Film of the 1970s"
+  },
+  {
+    "": 712,
+    "Department": "FAMS",
+    "Number": 358,
+    "Name": "Spike Lee&rsquo;s Joints"
+  },
+  {
+    "": 713,
+    "Department": "FAMS",
+    "Number": 368,
+    "Name": "SPACE"
+  },
+  {
+    "": 714,
+    "Department": "FAMS",
+    "Number": 370,
+    "Name": "Traumatic Events"
+  },
+  {
+    "": 715,
+    "Department": "FAMS",
+    "Number": 377,
+    "Name": "Women, Gender and Popular Culture"
+  },
+  {
+    "": 716,
+    "Department": "FAMS",
+    "Number": 378,
+    "Name": "Visual Anthropology"
+  },
+  {
+    "": 717,
+    "Department": "FAMS",
+    "Number": 379,
+    "Name": "Black Feminist Literary Traditions"
+  },
+  {
+    "": 718,
+    "Department": "FAMS",
+    "Number": 381,
+    "Name": "American Avant-Garde Cinema"
+  },
+  {
+    "": 719,
+    "Department": "FAMS",
+    "Number": 383,
+    "Name": "The Documentary Impulse"
+  },
+  {
+    "": 720,
+    "Department": "FAMS",
+    "Number": 421,
+    "Name": "Inventing Film Theory"
+  },
+  {
+    "": 721,
+    "Department": "FAMS",
+    "Number": 441,
+    "Name": "Documentary Production"
+  },
+  {
+    "": 722,
+    "Department": "FAMS",
+    "Number": 444,
+    "Name": "Films That Try: Essay Film Production"
+  },
+  {
+    "": 723,
+    "Department": "FAMS",
+    "Number": 451,
+    "Name": "Ghosts in Shells? Virtuality and Embodiment from Passing to the Posthuman"
+  },
+  {
+    "": 724,
+    "Department": "FAMS",
+    "Number": 455,
+    "Name": "The Confession:&nbsp; Theory and Practice"
+  },
+  {
+    "": 725,
+    "Department": "FAMS",
+    "Number": 462,
+    "Name": "Film and Video Curation"
+  },
+  {
+    "": 726,
+    "Department": "FAMS",
+    "Number": 475,
+    "Name": "Serial Fictions: The Victorian Novel and Contemporary Television"
+  },
+  {
+    "": 727,
+    "Department": "FAMS",
+    "Number": 478,
+    "Name": "&ldquo;Having a Voice&rdquo;:&nbsp; Theories of Voice and Documentary"
+  },
+  {
+    "": 728,
+    "Department": "FAMS",
+    "Number": 481,
+    "Name": "Conversations with Experimental Filmmakers"
+  },
+  {
+    "": 729,
+    "Department": "FAMS",
+    "Number": 490,
+    "Name": "Special Topics"
+  },
+  {
+    "": 730,
+    "Department": "FREN",
+    "Number": 101,
+    "Name": "Elementary French"
+  },
+  {
+    "": 731,
+    "Department": "FREN",
+    "Number": 103,
+    "Name": "Intermediate French"
+  },
+  {
+    "": 732,
+    "Department": "FREN",
+    "Number": 205,
+    "Name": "Language and Literature"
+  },
+  {
+    "": 733,
+    "Department": "FREN",
+    "Number": 207,
+    "Name": "Introduction to French Literature and Culture"
+  },
+  {
+    "": 734,
+    "Department": "FREN",
+    "Number": 208,
+    "Name": "French Conversation"
+  },
+  {
+    "": 735,
+    "Department": "FREN",
+    "Number": 314,
+    "Name": "From Ast&eacute;rix to Houellebecq: Translating Contemporary French"
+  },
+  {
+    "": 736,
+    "Department": "FREN",
+    "Number": 320,
+    "Name": "Literary Masks of the Late French Middle Ages"
+  },
+  {
+    "": 737,
+    "Department": "FREN",
+    "Number": 321,
+    "Name": "Amor and Metaphor in the Early French Middle Ages"
+  },
+  {
+    "": 738,
+    "Department": "FREN",
+    "Number": 324,
+    "Name": "Studies in Medieval Romance Literature and Culture"
+  },
+  {
+    "": 739,
+    "Department": "FREN",
+    "Number": 327,
+    "Name": "Humanism and the Renaissance"
+  },
+  {
+    "": 740,
+    "Department": "FREN",
+    "Number": 330,
+    "Name": "The Doing and Undoing of Genres in the Seventeenth and Eighteenth Centuries"
+  },
+  {
+    "": 741,
+    "Department": "FREN",
+    "Number": 339,
+    "Name": "Worldliness and Otherworldliness"
+  },
+  {
+    "": 742,
+    "Department": "FREN",
+    "Number": 342,
+    "Name": "Women of Ill Repute: Prostitutes in Nineteenth-Century French Literature"
+  },
+  {
+    "": 743,
+    "Department": "FREN",
+    "Number": 346,
+    "Name": "<em>Enfants Terribles:</em> Childhood in Nineteenth-Century French Literature and Culture"
+  },
+  {
+    "": 744,
+    "Department": "FREN",
+    "Number": 347,
+    "Name": "Dream Worlds: Utopia and the French Imagination"
+  },
+  {
+    "": 745,
+    "Department": "FREN",
+    "Number": 352,
+    "Name": "The Space In-Between: Writing Exile and Return in the Twentieth Century"
+  },
+  {
+    "": 746,
+    "Department": "FREN",
+    "Number": 354,
+    "Name": "War and Memory"
+  },
+  {
+    "": 747,
+    "Department": "FREN",
+    "Number": 356,
+    "Name": "Troubled Minds: The Self under Siege"
+  },
+  {
+    "": 748,
+    "Department": "FREN",
+    "Number": 360,
+    "Name": "Masterpieces of French Literature in Translation"
+  },
+  {
+    "": 749,
+    "Department": "FREN",
+    "Number": 361,
+    "Name": "European Film"
+  },
+  {
+    "": 750,
+    "Department": "FREN",
+    "Number": 365,
+    "Name": "Toward the New Wave"
+  },
+  {
+    "": 751,
+    "Department": "FREN",
+    "Number": 369,
+    "Name": "Madame Butterfly Lives: Cross-Cultural Exchanges in France and Japan"
+  },
+  {
+    "": 752,
+    "Department": "FREN",
+    "Number": "410H",
+    "Name": "French in Practice for Senior Majors"
+  },
+  {
+    "": 753,
+    "Department": "FREN",
+    "Number": 490,
+    "Name": "Special Topics"
+  },
+  {
+    "": 754,
+    "Department": "GEOL",
+    "Number": 105,
+    "Name": "Introduction to Oceanography"
+  },
+  {
+    "": 755,
+    "Department": "GEOL",
+    "Number": 107,
+    "Name": "Biodiversity and Ecology of Marine Environments"
+  },
+  {
+    "": 756,
+    "Department": "GEOL",
+    "Number": 109,
+    "Name": "Climate Change, Global Warming and Energy Resources"
+  },
+  {
+    "": 757,
+    "Department": "GEOL",
+    "Number": 111,
+    "Name": "Principles of Geology"
+  },
+  {
+    "": 758,
+    "Department": "GEOL",
+    "Number": 121,
+    "Name": "Surface Earth Dynamics"
+  },
+  {
+    "": 759,
+    "Department": "GEOL",
+    "Number": 251,
+    "Name": "Paleontology and Geobiology"
+  },
+  {
+    "": 760,
+    "Department": "GEOL",
+    "Number": 271,
+    "Name": "Mineralogy"
+  },
+  {
+    "": 761,
+    "Department": "GEOL",
+    "Number": 291,
+    "Name": "Structural Geology"
+  },
+  {
+    "": 762,
+    "Department": "GEOL",
+    "Number": 301,
+    "Name": "Hydrogeology"
+  },
+  {
+    "": 763,
+    "Department": "GEOL",
+    "Number": 311,
+    "Name": "Sedimentology and Stratigraphy"
+  },
+  {
+    "": 764,
+    "Department": "GEOL",
+    "Number": 321,
+    "Name": "Igneous and Metamorphic Petrology"
+  },
+  {
+    "": 765,
+    "Department": "GEOL",
+    "Number": 331,
+    "Name": "Paleoclimatology\n&nbsp;"
+  },
+  {
+    "": 766,
+    "Department": "GEOL",
+    "Number": 341,
+    "Name": "Environmental and Solid Earth Geophysics"
+  },
+  {
+    "": 767,
+    "Department": "GEOL",
+    "Number": 401,
+    "Name": "Plate Tectonics and Continental Dynamics"
+  },
+  {
+    "": 768,
+    "Department": "GEOL",
+    "Number": 431,
+    "Name": "Geochemistry"
+  },
+  {
+    "": 769,
+    "Department": "GEOL",
+    "Number": 450,
+    "Name": "Seminar in Biogeochemistry"
+  },
+  {
+    "": 770,
+    "Department": "GEOL",
+    "Number": 490,
+    "Name": "Special Topics"
+  },
+  {
+    "": 771,
+    "Department": "GERM",
+    "Number": 101,
+    "Name": "Elementary German I"
+  },
+  {
+    "": 772,
+    "Department": "GERM",
+    "Number": 102,
+    "Name": "Elementary German II"
+  },
+  {
+    "": 773,
+    "Department": "GERM",
+    "Number": 205,
+    "Name": "Intermediate German"
+  },
+  {
+    "": 774,
+    "Department": "GERM",
+    "Number": 210,
+    "Name": "Advanced Composition and Conversation"
+  },
+  {
+    "": 775,
+    "Department": "GERM",
+    "Number": 312,
+    "Name": "Advanced Reading, Conversation, and Composition"
+  },
+  {
+    "": 776,
+    "Department": "GERM",
+    "Number": 315,
+    "Name": "German Cultural History to 1800"
+  },
+  {
+    "": 777,
+    "Department": "GERM",
+    "Number": 316,
+    "Name": "German Cultural History from 1800 to the Present"
+  },
+  {
+    "": 778,
+    "Department": "GERM",
+    "Number": 320,
+    "Name": "Fairy Tales"
+  },
+  {
+    "": 779,
+    "Department": "GERM",
+    "Number": 331,
+    "Name": "Berlin, Metropolis"
+  },
+  {
+    "": 780,
+    "Department": "GERM",
+    "Number": 333,
+    "Name": "Comedy and Humor"
+  },
+  {
+    "": 781,
+    "Department": "GERM",
+    "Number": 334,
+    "Name": "Cold War German Culture, East and West"
+  },
+  {
+    "": 782,
+    "Department": "GERM",
+    "Number": 337,
+    "Name": "G&uuml;nter Grass"
+  },
+  {
+    "": 783,
+    "Department": "GERM",
+    "Number": 344,
+    "Name": "Popular Cinema"
+  },
+  {
+    "": 784,
+    "Department": "GERM",
+    "Number": 347,
+    "Name": "Weimar Cinema: The \"Golden Age\" of German Film"
+  },
+  {
+    "": 785,
+    "Department": "GERM",
+    "Number": 348,
+    "Name": "Nazi Cinema"
+  },
+  {
+    "": 786,
+    "Department": "GERM",
+    "Number": 350,
+    "Name": "Rilke"
+  },
+  {
+    "": 787,
+    "Department": "GERM",
+    "Number": 352,
+    "Name": "Kafka, Brecht, and Thomas Mann"
+  },
+  {
+    "": 788,
+    "Department": "GERM",
+    "Number": 354,
+    "Name": "Nietzsche and Freud"
+  },
+  {
+    "": 789,
+    "Department": "GERM",
+    "Number": 363,
+    "Name": "Traumatic Events"
+  },
+  {
+    "": 790,
+    "Department": "GERM",
+    "Number": 364,
+    "Name": "Architectures of Disappearance"
+  },
+  {
+    "": 791,
+    "Department": "GERM",
+    "Number": 365,
+    "Name": "Making Memorials"
+  },
+  {
+    "": 792,
+    "Department": "GERM",
+    "Number": 368,
+    "Name": "SPACE"
+  },
+  {
+    "": 793,
+    "Department": "GERM",
+    "Number": "390,",
+    "Name": "490 Special Topics"
+  },
+  {
+    "": 794,
+    "Department": "HIST",
+    "Number": 101,
+    "Name": "World War II in Global Perspective"
+  },
+  {
+    "": 795,
+    "Department": "HIST",
+    "Number": 104,
+    "Name": "Environmental Issues of the Nineteenth Century"
+  },
+  {
+    "": 796,
+    "Department": "HIST",
+    "Number": 105,
+    "Name": "Global Environmental History of the Twentieth Century"
+  },
+  {
+    "": 797,
+    "Department": "HIST",
+    "Number": 123,
+    "Name": "Europe in the Middle Ages"
+  },
+  {
+    "": 798,
+    "Department": "HIST",
+    "Number": 124,
+    "Name": "Europe in Transition, 1350-1750"
+  },
+  {
+    "": 799,
+    "Department": "HIST",
+    "Number": 130,
+    "Name": "World War I"
+  },
+  {
+    "": 800,
+    "Department": "HIST",
+    "Number": 132,
+    "Name": "Europe in the Twentieth Century"
+  },
+  {
+    "": 801,
+    "Department": "HIST",
+    "Number": 144,
+    "Name": "Nineteenth-Century America"
+  },
+  {
+    "": 802,
+    "Department": "HIST",
+    "Number": 155,
+    "Name": "Twentieth-Century America"
+  },
+  {
+    "": 803,
+    "Department": "HIST",
+    "Number": 156,
+    "Name": "The U.S. in the World: 1756-1898"
+  },
+  {
+    "": 804,
+    "Department": "HIST",
+    "Number": 157,
+    "Name": "The U.S. in the World: 1898 to the Present"
+  },
+  {
+    "": 805,
+    "Department": "HIST",
+    "Number": 162,
+    "Name": "History of Sexuality in the U.S."
+  },
+  {
+    "": 806,
+    "Department": "HIST",
+    "Number": 165,
+    "Name": "An Introduction to U.S. Latino/a History, 1848--Present"
+  },
+  {
+    "": 807,
+    "Department": "HIST",
+    "Number": 172,
+    "Name": "Modern China"
+  },
+  {
+    "": 808,
+    "Department": "HIST",
+    "Number": 173,
+    "Name": "Introduction to Medieval and Early Modern South Asia: From the Delhi Sultanates to Mughal Successor States, 1200-1800 A.D."
+  },
+  {
+    "": 809,
+    "Department": "HIST",
+    "Number": 174,
+    "Name": "Introduction to Modern South Asian History"
+  },
+  {
+    "": 810,
+    "Department": "HIST",
+    "Number": 175,
+    "Name": "Japanese History to 1700s"
+  },
+  {
+    "": 811,
+    "Department": "HIST",
+    "Number": 176,
+    "Name": "Modern Japanese History from 1800 to the 2000s"
+  },
+  {
+    "": 812,
+    "Department": "HIST",
+    "Number": 181,
+    "Name": "Colonial and Post-Colonial Africa"
+  },
+  {
+    "": 813,
+    "Department": "HIST",
+    "Number": 191,
+    "Name": "The Modern Middle East: 1800-Present"
+  },
+  {
+    "": 814,
+    "Department": "HIST",
+    "Number": 204,
+    "Name": "Jewish History in the Modern Age"
+  },
+  {
+    "": 815,
+    "Department": "HIST",
+    "Number": 208,
+    "Name": "Spain and the Pacific World, 1571-1898"
+  },
+  {
+    "": 816,
+    "Department": "HIST",
+    "Number": 209,
+    "Name": "&ne; (Inequality)"
+  },
+  {
+    "": 817,
+    "Department": "HIST",
+    "Number": 212,
+    "Name": "Disease and Doctors: An Introduction to the History of Western Medicine"
+  },
+  {
+    "": 818,
+    "Department": "HIST",
+    "Number": 213,
+    "Name": "Turning Points in the History of Science"
+  },
+  {
+    "": 819,
+    "Department": "HIST",
+    "Number": 214,
+    "Name": "Science and Society in Modern America"
+  },
+  {
+    "": 820,
+    "Department": "HIST",
+    "Number": 220,
+    "Name": "Art, Politics, and Propaganda in Modern Europe"
+  },
+  {
+    "": 821,
+    "Department": "HIST",
+    "Number": 224,
+    "Name": "The Century of Sex: Gender and Sexual Politics in Modern Europe"
+  },
+  {
+    "": 822,
+    "Department": "HIST",
+    "Number": 225,
+    "Name": "The Age of Chivalry, 1000-1500"
+  },
+  {
+    "": 823,
+    "Department": "HIST",
+    "Number": 226,
+    "Name": "Women and War in European History, 1558-1918"
+  },
+  {
+    "": 824,
+    "Department": "HIST",
+    "Number": 227,
+    "Name": "Early Modern England, 1558-1702: Renaissance, Reformation, and Revolution"
+  },
+  {
+    "": 825,
+    "Department": "HIST",
+    "Number": 230,
+    "Name": "The French Revolution"
+  },
+  {
+    "": 826,
+    "Department": "HIST",
+    "Number": 231,
+    "Name": "Race and Empire: The British Experience from 1760"
+  },
+  {
+    "": 827,
+    "Department": "HIST",
+    "Number": 232,
+    "Name": "European Intellectual History in the Twentieth Century"
+  },
+  {
+    "": 828,
+    "Department": "HIST",
+    "Number": 233,
+    "Name": "Childhood and Child Welfare in Modern Europe"
+  },
+  {
+    "": 829,
+    "Department": "HIST",
+    "Number": 234,
+    "Name": "Nazi Germany"
+  },
+  {
+    "": 830,
+    "Department": "HIST",
+    "Number": 235,
+    "Name": "Stalin and Stalinism"
+  },
+  {
+    "": 831,
+    "Department": "HIST",
+    "Number": 236,
+    "Name": "Soviet Union During the Cold War"
+  },
+  {
+    "": 832,
+    "Department": "HIST",
+    "Number": 239,
+    "Name": "Segregated America"
+  },
+  {
+    "": 833,
+    "Department": "HIST",
+    "Number": 240,
+    "Name": "The Last Russian Revolution: State and Society from the Late Soviet Period to the Present"
+  },
+  {
+    "": 834,
+    "Department": "HIST",
+    "Number": 242,
+    "Name": "Material Culture of American Homes"
+  },
+  {
+    "": 835,
+    "Department": "HIST",
+    "Number": 245,
+    "Name": "U.S. Carceral Culture"
+  },
+  {
+    "": 836,
+    "Department": "HIST",
+    "Number": 246,
+    "Name": "Race and American Capitalism:&nbsp; from Slavery to Ferguson"
+  },
+  {
+    "": 837,
+    "Department": "HIST",
+    "Number": 247,
+    "Name": "African American History from the Slave Trade to Reconstruction"
+  },
+  {
+    "": 838,
+    "Department": "HIST",
+    "Number": 251,
+    "Name": "The Immigrant City"
+  },
+  {
+    "": 839,
+    "Department": "HIST",
+    "Number": 254,
+    "Name": "American Foreign Policy Since the End of the Cold War"
+  },
+  {
+    "": 840,
+    "Department": "HIST",
+    "Number": 257,
+    "Name": "Post-Cold War American Diplomacy"
+  },
+  {
+    "": 841,
+    "Department": "HIST",
+    "Number": 258,
+    "Name": "Political Economy of the Modern Middle East"
+  },
+  {
+    "": 842,
+    "Department": "HIST",
+    "Number": 259,
+    "Name": "U.S. Security Policy in the Middle East"
+  },
+  {
+    "": 843,
+    "Department": "HIST",
+    "Number": 264,
+    "Name": "Introduction to Latin America: Conquest, Colonization and Rebellion"
+  },
+  {
+    "": 844,
+    "Department": "HIST",
+    "Number": 265,
+    "Name": "Environmental History of Latin America"
+  },
+  {
+    "": 845,
+    "Department": "HIST",
+    "Number": 266,
+    "Name": "State Violence, Memory, and Reconciliation in Latin America since 1960"
+  },
+  {
+    "": 846,
+    "Department": "HIST",
+    "Number": 267,
+    "Name": "Introduction to the Black Atlantic"
+  },
+  {
+    "": 847,
+    "Department": "HIST",
+    "Number": 271,
+    "Name": "Caste and Politics of Inequality in India"
+  },
+  {
+    "": 848,
+    "Department": "HIST",
+    "Number": 276,
+    "Name": "Perspectives on Chinese History"
+  },
+  {
+    "": 849,
+    "Department": "HIST",
+    "Number": 283,
+    "Name": "South African History"
+  },
+  {
+    "": 850,
+    "Department": "HIST",
+    "Number": 291,
+    "Name": "Black Radicalism in the Global South"
+  },
+  {
+    "": 851,
+    "Department": "HIST",
+    "Number": 294,
+    "Name": "The History of Israel"
+  },
+  {
+    "": 852,
+    "Department": "HIST",
+    "Number": 301,
+    "Name": "Proseminar in History: Writing the Past"
+  },
+  {
+    "": 853,
+    "Department": "HIST",
+    "Number": 319,
+    "Name": "Religion, Empires, and Secular States in the Nineteenth Century"
+  },
+  {
+    "": 854,
+    "Department": "HIST",
+    "Number": 321,
+    "Name": "European Economic Take-Off in Global Perspective, 750-1750"
+  },
+  {
+    "": 855,
+    "Department": "HIST",
+    "Number": 335,
+    "Name": "European Migrations"
+  },
+  {
+    "": 856,
+    "Department": "HIST",
+    "Number": 339,
+    "Name": "A Price for Everything: Making of a Market Society"
+  },
+  {
+    "": 857,
+    "Department": "HIST",
+    "Number": 345,
+    "Name": "Gender and Sexuality in Latin America"
+  },
+  {
+    "": 858,
+    "Department": "HIST",
+    "Number": 350,
+    "Name": "Africa/Brazil"
+  },
+  {
+    "": 859,
+    "Department": "HIST",
+    "Number": 355,
+    "Name": "Topics in African American History: Race and Educational Opportunity in America"
+  },
+  {
+    "": 860,
+    "Department": "HIST",
+    "Number": 356,
+    "Name": "U. S. Wars: Korea to Afghanistan, Politics and Writing, 1950-2012"
+  },
+  {
+    "": 861,
+    "Department": "HIST",
+    "Number": 360,
+    "Name": "People's History of Revolutionary America"
+  },
+  {
+    "": 862,
+    "Department": "HIST",
+    "Number": 362,
+    "Name": "National Security Decision Making"
+  },
+  {
+    "": 863,
+    "Department": "HIST",
+    "Number": 365,
+    "Name": "The Age of Emancipation in the Atlantic World, 1790-1900"
+  },
+  {
+    "": 864,
+    "Department": "HIST",
+    "Number": 370,
+    "Name": "Japan's Empire in Asia, 1868-1945"
+  },
+  {
+    "": 865,
+    "Department": "HIST",
+    "Number": 374,
+    "Name": "WWII and Japanese Americans"
+  },
+  {
+    "": 866,
+    "Department": "HIST",
+    "Number": 393,
+    "Name": "Early Islam: Construction of an Historical Tradition"
+  },
+  {
+    "": 867,
+    "Department": "HIST",
+    "Number": 397,
+    "Name": "The Politics of Gender in the Middle East"
+  },
+  {
+    "": 868,
+    "Department": "HIST",
+    "Number": 402,
+    "Name": "Wine, History, and the Environment"
+  },
+  {
+    "": 869,
+    "Department": "HIST",
+    "Number": 411,
+    "Name": "Commodities, Nature and Society"
+  },
+  {
+    "": 870,
+    "Department": "HIST",
+    "Number": 419,
+    "Name": "On Nationalism"
+  },
+  {
+    "": 871,
+    "Department": "HIST",
+    "Number": 432,
+    "Name": "Gender, Class, and Crime: the Victorian Underworld"
+  },
+  {
+    "": 872,
+    "Department": "HIST",
+    "Number": 439,
+    "Name": "Defining the Modern: Russia Between Tsars and Communists"
+  },
+  {
+    "": 873,
+    "Department": "HIST",
+    "Number": 450,
+    "Name": "Sex and Law in Colonial America"
+  },
+  {
+    "": 874,
+    "Department": "HIST",
+    "Number": 453,
+    "Name": "The Era of the American Revolution"
+  },
+  {
+    "": 875,
+    "Department": "HIST",
+    "Number": 455,
+    "Name": "The Long Civil Rights Movement"
+  },
+  {
+    "": 876,
+    "Department": "HIST",
+    "Number": 458,
+    "Name": "1960's America: Left, Right, and Center"
+  },
+  {
+    "": 877,
+    "Department": "HIST",
+    "Number": 459,
+    "Name": "America and Vietnam"
+  },
+  {
+    "": 878,
+    "Department": "HIST",
+    "Number": 460,
+    "Name": "Intelligence and U.S. National Security Policymaking"
+  },
+  {
+    "": 879,
+    "Department": "HIST",
+    "Number": 466,
+    "Name": "Mexican Material and Visual Culture"
+  },
+  {
+    "": 880,
+    "Department": "HIST",
+    "Number": 475,
+    "Name": "Theory/History/Japan"
+  },
+  {
+    "": 881,
+    "Department": "HIST",
+    "Number": 477,
+    "Name": "The History and Memory of the Asia-Pacific War"
+  },
+  {
+    "": 882,
+    "Department": "HIST",
+    "Number": 488,
+    "Name": "Riot and Rebellion in Colonial and Post-Colonial Africa"
+  },
+  {
+    "": 883,
+    "Department": "HIST",
+    "Number": 489,
+    "Name": "An Era of Translation: The Nineteenth-Century Ottoman Empire"
+  },
+  {
+    "": 884,
+    "Department": "HIST",
+    "Number": "490,",
+    "Name": "390 Special Topics"
+  },
+  {
+    "": 885,
+    "Department": "HIST",
+    "Number": 492,
+    "Name": "Inside Iran"
+  },
+  {
+    "": 886,
+    "Department": "HIST",
+    "Number": 493,
+    "Name": "Turkey: From Ataturk to Erdogan"
+  },
+  {
+    "": 887,
+    "Department": "HIST",
+    "Number": 494,
+    "Name": "Istanbul"
+  },
+  {
+    "": 888,
+    "Department": "HIST",
+    "Number": "498,",
+    "Name": "499D, 499 Senior Departmental Honors"
+  },
+  {
+    "": 889,
+    "Department": "LJST",
+    "Number": 101,
+    "Name": "The Social Organization of Law"
+  },
+  {
+    "": 890,
+    "Department": "LJST",
+    "Number": 103,
+    "Name": "Legal Institutions and Democratic Practice"
+  },
+  {
+    "": 891,
+    "Department": "LJST",
+    "Number": 105,
+    "Name": "Race, Place, and the Law"
+  },
+  {
+    "": 892,
+    "Department": "LJST",
+    "Number": 110,
+    "Name": "Introduction to Legal Theory"
+  },
+  {
+    "": 893,
+    "Department": "LJST",
+    "Number": 136,
+    "Name": "Law Between Plato and the Poets"
+  },
+  {
+    "": 894,
+    "Department": "LJST",
+    "Number": 143,
+    "Name": "Law's History"
+  },
+  {
+    "": 895,
+    "Department": "LJST",
+    "Number": 165,
+    "Name": "The Politics of International Law"
+  },
+  {
+    "": 896,
+    "Department": "LJST",
+    "Number": 171,
+    "Name": "Between Colonialism and Self-Determination: A History of the International Order"
+  },
+  {
+    "": 897,
+    "Department": "LJST",
+    "Number": 172,
+    "Name": "Global Justice: Problems and Solutions, from the Refugee Crisis to the Zika Virus, to Climate Change"
+  },
+  {
+    "": 898,
+    "Department": "LJST",
+    "Number": 206,
+    "Name": "Apartheid"
+  },
+  {
+    "": 899,
+    "Department": "LJST",
+    "Number": 214,
+    "Name": "What's So Great About (In)Equality?"
+  },
+  {
+    "": 900,
+    "Department": "LJST",
+    "Number": 218,
+    "Name": "Hegel's Philosophy of Right"
+  },
+  {
+    "": 901,
+    "Department": "LJST",
+    "Number": 220,
+    "Name": "Histories of Judgment&nbsp;"
+  },
+  {
+    "": 902,
+    "Department": "LJST",
+    "Number": 226,
+    "Name": "Critical Legal Geographies"
+  },
+  {
+    "": 903,
+    "Department": "LJST",
+    "Number": 227,
+    "Name": "Sustainability and the Fate of Law:&nbsp; Can Law Save the World?"
+  },
+  {
+    "": 904,
+    "Department": "LJST",
+    "Number": 231,
+    "Name": "Social Movements and Social Change"
+  },
+  {
+    "": 905,
+    "Department": "LJST",
+    "Number": 232,
+    "Name": "Marx, Revolution, and the Law"
+  },
+  {
+    "": 906,
+    "Department": "LJST",
+    "Number": 235,
+    "Name": "Law's Nature: Humans, the Environment and the Predicament of Law"
+  },
+  {
+    "": 907,
+    "Department": "LJST",
+    "Number": 258,
+    "Name": "Cicero: Law and Crisis in the Roman Republic"
+  },
+  {
+    "": 908,
+    "Department": "LJST",
+    "Number": 259,
+    "Name": "Law, Liberty, and Slavery: The French and Haitian Revolutions"
+  },
+  {
+    "": 909,
+    "Department": "LJST",
+    "Number": 266,
+    "Name": "The Laws of Violence: Lawful Killings in Law Enforcement, Punishment, War and the War on Terror"
+  },
+  {
+    "": 910,
+    "Department": "LJST",
+    "Number": 317,
+    "Name": "Thinking Law with Shakespeare"
+  },
+  {
+    "": 911,
+    "Department": "LJST",
+    "Number": 348,
+    "Name": "Law And War"
+  },
+  {
+    "": 912,
+    "Department": "LJST",
+    "Number": 349,
+    "Name": "Law and Love"
+  },
+  {
+    "": 913,
+    "Department": "LJST",
+    "Number": 350,
+    "Name": "Twentieth-Century American Legal Theory"
+  },
+  {
+    "": 914,
+    "Department": "LJST",
+    "Number": 352,
+    "Name": "Film, Myth, and the Law"
+  },
+  {
+    "": 915,
+    "Department": "LJST",
+    "Number": 354,
+    "Name": "The Crisis of Neoliberal Legal Theory"
+  },
+  {
+    "": 916,
+    "Department": "LJST",
+    "Number": 355,
+    "Name": "Animals: Law, Ethics, Biopolitics"
+  },
+  {
+    "": 917,
+    "Department": "LJST",
+    "Number": 356,
+    "Name": "Representing and Judging the Holocaust."
+  },
+  {
+    "": 918,
+    "Department": "LJST",
+    "Number": 357,
+    "Name": "Property, Liberty and Law"
+  },
+  {
+    "": 919,
+    "Department": "LJST",
+    "Number": 374,
+    "Name": "Rights"
+  },
+  {
+    "": 920,
+    "Department": "LJST",
+    "Number": 490,
+    "Name": "Special Topics"
+  },
+  {
+    "": 921,
+    "Department": "LJST",
+    "Number": "499,",
+    "Name": "498 Senior Departmental Honors"
+  },
+  {
+    "": 970,
+    "Department": "MUSI",
+    "Number": 101,
+    "Name": "Discovering Music: Listening Through History"
+  },
+  {
+    "": 971,
+    "Department": "MUSI",
+    "Number": 104,
+    "Name": "Writing Through Popular Music"
+  },
+  {
+    "": 972,
+    "Department": "MUSI",
+    "Number": 105,
+    "Name": "African Popular Music"
+  },
+  {
+    "": 973,
+    "Department": "MUSI",
+    "Number": 106,
+    "Name": "Master Musicians of Africa I: West Africa"
+  },
+  {
+    "": 974,
+    "Department": "MUSI",
+    "Number": 107,
+    "Name": "Sonic Architecture: Sound as Anthropogenic and Experiential Medium"
+  },
+  {
+    "": 975,
+    "Department": "MUSI",
+    "Number": 111,
+    "Name": "Introduction to Music"
+  },
+  {
+    "": 976,
+    "Department": "MUSI",
+    "Number": 112,
+    "Name": "Exploring Music"
+  },
+  {
+    "": 977,
+    "Department": "MUSI",
+    "Number": 113,
+    "Name": "Jazz Theory and Improvisation I"
+  },
+  {
+    "": 978,
+    "Department": "MUSI",
+    "Number": 114,
+    "Name": "Auralized Architectures: Re-Sounding the Ancient Past"
+  },
+  {
+    "": 979,
+    "Department": "MUSI",
+    "Number": 115,
+    "Name": "Bob Marley and the Globalization of Jamaican Popular Music"
+  },
+  {
+    "": 980,
+    "Department": "MUSI",
+    "Number": 123,
+    "Name": "Sacred Sound"
+  },
+  {
+    "": 981,
+    "Department": "MUSI",
+    "Number": 127,
+    "Name": "Music, Human Rights, and Cultural Rights"
+  },
+  {
+    "": 982,
+    "Department": "MUSI",
+    "Number": 221,
+    "Name": "Music and Culture I"
+  },
+  {
+    "": 983,
+    "Department": "MUSI",
+    "Number": 222,
+    "Name": "Music and Culture II"
+  },
+  {
+    "": 984,
+    "Department": "MUSI",
+    "Number": 223,
+    "Name": "Music and Culture III"
+  },
+  {
+    "": 985,
+    "Department": "MUSI",
+    "Number": 226,
+    "Name": "Jazz History to 1945: Emergence, Early Development, and Innovation"
+  },
+  {
+    "": 986,
+    "Department": "MUSI",
+    "Number": 227,
+    "Name": "Jazz History After 1945: Experimentalism, Pluralism, and Traditionalism"
+  },
+  {
+    "": 987,
+    "Department": "MUSI",
+    "Number": 238,
+    "Name": "Pioneer Valley Soundscapes"
+  },
+  {
+    "": 988,
+    "Department": "MUSI",
+    "Number": 241,
+    "Name": "Tonal Harmony and Counterpoint"
+  },
+  {
+    "": 989,
+    "Department": "MUSI",
+    "Number": 242,
+    "Name": "Form in Tonal Music"
+  },
+  {
+    "": 990,
+    "Department": "MUSI",
+    "Number": 243,
+    "Name": "Jazz Form and Analysis"
+  },
+  {
+    "": 991,
+    "Department": "MUSI",
+    "Number": 246,
+    "Name": "Jazz Theory and Improvisation II"
+  },
+  {
+    "": 992,
+    "Department": "MUSI",
+    "Number": 247,
+    "Name": "Advanced Topics in Jazz"
+  },
+  {
+    "": 993,
+    "Department": "MUSI",
+    "Number": 255,
+    "Name": "Sound, Movement, and Text: Interactions and Collaborations"
+  },
+  {
+    "": 994,
+    "Department": "MUSI",
+    "Number": 265,
+    "Name": "Electroacoustic Composition"
+  },
+  {
+    "": 995,
+    "Department": "MUSI",
+    "Number": 266,
+    "Name": "Electroacoustic Performance and Improvisation"
+  },
+  {
+    "": 996,
+    "Department": "MUSI",
+    "Number": 267,
+    "Name": "Song Writing"
+  },
+  {
+    "": 997,
+    "Department": "MUSI",
+    "Number": 269,
+    "Name": "Composition I"
+  },
+  {
+    "": 998,
+    "Department": "MUSI",
+    "Number": "309H,",
+    "Name": ", 309 Chamber Music Seminar I"
+  },
+  {
+    "": 999,
+    "Department": "MUSI",
+    "Number": "310,",
+    "Name": "310H Chamber Music Seminar II"
+  },
+  {
+    "": 1000,
+    "Department": "MUSI",
+    "Number": 352,
+    "Name": "Performance in Place: Site Specific&nbsp;"
+  },
+  {
+    "": 1001,
+    "Department": "MUSI",
+    "Number": 387,
+    "Name": "Composition Seminar I"
+  },
+  {
+    "": 1002,
+    "Department": "MUSI",
+    "Number": 388,
+    "Name": "Composition Seminar II"
+  },
+  {
+    "": 1003,
+    "Department": "MUSI",
+    "Number": "390,",
+    "Name": "490H, 490 Special Topics"
+  },
+  {
+    "": 1004,
+    "Department": "MUSI",
+    "Number": 424,
+    "Name": "Concertos: Analysis and Criticism"
+  },
+  {
+    "": 1005,
+    "Department": "MUSI",
+    "Number": 428,
+    "Name": "Seminar in Popular Music: Popular Music and Cultural Identity"
+  },
+  {
+    "": 1006,
+    "Department": "MUSI",
+    "Number": 429,
+    "Name": "Music, Film and Culture: Ethnographic Perspectives"
+  },
+  {
+    "": 1007,
+    "Department": "MUSI",
+    "Number": 439,
+    "Name": "Improvised Music: Spectrum, Theory, and Practice"
+  },
+  {
+    "": 1008,
+    "Department": "MUSI",
+    "Number": 443,
+    "Name": "Repertoire and Analysis"
+  },
+  {
+    "": 1009,
+    "Department": "MUSI",
+    "Number": 444,
+    "Name": "Twentieth-Century Analysis"
+  },
+  {
+    "": 1010,
+    "Department": "MUSI",
+    "Number": 449,
+    "Name": "Seminar in the Anthropology of Music: Voice"
+  },
+  {
+    "": 1011,
+    "Department": "MUSI",
+    "Number": "499D,",
+    "Name": ", 498, 499, 498D Senior Departmental Honors"
+  },
+  {
+    "": 1012,
+    "Department": "MUSI",
+    "Number": "136H",
+    "Name": "Choral Ensemble (Women's Chorus, Glee Club, Concert Choir)"
+  },
+  {
+    "": 1013,
+    "Department": "MUSI",
+    "Number": "137H",
+    "Name": "Jazz Ensemble"
+  },
+  {
+    "": 1014,
+    "Department": "MUSI",
+    "Number": "138H",
+    "Name": "Jazz Combo Ensemble"
+  },
+  {
+    "": 1015,
+    "Department": "MUSI",
+    "Number": "139H",
+    "Name": "Orchestra Performance"
+  },
+  {
+    "": 1016,
+    "Department": "MUSI",
+    "Number": "140H",
+    "Name": "Orchestral Chamber Music Performance"
+  },
+  {
+    "": 1017,
+    "Department": "MUSI",
+    "Number": "151H",
+    "Name": "Piano Performance Instruction - Beginner"
+  },
+  {
+    "": 1018,
+    "Department": "MUSI",
+    "Number": "152H",
+    "Name": "Performance Instruction - Beginner"
+  },
+  {
+    "": 1019,
+    "Department": "MUSI",
+    "Number": "153H",
+    "Name": "Violin Performance Instruction - Beginner"
+  },
+  {
+    "": 1020,
+    "Department": "MUSI",
+    "Number": "154H",
+    "Name": "Viola Instruction - Beginner"
+  },
+  {
+    "": 1021,
+    "Department": "MUSI",
+    "Number": "155H",
+    "Name": "Trumpet Performance Instruction - Beginner"
+  },
+  {
+    "": 1022,
+    "Department": "MUSI",
+    "Number": "156H",
+    "Name": "Percussion Performance Instruction - Beginner"
+  },
+  {
+    "": 1023,
+    "Department": "MUSI",
+    "Number": "157H",
+    "Name": "Saxophone Performance Instruction - Beginner"
+  },
+  {
+    "": 1024,
+    "Department": "MUSI",
+    "Number": "158H",
+    "Name": "French Horn Performance Instruction - Beginner"
+  },
+  {
+    "": 1025,
+    "Department": "MUSI",
+    "Number": "159H",
+    "Name": "Clarinet Performance Instruction - Beginner"
+  },
+  {
+    "": 1026,
+    "Department": "MUSI",
+    "Number": "160H",
+    "Name": "Cello Performance Instruction - Beginner"
+  },
+  {
+    "": 1027,
+    "Department": "MUSI",
+    "Number": "161H",
+    "Name": "Classical Guitar Performance Instruction - Beginner"
+  },
+  {
+    "": 1028,
+    "Department": "MUSI",
+    "Number": "162H",
+    "Name": "String Bass Performance Instruction - Beginner"
+  },
+  {
+    "": 1029,
+    "Department": "MUSI",
+    "Number": "163H",
+    "Name": "Flute Performance Instruction - Beginner"
+  },
+  {
+    "": 1030,
+    "Department": "MUSI",
+    "Number": "164H",
+    "Name": "Choral Conducting Performance Instruction - Beginner"
+  },
+  {
+    "": 1031,
+    "Department": "MUSI",
+    "Number": "165H",
+    "Name": "Orchestra Conducting Performance Instruction - Beginner"
+  },
+  {
+    "": 1032,
+    "Department": "MUSI",
+    "Number": "166H",
+    "Name": "Fiddle Performance Instruction - Beginner"
+  },
+  {
+    "": 1033,
+    "Department": "MUSI",
+    "Number": "167H",
+    "Name": "Banjo Performance Instruction - Beginner"
+  },
+  {
+    "": 1034,
+    "Department": "MUSI",
+    "Number": "168H",
+    "Name": "Jazz Piano Performance Instruction - Beginner"
+  },
+  {
+    "": 1035,
+    "Department": "MUSI",
+    "Number": "169H",
+    "Name": "Jazz Voice Performance Instruction - Beginner"
+  },
+  {
+    "": 1036,
+    "Department": "MUSI",
+    "Number": "170H",
+    "Name": "Jazz Guitar Performance Instruction - Beginner"
+  },
+  {
+    "": 1037,
+    "Department": "MUSI",
+    "Number": "171H",
+    "Name": "Jazz Bass Performance Instruction - Beginner"
+  },
+  {
+    "": 1038,
+    "Department": "MUSI",
+    "Number": "172H",
+    "Name": "Bassoon Performance Instruction - Beginner"
+  },
+  {
+    "": 1039,
+    "Department": "MUSI",
+    "Number": "173H",
+    "Name": "Organ Performance Instruction - Beginner"
+  },
+  {
+    "": 1040,
+    "Department": "MUSI",
+    "Number": "174H",
+    "Name": "Tuba Performance Instruction - Beginner"
+  },
+  {
+    "": 1041,
+    "Department": "MUSI",
+    "Number": "175H",
+    "Name": "Trombone Performance Instruction - Beginner"
+  },
+  {
+    "": 1042,
+    "Department": "MUSI",
+    "Number": "176H",
+    "Name": "Harp Performance Instruction - Beginner"
+  },
+  {
+    "": 1043,
+    "Department": "MUSI",
+    "Number": "177H",
+    "Name": "Oboe Performance Instruction - Beginner"
+  },
+  {
+    "": 1044,
+    "Department": "MUSI",
+    "Number": "178H",
+    "Name": "Mallets Performance Instruction - Beginner"
+  },
+  {
+    "": 1045,
+    "Department": "MUSI",
+    "Number": "179H",
+    "Name": "Recorder Performance Instruction - Beginner"
+  },
+  {
+    "": 1046,
+    "Department": "MUSI",
+    "Number": "180H",
+    "Name": "Harpsichord Performance Instruction - Beginner"
+  },
+  {
+    "": 1047,
+    "Department": "MUSI",
+    "Number": "181H",
+    "Name": "Improvisation Performance Instruction - Beginner"
+  },
+  {
+    "": 1048,
+    "Department": "MUSI",
+    "Number": "351H",
+    "Name": "Piano Performance Instruction - Intermediate"
+  },
+  {
+    "": 1049,
+    "Department": "MUSI",
+    "Number": "352H",
+    "Name": "Voice Performance Instruction - Intermediate"
+  },
+  {
+    "": 1050,
+    "Department": "MUSI",
+    "Number": "353H",
+    "Name": "Violin Performance Instruction - Intermediate"
+  },
+  {
+    "": 1051,
+    "Department": "MUSI",
+    "Number": "354H",
+    "Name": "Viola Performance Instruction - Intermediate"
+  },
+  {
+    "": 1052,
+    "Department": "MUSI",
+    "Number": "355H",
+    "Name": "Trumpet Performance Instruction - Intermediate"
+  },
+  {
+    "": 1053,
+    "Department": "MUSI",
+    "Number": "356H",
+    "Name": "Percussion Performance Instruction - Intermediate"
+  },
+  {
+    "": 1054,
+    "Department": "MUSI",
+    "Number": "357H",
+    "Name": "Saxophone Performance Instruction - Intermediate"
+  },
+  {
+    "": 1055,
+    "Department": "MUSI",
+    "Number": "358H",
+    "Name": "French Horn Performance Instruction - Intermediate"
+  },
+  {
+    "": 1056,
+    "Department": "MUSI",
+    "Number": "359H",
+    "Name": "Clarinet Performance Instruction - Intermediate"
+  },
+  {
+    "": 1057,
+    "Department": "MUSI",
+    "Number": "360H",
+    "Name": "Cello Performance Instruction - Intermediate"
+  },
+  {
+    "": 1058,
+    "Department": "MUSI",
+    "Number": "361H",
+    "Name": "Guitar Performance Instruction - Intermediate"
+  },
+  {
+    "": 1059,
+    "Department": "MUSI",
+    "Number": "362H",
+    "Name": "String Bass Performance Instruction - Intermediate"
+  },
+  {
+    "": 1060,
+    "Department": "MUSI",
+    "Number": "363H",
+    "Name": "Flute Performance Instruction - Intermediate"
+  },
+  {
+    "": 1061,
+    "Department": "MUSI",
+    "Number": "364H",
+    "Name": "Choral Conducting Performance Instruction - Intermediate"
+  },
+  {
+    "": 1062,
+    "Department": "MUSI",
+    "Number": "365H",
+    "Name": "Orchestra Conducting Performance Instruction - Intermediate"
+  },
+  {
+    "": 1063,
+    "Department": "MUSI",
+    "Number": "366H",
+    "Name": "Fiddle Performance Instruction - Intermediate"
+  },
+  {
+    "": 1064,
+    "Department": "MUSI",
+    "Number": "367H",
+    "Name": "Banjo Performance Instruction - Intermediate"
+  },
+  {
+    "": 1065,
+    "Department": "MUSI",
+    "Number": "368H",
+    "Name": "Jazz Piano Performance Instruction - Intermediate"
+  },
+  {
+    "": 1066,
+    "Department": "MUSI",
+    "Number": "369H",
+    "Name": "Jazz Voice Performance Instruction - Intermediate"
+  },
+  {
+    "": 1067,
+    "Department": "MUSI",
+    "Number": "370H",
+    "Name": "Jazz Guitar Performance Instruction - Intermediate"
+  },
+  {
+    "": 1068,
+    "Department": "MUSI",
+    "Number": "371H",
+    "Name": "Jazz Bass Performance Instruction - Intermediate"
+  },
+  {
+    "": 1069,
+    "Department": "MUSI",
+    "Number": "372H",
+    "Name": "Bassoon Performance Instruction - Intermediate"
+  },
+  {
+    "": 1070,
+    "Department": "MUSI",
+    "Number": "373H",
+    "Name": "Organ Performance Instruction - Intermediate"
+  },
+  {
+    "": 1071,
+    "Department": "MUSI",
+    "Number": "374H",
+    "Name": "Tuba Performance Instruction - Intermediate"
+  },
+  {
+    "": 1072,
+    "Department": "MUSI",
+    "Number": "375H",
+    "Name": "Trombone Performance Instruction - Intermediate"
+  },
+  {
+    "": 1073,
+    "Department": "MUSI",
+    "Number": "376H",
+    "Name": "Harp Performance Instruction - Intermediate"
+  },
+  {
+    "": 1074,
+    "Department": "MUSI",
+    "Number": "377H",
+    "Name": "Oboe Performance Instruction - Intermediate"
+  },
+  {
+    "": 1075,
+    "Department": "MUSI",
+    "Number": "378H",
+    "Name": "Mallets Performance Instruction - Intermediate"
+  },
+  {
+    "": 1076,
+    "Department": "MUSI",
+    "Number": "379H",
+    "Name": "Recorder Performance Instruction - Intermediate"
+  },
+  {
+    "": 1077,
+    "Department": "MUSI",
+    "Number": "380H",
+    "Name": "Harpsichord Performance Instruction - Intermediate"
+  },
+  {
+    "": 1078,
+    "Department": "MUSI",
+    "Number": "381H",
+    "Name": "Improvisation Performance Instruction - Intermediate"
+  },
+  {
+    "": 1079,
+    "Department": "MUSI",
+    "Number": "451H",
+    "Name": "Piano Performance Instruction - Advanced"
+  },
+  {
+    "": 1080,
+    "Department": "MUSI",
+    "Number": "452H",
+    "Name": "Voice Performance Instruction - Advanced"
+  },
+  {
+    "": 1081,
+    "Department": "MUSI",
+    "Number": "453H",
+    "Name": "Violin Performance Instruction - Advanced"
+  },
+  {
+    "": 1082,
+    "Department": "MUSI",
+    "Number": "454H",
+    "Name": "Viola Performance Instruction - Advanced"
+  },
+  {
+    "": 1083,
+    "Department": "MUSI",
+    "Number": "455H",
+    "Name": "Trumpet Performance Instruction - Advanced"
+  },
+  {
+    "": 1084,
+    "Department": "MUSI",
+    "Number": "456H",
+    "Name": "Percussion Performance Instruction - Advanced"
+  },
+  {
+    "": 1085,
+    "Department": "MUSI",
+    "Number": "457H",
+    "Name": "Saxophone Performance Instruction - Advanced"
+  },
+  {
+    "": 1086,
+    "Department": "MUSI",
+    "Number": "458H",
+    "Name": "French Horn Performance Instruction - Advanced"
+  },
+  {
+    "": 1087,
+    "Department": "MUSI",
+    "Number": "459H",
+    "Name": "Clarinet Performance Instruction - Advanced"
+  },
+  {
+    "": 1088,
+    "Department": "MUSI",
+    "Number": "460H",
+    "Name": "Cello Performance Instruction - Advanced"
+  },
+  {
+    "": 1089,
+    "Department": "MUSI",
+    "Number": "461H",
+    "Name": "Classical Guitar Performance Instruction - Advanced"
+  },
+  {
+    "": 1090,
+    "Department": "MUSI",
+    "Number": "462H",
+    "Name": "String Bass Performance Instruction - Advanced"
+  },
+  {
+    "": 1091,
+    "Department": "MUSI",
+    "Number": "463H",
+    "Name": "Flute Performance Instruction - Advanced"
+  },
+  {
+    "": 1092,
+    "Department": "MUSI",
+    "Number": "464H",
+    "Name": "Choral Conducting Performance Instruction - Advanced"
+  },
+  {
+    "": 1093,
+    "Department": "MUSI",
+    "Number": "465H",
+    "Name": "Orchestra Conducting Performance Instruction - Advanced"
+  },
+  {
+    "": 1094,
+    "Department": "MUSI",
+    "Number": "466H",
+    "Name": "Fiddle Performance Instruction - Advanced"
+  },
+  {
+    "": 1095,
+    "Department": "MUSI",
+    "Number": "467H",
+    "Name": "Banjo Performance Instruction - Advanced"
+  },
+  {
+    "": 1096,
+    "Department": "MUSI",
+    "Number": "468H",
+    "Name": "Jazz Piano Performance Instruction - Advanced"
+  },
+  {
+    "": 1097,
+    "Department": "MUSI",
+    "Number": "469H",
+    "Name": "Jazz Voice Performance Instruction - Advanced"
+  },
+  {
+    "": 1098,
+    "Department": "MUSI",
+    "Number": "470H",
+    "Name": "Jazz Guitar Performance Instruction - Advanced"
+  },
+  {
+    "": 1099,
+    "Department": "MUSI",
+    "Number": "471H",
+    "Name": "Jazz Bass Performance Instruction - Advanced"
+  },
+  {
+    "": 1100,
+    "Department": "MUSI",
+    "Number": "472H",
+    "Name": "Bassoon Performance Instruction - Advanced"
+  },
+  {
+    "": 1101,
+    "Department": "MUSI",
+    "Number": "473H",
+    "Name": "Organ Performance Instruction - Advanced"
+  },
+  {
+    "": 1102,
+    "Department": "MUSI",
+    "Number": "474H",
+    "Name": "Tuba Performance Instruction - Advanced"
+  },
+  {
+    "": 1103,
+    "Department": "MUSI",
+    "Number": "475H",
+    "Name": "Trombone Performance Instruction - Advanced"
+  },
+  {
+    "": 1104,
+    "Department": "MUSI",
+    "Number": "476H",
+    "Name": "Harp Performance Instruction - Advanced"
+  },
+  {
+    "": 1105,
+    "Department": "MUSI",
+    "Number": "477H",
+    "Name": "Oboe Performance Instruction - Advanced"
+  },
+  {
+    "": 1106,
+    "Department": "MUSI",
+    "Number": "478H",
+    "Name": "Mallets Performance Instruction - Advanced"
+  },
+  {
+    "": 1107,
+    "Department": "MUSI",
+    "Number": "479H",
+    "Name": "Recorder Performance Instruction - Advanced"
+  },
+  {
+    "": 1108,
+    "Department": "MUSI",
+    "Number": "480H",
+    "Name": "Harpsichord Performance Instruction - Advanced"
+  },
+  {
+    "": 1109,
+    "Department": "NEUR",
+    "Number": 226,
+    "Name": "Introduction to Neuroscience"
+  },
+  {
+    "": 1110,
+    "Department": "NEUR",
+    "Number": 245,
+    "Name": "Proseminar in Systems Neuroscience"
+  },
+  {
+    "": 1111,
+    "Department": "NEUR",
+    "Number": 301,
+    "Name": "Molecular Neurobiology"
+  },
+  {
+    "": 1112,
+    "Department": "NEUR",
+    "Number": 325,
+    "Name": "Psychopharmacology"
+  },
+  {
+    "": 1113,
+    "Department": "NEUR",
+    "Number": 351,
+    "Name": "Neurophysiology"
+  },
+  {
+    "": 1114,
+    "Department": "NEUR",
+    "Number": 356,
+    "Name": "Neurophysiology of Motivation"
+  },
+  {
+    "": 1115,
+    "Department": "NEUR",
+    "Number": 359,
+    "Name": "Hormones and Behavior"
+  },
+  {
+    "": 1116,
+    "Department": "NEUR",
+    "Number": 450,
+    "Name": "Seminar in Physiology: Classic Papers in Neurophysiology"
+  },
+  {
+    "": 1117,
+    "Department": "NEUR",
+    "Number": "490,",
+    "Name": "390 Special Topics"
+  },
+  {
+    "": 1118,
+    "Department": "PHIL",
+    "Number": 111,
+    "Name": "Philosophical Questions"
+  },
+  {
+    "": 1119,
+    "Department": "PHIL",
+    "Number": 213,
+    "Name": "Logic"
+  },
+  {
+    "": 1120,
+    "Department": "PHIL",
+    "Number": 217,
+    "Name": "Ancient Greek Philosophy"
+  },
+  {
+    "": 1121,
+    "Department": "PHIL",
+    "Number": 218,
+    "Name": "Early Modern Philosophy"
+  },
+  {
+    "": 1122,
+    "Department": "PHIL",
+    "Number": 219,
+    "Name": "Philosophy of Religion"
+  },
+  {
+    "": 1123,
+    "Department": "PHIL",
+    "Number": 223,
+    "Name": "Human Health: Rights and Wrongs"
+  },
+  {
+    "": 1124,
+    "Department": "PHIL",
+    "Number": 225,
+    "Name": "Environmental Philosophy"
+  },
+  {
+    "": 1125,
+    "Department": "PHIL",
+    "Number": 226,
+    "Name": "Political Philosophy: Justice, Freedom, and the State"
+  },
+  {
+    "": 1126,
+    "Department": "PHIL",
+    "Number": 227,
+    "Name": "Aesthetics"
+  },
+  {
+    "": 1127,
+    "Department": "PHIL",
+    "Number": 229,
+    "Name": "The Problem of Evil"
+  },
+  {
+    "": 1128,
+    "Department": "PHIL",
+    "Number": 230,
+    "Name": "Markets, Ethics, and Law"
+  },
+  {
+    "": 1129,
+    "Department": "PHIL",
+    "Number": 231,
+    "Name": "Philosophy of Sport"
+  },
+  {
+    "": 1130,
+    "Department": "PHIL",
+    "Number": 310,
+    "Name": "Ethics"
+  },
+  {
+    "": 1131,
+    "Department": "PHIL",
+    "Number": 311,
+    "Name": "Philosophy of Law"
+  },
+  {
+    "": 1132,
+    "Department": "PHIL",
+    "Number": 332,
+    "Name": "Metaphysics"
+  },
+  {
+    "": 1133,
+    "Department": "PHIL",
+    "Number": 333,
+    "Name": "Philosophy of Mind"
+  },
+  {
+    "": 1134,
+    "Department": "PHIL",
+    "Number": 335,
+    "Name": "Theory of Knowledge"
+  },
+  {
+    "": 1135,
+    "Department": "PHIL",
+    "Number": 341,
+    "Name": "Freedom and Responsibility"
+  },
+  {
+    "": 1136,
+    "Department": "PHIL",
+    "Number": 360,
+    "Name": "Origins of Analytic Philosophy: Frege, Russell, and the Early Wittgenstein"
+  },
+  {
+    "": 1137,
+    "Department": "PHIL",
+    "Number": 361,
+    "Name": "Continental Philosophy and the Critique of Autonomy"
+  },
+  {
+    "": 1138,
+    "Department": "PHIL",
+    "Number": 362,
+    "Name": "Crises of the Individual: Marx and Freud"
+  },
+  {
+    "": 1139,
+    "Department": "PHIL",
+    "Number": 364,
+    "Name": "Kant"
+  },
+  {
+    "": 1140,
+    "Department": "PHIL",
+    "Number": 461,
+    "Name": "Seminar: Skepticism"
+  },
+  {
+    "": 1141,
+    "Department": "PHIL",
+    "Number": 463,
+    "Name": "The Later Wittgenstein"
+  },
+  {
+    "": 1142,
+    "Department": "PHIL",
+    "Number": 464,
+    "Name": "Seminar: Population Ethics"
+  },
+  {
+    "": 1143,
+    "Department": "PHIL",
+    "Number": 467,
+    "Name": "Seminar: Philosophy of Music"
+  },
+  {
+    "": 1144,
+    "Department": "PHIL",
+    "Number": 470,
+    "Name": "Seminar: Equality/Inequality"
+  },
+  {
+    "": 1145,
+    "Department": "PHIL",
+    "Number": 472,
+    "Name": "Seminar: Identity"
+  },
+  {
+    "": 1146,
+    "Department": "PHIL",
+    "Number": 473,
+    "Name": "Seminar: Speech and Harm"
+  },
+  {
+    "": 1147,
+    "Department": "PHIL",
+    "Number": 477,
+    "Name": "Seminar: The Problem of Political Authority and Obligation"
+  },
+  {
+    "": 1148,
+    "Department": "PHIL",
+    "Number": 478,
+    "Name": "Ethics and the Limits of Philosophy"
+  },
+  {
+    "": 1149,
+    "Department": "PHIL",
+    "Number": 490,
+    "Name": "Special Topics"
+  },
+  {
+    "": 1150,
+    "Department": "PHIL",
+    "Number": 498,
+    "Name": "Senior Departmental Honors"
+  },
+  {
+    "": 1151,
+    "Department": "PHIL",
+    "Number": 499,
+    "Name": "Departmental Honors Course"
+  },
+  {
+    "": 1176,
+    "Department": "POSC",
+    "Number": 111,
+    "Name": "Leviathan"
+  },
+  {
+    "": 1177,
+    "Department": "POSC",
+    "Number": 112,
+    "Name": "The International Politics of Climate Change"
+  },
+  {
+    "": 1178,
+    "Department": "POSC",
+    "Number": 117,
+    "Name": "Transformative Ideas"
+  },
+  {
+    "": 1179,
+    "Department": "POSC",
+    "Number": 119,
+    "Name": "Violence and Politics"
+  },
+  {
+    "": 1180,
+    "Department": "POSC",
+    "Number": 130,
+    "Name": "Climate Change and Civil Unrest"
+  },
+  {
+    "": 1181,
+    "Department": "POSC",
+    "Number": 131,
+    "Name": "Wars and Refugees"
+  },
+  {
+    "": 1182,
+    "Department": "POSC",
+    "Number": 136,
+    "Name": "Regulating Citizenship"
+  },
+  {
+    "": 1183,
+    "Department": "POSC",
+    "Number": 145,
+    "Name": "Work"
+  },
+  {
+    "": 1184,
+    "Department": "POSC",
+    "Number": 151,
+    "Name": "Political Identities"
+  },
+  {
+    "": 1185,
+    "Department": "POSC",
+    "Number": 153,
+    "Name": "Political Obligations"
+  },
+  {
+    "": 1186,
+    "Department": "POSC",
+    "Number": 154,
+    "Name": "The State"
+  },
+  {
+    "": 1187,
+    "Department": "POSC",
+    "Number": 159,
+    "Name": "The State and Violence"
+  },
+  {
+    "": 1188,
+    "Department": "POSC",
+    "Number": 160,
+    "Name": "Sexualities in International Relations"
+  },
+  {
+    "": 1189,
+    "Department": "POSC",
+    "Number": 170,
+    "Name": "Building Nation-States, Markets, and Democracy in Europe"
+  },
+  {
+    "": 1190,
+    "Department": "POSC",
+    "Number": 207,
+    "Name": "The Home and the World: Women and Gender in South Asia"
+  },
+  {
+    "": 1191,
+    "Department": "POSC",
+    "Number": 208,
+    "Name": "Power and Politics in Contemporary China"
+  },
+  {
+    "": 1192,
+    "Department": "POSC",
+    "Number": 209,
+    "Name": "China in the International System"
+  },
+  {
+    "": 1193,
+    "Department": "POSC",
+    "Number": 211,
+    "Name": "The Political Theory of Liberalism"
+  },
+  {
+    "": 1194,
+    "Department": "POSC",
+    "Number": 213,
+    "Name": "World Politics"
+  },
+  {
+    "": 1195,
+    "Department": "POSC",
+    "Number": 214,
+    "Name": "Geopolitics and American Foreign Policy"
+  },
+  {
+    "": 1196,
+    "Department": "POSC",
+    "Number": 219,
+    "Name": "Introduction to American Politics"
+  },
+  {
+    "": 1197,
+    "Department": "POSC",
+    "Number": 231,
+    "Name": "The Political Economy of Petro States: Venezuela Compared"
+  },
+  {
+    "": 1198,
+    "Department": "POSC",
+    "Number": 232,
+    "Name": "Political Economy of Development"
+  },
+  {
+    "": 1199,
+    "Department": "POSC",
+    "Number": 243,
+    "Name": "Ancient Political Thought"
+  },
+  {
+    "": 1200,
+    "Department": "POSC",
+    "Number": 245,
+    "Name": "Modern Political Thought"
+  },
+  {
+    "": 1201,
+    "Department": "POSC",
+    "Number": 248,
+    "Name": "Cuba: The Politics of Extremism"
+  },
+  {
+    "": 1202,
+    "Department": "POSC",
+    "Number": 260,
+    "Name": "African Politics"
+  },
+  {
+    "": 1203,
+    "Department": "POSC",
+    "Number": 261,
+    "Name": "Privacy and Gender"
+  },
+  {
+    "": 1204,
+    "Department": "POSC",
+    "Number": 270,
+    "Name": "European Union Politics: Integration and Disintegration"
+  },
+  {
+    "": 1205,
+    "Department": "POSC",
+    "Number": 300,
+    "Name": "Sexuality and LGBT Rights in Latin America and the Caribbean"
+  },
+  {
+    "": 1206,
+    "Department": "POSC",
+    "Number": 302,
+    "Name": "Disabling Institutions"
+  },
+  {
+    "": 1207,
+    "Department": "POSC",
+    "Number": 304,
+    "Name": "Seminar on Parties and Elections"
+  },
+  {
+    "": 1208,
+    "Department": "POSC",
+    "Number": 307,
+    "Name": "States of Extraction: Nature and World Politics in the Americas"
+  },
+  {
+    "": 1209,
+    "Department": "POSC",
+    "Number": 308,
+    "Name": "Democratic Theory"
+  },
+  {
+    "": 1210,
+    "Department": "POSC",
+    "Number": 312,
+    "Name": "Post-Cold War American Diplomacy"
+  },
+  {
+    "": 1211,
+    "Department": "POSC",
+    "Number": 313,
+    "Name": "Reading Politics"
+  },
+  {
+    "": 1212,
+    "Department": "POSC",
+    "Number": 317,
+    "Name": "International Political Theory"
+  },
+  {
+    "": 1213,
+    "Department": "POSC",
+    "Number": 319,
+    "Name": "History, Time, and American Political Development"
+  },
+  {
+    "": 1214,
+    "Department": "POSC",
+    "Number": 320,
+    "Name": "Rethinking Post-Colonial Nationalism"
+  },
+  {
+    "": 1215,
+    "Department": "POSC",
+    "Number": 323,
+    "Name": "From Petrograd to Petrostate: Power and Public in Post-Communist Russia"
+  },
+  {
+    "": 1216,
+    "Department": "POSC",
+    "Number": 324,
+    "Name": "Power and Violence in America: A Historical Approach to Politics"
+  },
+  {
+    "": 1217,
+    "Department": "POSC",
+    "Number": 327,
+    "Name": "The Politics of Intervention in Africa"
+  },
+  {
+    "": 1218,
+    "Department": "POSC",
+    "Number": 334,
+    "Name": "American Political Thought"
+  },
+  {
+    "": 1219,
+    "Department": "POSC",
+    "Number": 347,
+    "Name": "Nuclear America"
+  },
+  {
+    "": 1220,
+    "Department": "POSC",
+    "Number": 348,
+    "Name": "The International Politics of Nuclear Security"
+  },
+  {
+    "": 1221,
+    "Department": "POSC",
+    "Number": 355,
+    "Name": "Animals: Law, Ethics, Biopolitics"
+  },
+  {
+    "": 1222,
+    "Department": "POSC",
+    "Number": 359,
+    "Name": "The Politics of Moral Reasoning"
+  },
+  {
+    "": 1223,
+    "Department": "POSC",
+    "Number": 360,
+    "Name": "Punishment, Politics, and Culture"
+  },
+  {
+    "": 1224,
+    "Department": "POSC",
+    "Number": 370,
+    "Name": "Cyberpolitics"
+  },
+  {
+    "": 1225,
+    "Department": "POSC",
+    "Number": 380,
+    "Name": "Kremlin Rising: Russia's Foreign Policy in the 21st Century"
+  },
+  {
+    "": 1226,
+    "Department": "POSC",
+    "Number": 400,
+    "Name": "Domestic Politics"
+  },
+  {
+    "": 1227,
+    "Department": "POSC",
+    "Number": 401,
+    "Name": "Fanaticism"
+  },
+  {
+    "": 1228,
+    "Department": "POSC",
+    "Number": 403,
+    "Name": "Social Policy in China"
+  },
+  {
+    "": 1229,
+    "Department": "POSC",
+    "Number": 413,
+    "Name": "The Political Theory of Globalization"
+  },
+  {
+    "": 1230,
+    "Department": "POSC",
+    "Number": 415,
+    "Name": "Taking Marx Seriously"
+  },
+  {
+    "": 1231,
+    "Department": "POSC",
+    "Number": 420,
+    "Name": "Drones, Satellites, Cyberwar: Technology and National Security"
+  },
+  {
+    "": 1232,
+    "Department": "POSC",
+    "Number": 421,
+    "Name": "Indigenous World Politics"
+  },
+  {
+    "": 1233,
+    "Department": "POSC",
+    "Number": 467,
+    "Name": "Social Movements, Civil Society and Democracy in India"
+  },
+  {
+    "": 1234,
+    "Department": "POSC",
+    "Number": 470,
+    "Name": "International Migrations and Politics in the Era of Globalization"
+  },
+  {
+    "": 1235,
+    "Department": "POSC",
+    "Number": 474,
+    "Name": "Rights"
+  },
+  {
+    "": 1236,
+    "Department": "POSC",
+    "Number": 475,
+    "Name": "Personality and International Politics: Gorbachev, the End of the Cold War and the Collapse of the Soviet Union"
+  },
+  {
+    "": 1237,
+    "Department": "POSC",
+    "Number": 480,
+    "Name": "Contemporary Political Theory"
+  },
+  {
+    "": 1238,
+    "Department": "POSC",
+    "Number": 482,
+    "Name": "United States Foreign Policy: Democracy and Human Rights"
+  },
+  {
+    "": 1239,
+    "Department": "POSC",
+    "Number": 484,
+    "Name": "Seminar on International Politics: Global Resource Politics"
+  },
+  {
+    "": 1240,
+    "Department": "POSC",
+    "Number": 486,
+    "Name": "U.S.-Latin American Relations"
+  },
+  {
+    "": 1241,
+    "Department": "POSC",
+    "Number": 489,
+    "Name": "Markets and Democracy in Latin America"
+  },
+  {
+    "": 1242,
+    "Department": "POSC",
+    "Number": 490,
+    "Name": "Special Topics"
+  },
+  {
+    "": 1243,
+    "Department": "PSYC",
+    "Number": 100,
+    "Name": "Introduction to Psychology"
+  },
+  {
+    "": 1244,
+    "Department": "PSYC",
+    "Number": 122,
+    "Name": "Statistics and Experimental Design"
+  },
+  {
+    "": 1245,
+    "Department": "PSYC",
+    "Number": 123,
+    "Name": "Research Methods"
+  },
+  {
+    "": 1246,
+    "Department": "PSYC",
+    "Number": 212,
+    "Name": "Behavioral Neuroscience"
+  },
+  {
+    "": 1247,
+    "Department": "PSYC",
+    "Number": 217,
+    "Name": "Psychology of Food and Eating Disorders"
+  },
+  {
+    "": 1248,
+    "Department": "PSYC",
+    "Number": 220,
+    "Name": "Social Psychology"
+  },
+  {
+    "": 1249,
+    "Department": "PSYC",
+    "Number": 221,
+    "Name": "Personality Psychology"
+  },
+  {
+    "": 1250,
+    "Department": "PSYC",
+    "Number": 224,
+    "Name": "&nbsp;Intergroup Dialogue on Race"
+  },
+  {
+    "": 1251,
+    "Department": "PSYC",
+    "Number": 226,
+    "Name": "Introduction to Neuroscience"
+  },
+  {
+    "": 1252,
+    "Department": "PSYC",
+    "Number": 227,
+    "Name": "Developmental Psychology"
+  },
+  {
+    "": 1253,
+    "Department": "PSYC",
+    "Number": 228,
+    "Name": "Abnormal Psychology"
+  },
+  {
+    "": 1254,
+    "Department": "PSYC",
+    "Number": 233,
+    "Name": "Cognitive Psychology"
+  },
+  {
+    "": 1255,
+    "Department": "PSYC",
+    "Number": 234,
+    "Name": "Memory"
+  },
+  {
+    "": 1256,
+    "Department": "PSYC",
+    "Number": 235,
+    "Name": "Sports Psychology"
+  },
+  {
+    "": 1257,
+    "Department": "PSYC",
+    "Number": 236,
+    "Name": "Psychology of Aging"
+  },
+  {
+    "": 1258,
+    "Department": "PSYC",
+    "Number": 256,
+    "Name": "The Psychology of Gender"
+  },
+  {
+    "": 1259,
+    "Department": "PSYC",
+    "Number": 288,
+    "Name": "Psychology of Attraction"
+  },
+  {
+    "": 1260,
+    "Department": "PSYC",
+    "Number": 325,
+    "Name": "Psychopharmacology"
+  },
+  {
+    "": 1261,
+    "Department": "PSYC",
+    "Number": 332,
+    "Name": "Psychology of Adolescence"
+  },
+  {
+    "": 1262,
+    "Department": "PSYC",
+    "Number": 337,
+    "Name": "Stereotypes and Prejudice"
+  },
+  {
+    "": 1263,
+    "Department": "PSYC",
+    "Number": 338,
+    "Name": "Personality and Political Leadership"
+  },
+  {
+    "": 1264,
+    "Department": "PSYC",
+    "Number": 353,
+    "Name": "Psychological Assessment"
+  },
+  {
+    "": 1265,
+    "Department": "PSYC",
+    "Number": 354,
+    "Name": "Close Relationships"
+  },
+  {
+    "": 1266,
+    "Department": "PSYC",
+    "Number": 356,
+    "Name": "Neurophysiology of Motivation"
+  },
+  {
+    "": 1267,
+    "Department": "PSYC",
+    "Number": 357,
+    "Name": "History of Psychiatry"
+  },
+  {
+    "": 1268,
+    "Department": "PSYC",
+    "Number": 359,
+    "Name": "Hormones and Behavior"
+  },
+  {
+    "": 1269,
+    "Department": "PSYC",
+    "Number": 362,
+    "Name": "Development of Non-Verbal Communication"
+  },
+  {
+    "": 1270,
+    "Department": "PSYC",
+    "Number": 363,
+    "Name": "Psychology and the Law"
+  },
+  {
+    "": 1271,
+    "Department": "PSYC",
+    "Number": 364,
+    "Name": "Child and Adolescent Clinical Psychology"
+  },
+  {
+    "": 1272,
+    "Department": "PSYC",
+    "Number": 366,
+    "Name": "Music Cognition"
+  },
+  {
+    "": 1273,
+    "Department": "PSYC",
+    "Number": 368,
+    "Name": "Autobiographical Memory"
+  },
+  {
+    "": 1274,
+    "Department": "PSYC",
+    "Number": 371,
+    "Name": "Psychopathology"
+  },
+  {
+    "": 1275,
+    "Department": "PSYC",
+    "Number": 490,
+    "Name": "Special Topics"
+  },
+  {
+    "": 1276,
+    "Department": "RELI",
+    "Number": 111,
+    "Name": "Introduction to Religion"
+  },
+  {
+    "": 1277,
+    "Department": "RELI",
+    "Number": 121,
+    "Name": "Fieldwork in Religious Communities"
+  },
+  {
+    "": 1278,
+    "Department": "RELI",
+    "Number": 123,
+    "Name": "Popular Religion"
+  },
+  {
+    "": 1279,
+    "Department": "RELI",
+    "Number": 132,
+    "Name": "Race and Religion in the Americas"
+  },
+  {
+    "": 1280,
+    "Department": "RELI",
+    "Number": 143,
+    "Name": "Religion in Ancient India"
+  },
+  {
+    "": 1281,
+    "Department": "RELI",
+    "Number": 152,
+    "Name": "Introduction to Buddhist Traditions"
+  },
+  {
+    "": 1282,
+    "Department": "RELI",
+    "Number": 160,
+    "Name": "Buddhist Psychology in Modern Perspective"
+  },
+  {
+    "": 1283,
+    "Department": "RELI",
+    "Number": 170,
+    "Name": "Material Culture of Religion in Late Antiquity"
+  },
+  {
+    "": 1284,
+    "Department": "RELI",
+    "Number": 171,
+    "Name": "Images of Jesus"
+  },
+  {
+    "": 1285,
+    "Department": "RELI",
+    "Number": 172,
+    "Name": "Christianity and Capitalism"
+  },
+  {
+    "": 1286,
+    "Department": "RELI",
+    "Number": 187,
+    "Name": "Discovering Islam: Introduction to Islamic Traditions"
+  },
+  {
+    "": 1287,
+    "Department": "RELI",
+    "Number": 210,
+    "Name": "What Is Religion Anyway?: Theories and Methods in Religious Studies"
+  },
+  {
+    "": 1288,
+    "Department": "RELI",
+    "Number": 215,
+    "Name": "Religion in Scientific Perspective"
+  },
+  {
+    "": 1289,
+    "Department": "RELI",
+    "Number": 236,
+    "Name": "Liberal Religion in the United States"
+  },
+  {
+    "": 1290,
+    "Department": "RELI",
+    "Number": 237,
+    "Name": "Catholicism in the United States"
+  },
+  {
+    "": 1291,
+    "Department": "RELI",
+    "Number": 238,
+    "Name": "African-American Religious History"
+  },
+  {
+    "": 1292,
+    "Department": "RELI",
+    "Number": 239,
+    "Name": "Evangelical Christianity"
+  },
+  {
+    "": 1293,
+    "Department": "RELI",
+    "Number": 252,
+    "Name": "Buddhist Life Writing"
+  },
+  {
+    "": 1294,
+    "Department": "RELI",
+    "Number": 253,
+    "Name": "Theravada Buddhism"
+  },
+  {
+    "": 1295,
+    "Department": "RELI",
+    "Number": 261,
+    "Name": "Women in Judaism"
+  },
+  {
+    "": 1296,
+    "Department": "RELI",
+    "Number": 263,
+    "Name": "Ancient Israel"
+  },
+  {
+    "": 1297,
+    "Department": "RELI",
+    "Number": 265,
+    "Name": "Prophecy, Wisdom, and Apocalyptic"
+  },
+  {
+    "": 1298,
+    "Department": "RELI",
+    "Number": 266,
+    "Name": "Why Do the Innocent Suffer?"
+  },
+  {
+    "": 1299,
+    "Department": "RELI",
+    "Number": 267,
+    "Name": "Reading the Rabbis"
+  },
+  {
+    "": 1300,
+    "Department": "RELI",
+    "Number": 273,
+    "Name": "Christian Scriptures"
+  },
+  {
+    "": 1301,
+    "Department": "RELI",
+    "Number": 274,
+    "Name": "The Parables of Jesus"
+  },
+  {
+    "": 1302,
+    "Department": "RELI",
+    "Number": 275,
+    "Name": "History of Christianity--The Early Years"
+  },
+  {
+    "": 1303,
+    "Department": "RELI",
+    "Number": 278,
+    "Name": "Christianity, Philosophy, and History in the Nineteenth Century"
+  },
+  {
+    "": 1304,
+    "Department": "RELI",
+    "Number": 284,
+    "Name": "Knowledge Triumphant in Classical Islam"
+  },
+  {
+    "": 1305,
+    "Department": "RELI",
+    "Number": 285,
+    "Name": "The Qur'&#257;n and Its Controversies"
+  },
+  {
+    "": 1306,
+    "Department": "RELI",
+    "Number": 316,
+    "Name": "Philosophy of Religion"
+  },
+  {
+    "": 1307,
+    "Department": "RELI",
+    "Number": 318,
+    "Name": "The Problem of Evil"
+  },
+  {
+    "": 1308,
+    "Department": "RELI",
+    "Number": 322,
+    "Name": "Religion, Empires, and Secular States in the Nineteenth Century"
+  },
+  {
+    "": 1309,
+    "Department": "RELI",
+    "Number": 323,
+    "Name": "Religion and Conspiratorial Thinking"
+  },
+  {
+    "": 1310,
+    "Department": "RELI",
+    "Number": 352,
+    "Name": "Buddhist Ethics"
+  },
+  {
+    "": 1311,
+    "Department": "RELI",
+    "Number": 362,
+    "Name": "Folklore and the Bible"
+  },
+  {
+    "": 1312,
+    "Department": "RELI",
+    "Number": 365,
+    "Name": "Personal Religion in the Bible"
+  },
+  {
+    "": 1313,
+    "Department": "RELI",
+    "Number": 370,
+    "Name": "Close Readings:&nbsp; The Classics of Judaism and Christianity"
+  },
+  {
+    "": 1314,
+    "Department": "RELI",
+    "Number": 372,
+    "Name": "The Secret Jesus"
+  },
+  {
+    "": 1315,
+    "Department": "RELI",
+    "Number": 382,
+    "Name": "Islamic Intellectual Tradition: The Classics"
+  },
+  {
+    "": 1316,
+    "Department": "RELI",
+    "Number": 385,
+    "Name": "The Islamic Mystical Tradition"
+  },
+  {
+    "": 1317,
+    "Department": "RELI",
+    "Number": 490,
+    "Name": "Special Topics"
+  },
+  {
+    "": 1318,
+    "Department": "RELI",
+    "Number": 499,
+    "Name": "Senior Honors"
+  },
+  {
+    "": 1319,
+    "Department": "RELI",
+    "Number": "499D,",
+    "Name": ", 498 Senior Departmental Honors"
+  },
+  {
+    "": 1320,
+    "Department": "RUSS",
+    "Number": 101,
+    "Name": "First-Year Russian I"
+  },
+  {
+    "": 1321,
+    "Department": "RUSS",
+    "Number": 102,
+    "Name": "First-Year Russian II"
+  },
+  {
+    "": 1322,
+    "Department": "RUSS",
+    "Number": 103,
+    "Name": "Russian Literacy for Russian Speakers"
+  },
+  {
+    "": 1323,
+    "Department": "RUSS",
+    "Number": 201,
+    "Name": "Second-Year Russian I"
+  },
+  {
+    "": 1324,
+    "Department": "RUSS",
+    "Number": 202,
+    "Name": "Second-Year Russian II"
+  },
+  {
+    "": 1325,
+    "Department": "RUSS",
+    "Number": 212,
+    "Name": "Love and Death: the Big Questions of Russian Literature"
+  },
+  {
+    "": 1326,
+    "Department": "RUSS",
+    "Number": 213,
+    "Name": "Century of Catastrophe:&nbsp; Soviet and Contemporary Russia in Literature and Film"
+  },
+  {
+    "": 1327,
+    "Department": "RUSS",
+    "Number": 215,
+    "Name": "Modernism and Revolution"
+  },
+  {
+    "": 1328,
+    "Department": "RUSS",
+    "Number": 216,
+    "Name": "Creativity and Revolution"
+  },
+  {
+    "": 1329,
+    "Department": "RUSS",
+    "Number": 217,
+    "Name": "Strange Russian Writers: Gogol, Dostoevsky, Bulgakov, Nabokov, et al"
+  },
+  {
+    "": 1330,
+    "Department": "RUSS",
+    "Number": 225,
+    "Name": "Vladimir Nabokov and the Writing of Exile"
+  },
+  {
+    "": 1331,
+    "Department": "RUSS",
+    "Number": 227,
+    "Name": "Fyodor Dostoevsky"
+  },
+  {
+    "": 1332,
+    "Department": "RUSS",
+    "Number": 228,
+    "Name": "Tolstoy"
+  },
+  {
+    "": 1333,
+    "Department": "RUSS",
+    "Number": 235,
+    "Name": "Stalin and Stalinism"
+  },
+  {
+    "": 1334,
+    "Department": "RUSS",
+    "Number": 240,
+    "Name": "The Last Russian Revolution: State and Society from the Late Soviet Period to the Present"
+  },
+  {
+    "": 1335,
+    "Department": "RUSS",
+    "Number": 241,
+    "Name": "Russian and Soviet Film"
+  },
+  {
+    "": 1336,
+    "Department": "RUSS",
+    "Number": 245,
+    "Name": "Art and Politics in Russia, 1860 to the Present"
+  },
+  {
+    "": 1337,
+    "Department": "RUSS",
+    "Number": 301,
+    "Name": "Third-Year Russian: Studies in Russian Language and Culture I"
+  },
+  {
+    "": 1338,
+    "Department": "RUSS",
+    "Number": 302,
+    "Name": "Third-Year Russian: Studies in Russian Language and Culture II"
+  },
+  {
+    "": 1339,
+    "Department": "RUSS",
+    "Number": "303H",
+    "Name": "Advanced Conversation and Composition"
+  },
+  {
+    "": 1340,
+    "Department": "RUSS",
+    "Number": "304H",
+    "Name": "Advanced Intermediate Conversation and Composition"
+  },
+  {
+    "": 1341,
+    "Department": "RUSS",
+    "Number": 401,
+    "Name": "Advanced Studies in Russian Literature and Culture I"
+  },
+  {
+    "": 1342,
+    "Department": "RUSS",
+    "Number": 490,
+    "Name": "Special Topics"
+  },
+  {
+    "": 1343,
+    "Department": "RUSS",
+    "Number": "499,",
+    "Name": "498 Senior Departmental Honors"
+  },
+  {
+    "": 1344,
+    "Department": "SWAG",
+    "Number": 100,
+    "Name": "The Cross-Cultural Construction of Gender"
+  },
+  {
+    "": 1345,
+    "Department": "SWAG",
+    "Number": 105,
+    "Name": "Women, Gender and Popular Culture"
+  },
+  {
+    "": 1346,
+    "Department": "SWAG",
+    "Number": 106,
+    "Name": "Realism"
+  },
+  {
+    "": 1347,
+    "Department": "SWAG",
+    "Number": 111,
+    "Name": "Having Arguments"
+  },
+  {
+    "": 1348,
+    "Department": "SWAG",
+    "Number": 112,
+    "Name": "New Women in America"
+  },
+  {
+    "": 1349,
+    "Department": "SWAG",
+    "Number": 114,
+    "Name": "Intersections among American Women"
+  },
+  {
+    "": 1350,
+    "Department": "SWAG",
+    "Number": 123,
+    "Name": "Greek Civilization"
+  },
+  {
+    "": 1351,
+    "Department": "SWAG",
+    "Number": 138,
+    "Name": "Greek Drama"
+  },
+  {
+    "": 1352,
+    "Department": "SWAG",
+    "Number": 145,
+    "Name": "The Modern World"
+  },
+  {
+    "": 1353,
+    "Department": "SWAG",
+    "Number": 160,
+    "Name": "Sexualities in International Relations"
+  },
+  {
+    "": 1354,
+    "Department": "SWAG",
+    "Number": 162,
+    "Name": "History of Sexuality in the U.S."
+  },
+  {
+    "": 1355,
+    "Department": "SWAG",
+    "Number": 200,
+    "Name": "Feminist Theory"
+  },
+  {
+    "": 1356,
+    "Department": "SWAG",
+    "Number": 202,
+    "Name": "Black Women's Narratives and Counternarratives: Love and the Family"
+  },
+  {
+    "": 1357,
+    "Department": "SWAG",
+    "Number": 203,
+    "Name": "Women Writers of Africa and the African Diaspora"
+  },
+  {
+    "": 1358,
+    "Department": "SWAG",
+    "Number": 206,
+    "Name": "Women and Art in Early Modern Europe"
+  },
+  {
+    "": 1359,
+    "Department": "SWAG",
+    "Number": 207,
+    "Name": "The Home and the World: Women and Gender in South Asia"
+  },
+  {
+    "": 1360,
+    "Department": "SWAG",
+    "Number": 208,
+    "Name": "Black Feminist Literary Traditions"
+  },
+  {
+    "": 1361,
+    "Department": "SWAG",
+    "Number": 210,
+    "Name": "Anthropology of Sexuality"
+  },
+  {
+    "": 1362,
+    "Department": "SWAG",
+    "Number": 224,
+    "Name": "The Century of Sex: Gender and Sexual Politics in Modern Europe"
+  },
+  {
+    "": 1363,
+    "Department": "SWAG",
+    "Number": 232,
+    "Name": "Strange Girls: Spanish Women's Voices"
+  },
+  {
+    "": 1364,
+    "Department": "SWAG",
+    "Number": 237,
+    "Name": "Gender and Work"
+  },
+  {
+    "": 1365,
+    "Department": "SWAG",
+    "Number": 239,
+    "Name": "Women in Judaism"
+  },
+  {
+    "": 1366,
+    "Department": "SWAG",
+    "Number": 261,
+    "Name": "Privacy and Gender"
+  },
+  {
+    "": 1367,
+    "Department": "SWAG",
+    "Number": 279,
+    "Name": "Global Women's Literature"
+  },
+  {
+    "": 1368,
+    "Department": "SWAG",
+    "Number": 300,
+    "Name": "Ideas and Methods in the Study of Gender"
+  },
+  {
+    "": 1369,
+    "Department": "SWAG",
+    "Number": 310,
+    "Name": "Witches, Vampires and Other Monsters"
+  },
+  {
+    "": 1370,
+    "Department": "SWAG",
+    "Number": 317,
+    "Name": "Women in Early Modern Spain"
+  },
+  {
+    "": 1371,
+    "Department": "SWAG",
+    "Number": 328,
+    "Name": "Science and Sexuality"
+  },
+  {
+    "": 1372,
+    "Department": "SWAG",
+    "Number": 329,
+    "Name": "Bad Black Women"
+  },
+  {
+    "": 1373,
+    "Department": "SWAG",
+    "Number": 330,
+    "Name": "Black Sexualities"
+  },
+  {
+    "": 1374,
+    "Department": "SWAG",
+    "Number": 331,
+    "Name": "The Postcolonial Novel: Gender, Race and Empire"
+  },
+  {
+    "": 1375,
+    "Department": "SWAG",
+    "Number": 335,
+    "Name": "Gender: An Anthropological Perspective"
+  },
+  {
+    "": 1376,
+    "Department": "SWAG",
+    "Number": 339,
+    "Name": "Early Women Writers"
+  },
+  {
+    "": 1377,
+    "Department": "SWAG",
+    "Number": 342,
+    "Name": "Women of Ill Repute: Prostitutes in Nineteenth-Century French Literature"
+  },
+  {
+    "": 1378,
+    "Department": "SWAG",
+    "Number": 345,
+    "Name": "Gender and Sexuality in Latin America"
+  },
+  {
+    "": 1379,
+    "Department": "SWAG",
+    "Number": 347,
+    "Name": "Race, Sex, and Gender in the U.S. Military"
+  },
+  {
+    "": 1380,
+    "Department": "SWAG",
+    "Number": 362,
+    "Name": "The Politics of Gender in the Middle East"
+  },
+  {
+    "": 1381,
+    "Department": "SWAG",
+    "Number": 363,
+    "Name": "Women in the Islamic Middle East"
+  },
+  {
+    "": 1382,
+    "Department": "SWAG",
+    "Number": 368,
+    "Name": "Willa Cather"
+  },
+  {
+    "": 1383,
+    "Department": "SWAG",
+    "Number": 374,
+    "Name": "To Sculpt a Modern Woman's Life"
+  },
+  {
+    "": 1384,
+    "Department": "SWAG",
+    "Number": 375,
+    "Name": "Self, Subject, Photography"
+  },
+  {
+    "": 1385,
+    "Department": "SWAG",
+    "Number": 410,
+    "Name": "Epidemics and Society: AIDS and Ebola"
+  },
+  {
+    "": 1386,
+    "Department": "SWAG",
+    "Number": 452,
+    "Name": "The Earthly Paradise"
+  },
+  {
+    "": 1387,
+    "Department": "SWAG",
+    "Number": 467,
+    "Name": "Social Movements, Civil Society and Democracy in India"
+  },
+  {
+    "": 1388,
+    "Department": "SWAG",
+    "Number": 469,
+    "Name": "South Asian Feminist Cinema"
+  },
+  {
+    "": 1389,
+    "Department": "SWAG",
+    "Number": 471,
+    "Name": "Corporeal States:&nbsp; Body, Nation, Text in Modern African Literature"
+  },
+  {
+    "": 1390,
+    "Department": "SWAG",
+    "Number": 490,
+    "Name": "Special Topics"
+  },
+  {
+    "": 1391,
+    "Department": "SWAG",
+    "Number": "498,",
+    "Name": "499, 499D Senior Departmental Honors"
+  },
+  {
+    "": 1392,
+    "Department": "SPAN",
+    "Number": 110,
+    "Name": "Spanish I"
+  },
+  {
+    "": 1393,
+    "Department": "SPAN",
+    "Number": 120,
+    "Name": "Spanish II"
+  },
+  {
+    "": 1394,
+    "Department": "SPAN",
+    "Number": 125,
+    "Name": "Spanish III"
+  },
+  {
+    "": 1395,
+    "Department": "SPAN",
+    "Number": 130,
+    "Name": "Spanish IV"
+  },
+  {
+    "": 1396,
+    "Department": "SPAN",
+    "Number": 135,
+    "Name": "Spanish Conversation"
+  },
+  {
+    "": 1397,
+    "Department": "SPAN",
+    "Number": 140,
+    "Name": "Spanish for Heritage Speakers"
+  },
+  {
+    "": 1398,
+    "Department": "SPAN",
+    "Number": 199,
+    "Name": "Spanish Writing Workshop"
+  },
+  {
+    "": 1399,
+    "Department": "SPAN",
+    "Number": 210,
+    "Name": "Camino de Santiago"
+  },
+  {
+    "": 1400,
+    "Department": "SPAN",
+    "Number": 211,
+    "Name": "Introduction to Hispanic Literatures"
+  },
+  {
+    "": 1401,
+    "Department": "SPAN",
+    "Number": 212,
+    "Name": "Hispanic World: Past, Present and Future"
+  },
+  {
+    "": 1402,
+    "Department": "SPAN",
+    "Number": 220,
+    "Name": "Introduction to the Writings of the Hispanic Caribbean"
+  },
+  {
+    "": 1403,
+    "Department": "SPAN",
+    "Number": 222,
+    "Name": "Short Stories from the Hispanic World"
+  },
+  {
+    "": 1404,
+    "Department": "SPAN",
+    "Number": 226,
+    "Name": "<em>Mare Nostrum</em>: The Caribbean as Idea and Invention"
+  },
+  {
+    "": 1405,
+    "Department": "SPAN",
+    "Number": 232,
+    "Name": "Strange Girls: Spanish Women's Voices"
+  },
+  {
+    "": 1406,
+    "Department": "SPAN",
+    "Number": 236,
+    "Name": "Representation and Reality in Spanish Cinema"
+  },
+  {
+    "": 1407,
+    "Department": "SPAN",
+    "Number": 238,
+    "Name": "Latin American Cinema"
+  },
+  {
+    "": 1408,
+    "Department": "SPAN",
+    "Number": 317,
+    "Name": "Women in Early Modern Spain"
+  },
+  {
+    "": 1409,
+    "Department": "SPAN",
+    "Number": 318,
+    "Name": "Cultural Encounters: Islam in Spain"
+  },
+  {
+    "": 1410,
+    "Department": "SPAN",
+    "Number": 340,
+    "Name": "Violence, Art, and Memory of the Spanish Civil War"
+  },
+  {
+    "": 1411,
+    "Department": "SPAN",
+    "Number": 344,
+    "Name": "The Baroque Roots of Latin American Culture"
+  },
+  {
+    "": 1412,
+    "Department": "SPAN",
+    "Number": 345,
+    "Name": "Latina Stories: Making Waves in the USA"
+  },
+  {
+    "": 1413,
+    "Department": "SPAN",
+    "Number": 346,
+    "Name": "Cuba after 1989: Culture, Film, and Literature"
+  },
+  {
+    "": 1414,
+    "Department": "SPAN",
+    "Number": 352,
+    "Name": "Barcelona"
+  },
+  {
+    "": 1415,
+    "Department": "SPAN",
+    "Number": 360,
+    "Name": "Jorge Luis Borges"
+  },
+  {
+    "": 1416,
+    "Department": "SPAN",
+    "Number": 363,
+    "Name": "<em>One Hundred Years of Solitude</em>"
+  },
+  {
+    "": 1417,
+    "Department": "SPAN",
+    "Number": 364,
+    "Name": "<em>Don Quixote</em><em></em>"
+  },
+  {
+    "": 1418,
+    "Department": "SPAN",
+    "Number": 365,
+    "Name": "Shakespeare in Prison"
+  },
+  {
+    "": 1419,
+    "Department": "SPAN",
+    "Number": 376,
+    "Name": "Life Is a Dream"
+  },
+  {
+    "": 1420,
+    "Department": "SPAN",
+    "Number": 377,
+    "Name": "Travel"
+  },
+  {
+    "": 1421,
+    "Department": "SPAN",
+    "Number": 380,
+    "Name": "Impostors"
+  },
+  {
+    "": 1422,
+    "Department": "SPAN",
+    "Number": 385,
+    "Name": "Multicultural Spain"
+  },
+  {
+    "": 1423,
+    "Department": "SPAN",
+    "Number": 389,
+    "Name": "Reading Spain"
+  },
+  {
+    "": 1424,
+    "Department": "SPAN",
+    "Number": 393,
+    "Name": "Journeys to/from/in Spain"
+  },
+  {
+    "": 1425,
+    "Department": "SPAN",
+    "Number": 394,
+    "Name": "Spanglish"
+  },
+  {
+    "": 1426,
+    "Department": "SPAN",
+    "Number": 490,
+    "Name": "Special Topics"
+  },
+  {
+    "": 1427,
+    "Department": "THDA",
+    "Number": 111,
+    "Name": "The Language of Movement"
+  },
+  {
+    "": 1428,
+    "Department": "THDA",
+    "Number": 112,
+    "Name": "Materials of Theater"
+  },
+  {
+    "": 1429,
+    "Department": "THDA",
+    "Number": 113,
+    "Name": "Action and Character"
+  },
+  {
+    "": 1430,
+    "Department": "THDA",
+    "Number": 114,
+    "Name": "Contemporary Performance:&nbsp; Case Studies"
+  },
+  {
+    "": 1431,
+    "Department": "THDA",
+    "Number": "115H",
+    "Name": "Contemporary Dance: Modern 1/2"
+  },
+  {
+    "": 1432,
+    "Department": "THDA",
+    "Number": "116H",
+    "Name": "Contemporary Dance Techniques: Modern 3"
+  },
+  {
+    "": 1433,
+    "Department": "THDA",
+    "Number": "117H",
+    "Name": "Contemporary Dance Technique Modern 3/4"
+  },
+  {
+    "": 1434,
+    "Department": "THDA",
+    "Number": "119H",
+    "Name": "Contemporary Dance Techniques: Contact Improvisation"
+  },
+  {
+    "": 1435,
+    "Department": "THDA",
+    "Number": "120H",
+    "Name": "Contemporary Dance Techniques: Ballet/Modern 1/2"
+  },
+  {
+    "": 1436,
+    "Department": "THDA",
+    "Number": "121H",
+    "Name": "Contemporary Dance Technique: Modern Ballet 2/3"
+  },
+  {
+    "": 1437,
+    "Department": "THDA",
+    "Number": "122H",
+    "Name": "Contemporary Dance Technique: Hip Hop"
+  },
+  {
+    "": 1438,
+    "Department": "THDA",
+    "Number": "125H",
+    "Name": "The Craft of Speaking I: Vocal Freedom"
+  },
+  {
+    "": 1439,
+    "Department": "THDA",
+    "Number": "142H",
+    "Name": "Contemporary Dance Techniques: West African"
+  },
+  {
+    "": 1440,
+    "Department": "THDA",
+    "Number": 153,
+    "Name": "African-American Theater History"
+  },
+  {
+    "": 1441,
+    "Department": "THDA",
+    "Number": 154,
+    "Name": "Re-Imagining the Classics"
+  },
+  {
+    "": 1442,
+    "Department": "THDA",
+    "Number": 160,
+    "Name": "Dynamics of Play Reading: Elements, Structures, Paradigms"
+  },
+  {
+    "": 1443,
+    "Department": "THDA",
+    "Number": 209,
+    "Name": "Contemporary Dance Technique and Repertory Modern 3/4"
+  },
+  {
+    "": 1444,
+    "Department": "THDA",
+    "Number": "216H",
+    "Name": "Contemporary Dance Techniques: Modern 4/5"
+  },
+  {
+    "": 1445,
+    "Department": "THDA",
+    "Number": "217H",
+    "Name": "Contemporary Dance Techniques: Modern/Ballet 4"
+  },
+  {
+    "": 1446,
+    "Department": "THDA",
+    "Number": "225H",
+    "Name": "The Craft of Speaking II: Spoken Expression"
+  },
+  {
+    "": 1447,
+    "Department": "THDA",
+    "Number": 227,
+    "Name": "Knowing Bodies, Moving Minds: Community in Motion"
+  },
+  {
+    "": 1448,
+    "Department": "THDA",
+    "Number": 230,
+    "Name": "The Instrument: &nbsp;Body of Work"
+  },
+  {
+    "": 1449,
+    "Department": "THDA",
+    "Number": 234,
+    "Name": "Dance and History: sites, bodies, and perspectives"
+  },
+  {
+    "": 1450,
+    "Department": "THDA",
+    "Number": 242,
+    "Name": "Plays in Play: The Ensemble and the Playwright"
+  },
+  {
+    "": 1451,
+    "Department": "THDA",
+    "Number": 249,
+    "Name": "Partner Dancing (Beginner Composition)"
+  },
+  {
+    "": 1452,
+    "Department": "THDA",
+    "Number": 250,
+    "Name": "Video Production: Bodies in Motion"
+  },
+  {
+    "": 1453,
+    "Department": "THDA",
+    "Number": 251,
+    "Name": "Intermediate Composition: Making Dances"
+  },
+  {
+    "": 1454,
+    "Department": "THDA",
+    "Number": 252,
+    "Name": "Scripts and Scores"
+  },
+  {
+    "": 1455,
+    "Department": "THDA",
+    "Number": 253,
+    "Name": "Intermediate Choreography"
+  },
+  {
+    "": 1456,
+    "Department": "THDA",
+    "Number": 254,
+    "Name": "Sound Design for Live Performance"
+  },
+  {
+    "": 1457,
+    "Department": "THDA",
+    "Number": 255,
+    "Name": "Sound, Movement, and Text: Interactions and Collaborations"
+  },
+  {
+    "": 1458,
+    "Department": "THDA",
+    "Number": 260,
+    "Name": "Costume Design and Fashion History"
+  },
+  {
+    "": 1459,
+    "Department": "THDA",
+    "Number": 261,
+    "Name": "Lighting Design"
+  },
+  {
+    "": 1460,
+    "Department": "THDA",
+    "Number": 263,
+    "Name": "Scene Design"
+  },
+  {
+    "": 1461,
+    "Department": "THDA",
+    "Number": 270,
+    "Name": "Playwriting I"
+  },
+  {
+    "": 1462,
+    "Department": "THDA",
+    "Number": 285,
+    "Name": "Collaborative Dramaturgy"
+  },
+  {
+    "": 1463,
+    "Department": "THDA",
+    "Number": 330,
+    "Name": "Acting Studio"
+  },
+  {
+    "": 1464,
+    "Department": "THDA",
+    "Number": 340,
+    "Name": "Directing Studio"
+  },
+  {
+    "": 1465,
+    "Department": "THDA",
+    "Number": 352,
+    "Name": "Performance in Place: Site Specific&nbsp;"
+  },
+  {
+    "": 1466,
+    "Department": "THDA",
+    "Number": 353,
+    "Name": "Performance Studio"
+  },
+  {
+    "": 1467,
+    "Department": "THDA",
+    "Number": 360,
+    "Name": "Design Studio"
+  },
+  {
+    "": 1468,
+    "Department": "THDA",
+    "Number": 363,
+    "Name": "Design Studio II"
+  },
+  {
+    "": 1469,
+    "Department": "THDA",
+    "Number": 370,
+    "Name": "Playwriting Studio"
+  },
+  {
+    "": 1470,
+    "Department": "THDA",
+    "Number": "400H",
+    "Name": "Production Studio"
+  },
+  {
+    "": 1471,
+    "Department": "THDA",
+    "Number": 490,
+    "Name": "Special Topics"
+  },
+  {
+    "": 192,
+    "Department": "ARAB",
+    "Number": 101,
+    "Name": "First-Year Arabic I"
+  },
+  {
+    "": 193,
+    "Department": "ARAB",
+    "Number": 102,
+    "Name": "First-Year Arabic II"
+  },
+  {
+    "": 194,
+    "Department": "ARAB",
+    "Number": 201,
+    "Name": "Second-Year Arabic I"
+  },
+  {
+    "": 195,
+    "Department": "ARAB",
+    "Number": 202,
+    "Name": "Second-Year Arabic II"
+  },
+  {
+    "": 196,
+    "Department": "ARAB",
+    "Number": 301,
+    "Name": "Third-Year Arabic I"
+  },
+  {
+    "": 197,
+    "Department": "ARAB",
+    "Number": 302,
+    "Name": "Third-Year Arabic II"
+  },
+  {
+    "": 198,
+    "Department": "ARAB",
+    "Number": 401,
+    "Name": "Fourth-Year Arabic:&nbsp; Media Arabic"
+  },
+  {
+    "": 199,
+    "Department": "ARAB",
+    "Number": 402,
+    "Name": "Topics in Arabic Language and Culture"
+  },
+  {
+    "": 200,
+    "Department": "ARAB",
+    "Number": 490,
+    "Name": "Special Topics"
+  },
+  {
+    "": 201,
+    "Department": "ASLC",
+    "Number": 123,
+    "Name": "Arts of Japan"
+  },
+  {
+    "": 202,
+    "Department": "ASLC",
+    "Number": 142,
+    "Name": "Visual Culture of the Islamic World"
+  },
+  {
+    "": 203,
+    "Department": "ASLC",
+    "Number": 143,
+    "Name": "Arts of China"
+  },
+  {
+    "": 204,
+    "Department": "ASLC",
+    "Number": 144,
+    "Name": "Religion in Ancient India"
+  },
+  {
+    "": 205,
+    "Department": "ASLC",
+    "Number": 146,
+    "Name": "Modern China"
+  },
+  {
+    "": 206,
+    "Department": "ASLC",
+    "Number": 148,
+    "Name": "The Modern Middle East: 1800-Present"
+  },
+  {
+    "": 207,
+    "Department": "ASLC",
+    "Number": 152,
+    "Name": "Introduction to Buddhist Traditions"
+  },
+  {
+    "": 208,
+    "Department": "ASLC",
+    "Number": 154,
+    "Name": "Art and Architecture of South Asia"
+  },
+  {
+    "": 209,
+    "Department": "ASLC",
+    "Number": 173,
+    "Name": "Introduction to Medieval and Early Modern South Asia: From the Delhi Sultanates to Mughal Successor States, 1200-1800 A.D."
+  },
+  {
+    "": 210,
+    "Department": "ASLC",
+    "Number": 174,
+    "Name": "Introduction to Modern South Asian History"
+  },
+  {
+    "": 211,
+    "Department": "ASLC",
+    "Number": 200,
+    "Name": "Anthropology and China"
+  },
+  {
+    "": 212,
+    "Department": "ASLC",
+    "Number": 207,
+    "Name": "The Home and the World: Women and Gender in South Asia"
+  },
+  {
+    "": 213,
+    "Department": "ASLC",
+    "Number": 208,
+    "Name": "Power and Politics in Contemporary China"
+  },
+  {
+    "": 214,
+    "Department": "ASLC",
+    "Number": 209,
+    "Name": "China in the International System"
+  },
+  {
+    "": 215,
+    "Department": "ASLC",
+    "Number": 220,
+    "Name": "Reinventing Tokyo: The Art, Literature, and Politics of Japan's Modern Capital"
+  },
+  {
+    "": 216,
+    "Department": "ASLC",
+    "Number": 225,
+    "Name": "Japanese History to 1700s"
+  },
+  {
+    "": 217,
+    "Department": "ASLC",
+    "Number": 230,
+    "Name": "Economy, Society and Change in East Asia"
+  },
+  {
+    "": 218,
+    "Department": "ASLC",
+    "Number": 233,
+    "Name": "Words, Self, and Society: Japanese Literature Since 1750"
+  },
+  {
+    "": 219,
+    "Department": "ASLC",
+    "Number": 234,
+    "Name": "Japan on Screen"
+  },
+  {
+    "": 220,
+    "Department": "ASLC",
+    "Number": 238,
+    "Name": "From Edo to Tokyo: Japanese Art from 1600 to the Present"
+  },
+  {
+    "": 221,
+    "Department": "ASLC",
+    "Number": 247,
+    "Name": "Modern Japanese History from 1800 to the 2000s"
+  },
+  {
+    "": 222,
+    "Department": "ASLC",
+    "Number": 252,
+    "Name": "Buddhist Life Writing"
+  },
+  {
+    "": 223,
+    "Department": "ASLC",
+    "Number": 253,
+    "Name": "Theravada Buddhism"
+  },
+  {
+    "": 224,
+    "Department": "ASLC",
+    "Number": 255,
+    "Name": "Modernity's Media in South Asia"
+  },
+  {
+    "": 225,
+    "Department": "ASLC",
+    "Number": 258,
+    "Name": "Political Economy of the Modern Middle East"
+  },
+  {
+    "": 226,
+    "Department": "ASLC",
+    "Number": 259,
+    "Name": "U.S. Security Policy in the Middle East"
+  },
+  {
+    "": 227,
+    "Department": "ASLC",
+    "Number": 260,
+    "Name": "Buddhist Art of Asia"
+  },
+  {
+    "": 228,
+    "Department": "ASLC",
+    "Number": 267,
+    "Name": "Arts of the Islamic Book"
+  },
+  {
+    "": 229,
+    "Department": "ASLC",
+    "Number": 270,
+    "Name": "Muslim Lives in South Asia"
+  },
+  {
+    "": 230,
+    "Department": "ASLC",
+    "Number": 271,
+    "Name": "Caste and Politics of Inequality in India"
+  },
+  {
+    "": 231,
+    "Department": "ASLC",
+    "Number": 276,
+    "Name": "Perspectives on Chinese History"
+  },
+  {
+    "": 232,
+    "Department": "ASLC",
+    "Number": 281,
+    "Name": "The Arts of Exchange: Cross-Cultural Interaction in the Islamic World, 1400-1800"
+  },
+  {
+    "": 233,
+    "Department": "ASLC",
+    "Number": 317,
+    "Name": "Researching China"
+  },
+  {
+    "": 234,
+    "Department": "ASLC",
+    "Number": 318,
+    "Name": "Chinese Childrearing"
+  },
+  {
+    "": 235,
+    "Department": "ASLC",
+    "Number": 319,
+    "Name": "The Tea Ceremony and Japanese Culture"
+  },
+  {
+    "": 236,
+    "Department": "ASLC",
+    "Number": 320,
+    "Name": "Religion, Empires, and Secular States in the Nineteenth Century"
+  },
+  {
+    "": 237,
+    "Department": "ASLC",
+    "Number": 330,
+    "Name": "Writing about China"
+  },
+  {
+    "": 238,
+    "Department": "ASLC",
+    "Number": 336,
+    "Name": "Apocalypse Japan"
+  },
+  {
+    "": 239,
+    "Department": "ASLC",
+    "Number": 338,
+    "Name": "Madame Butterfly Lives: Cross-Cultural Exchanges in France and Japan"
+  },
+  {
+    "": 240,
+    "Department": "ASLC",
+    "Number": 341,
+    "Name": "Anthropology and the Middle East"
+  },
+  {
+    "": 241,
+    "Department": "ASLC",
+    "Number": 350,
+    "Name": "Asian Capitalism: Historical and Contemporary Views"
+  },
+  {
+    "": 242,
+    "Department": "ASLC",
+    "Number": 352,
+    "Name": "Buddhist Ethics"
+  },
+  {
+    "": 243,
+    "Department": "ASLC",
+    "Number": 355,
+    "Name": "Early Islam: Construction of an Historical Tradition"
+  },
+  {
+    "": 244,
+    "Department": "ASLC",
+    "Number": 356,
+    "Name": "The Islamic Mystical Tradition"
+  },
+  {
+    "": 245,
+    "Department": "ASLC",
+    "Number": 363,
+    "Name": "The Politics of Gender in the Middle East"
+  },
+  {
+    "": 246,
+    "Department": "ASLC",
+    "Number": 370,
+    "Name": "Japan's Empire in Asia, 1868-1945"
+  },
+  {
+    "": 247,
+    "Department": "ASLC",
+    "Number": 381,
+    "Name": "The Art of the Talisman"
+  },
+  {
+    "": 248,
+    "Department": "ASLC",
+    "Number": 382,
+    "Name": "Islamic Intellectual Tradition: The Classics"
+  },
+  {
+    "": 249,
+    "Department": "ASLC",
+    "Number": 403,
+    "Name": "Social Policy in China"
+  },
+  {
+    "": 250,
+    "Department": "ASLC",
+    "Number": 452,
+    "Name": "South Asian Feminist Cinema"
+  },
+  {
+    "": 251,
+    "Department": "ASLC",
+    "Number": 459,
+    "Name": "Inside Iran"
+  },
+  {
+    "": 252,
+    "Department": "ASLC",
+    "Number": 462,
+    "Name": "The History and Memory of the Asia-Pacific War"
+  },
+  {
+    "": 253,
+    "Department": "ASLC",
+    "Number": 475,
+    "Name": "Theory/History/Japan"
+  },
+  {
+    "": 254,
+    "Department": "ASLC",
+    "Number": 489,
+    "Name": "An Era of Translation: The Nineteenth-Century Ottoman Empire"
+  },
+  {
+    "": 255,
+    "Department": "ASLC",
+    "Number": 490,
+    "Name": "Special Topics"
+  },
+  {
+    "": 256,
+    "Department": "ASLC",
+    "Number": 493,
+    "Name": "Turkey: From Ataturk to Erdogan"
+  },
+  {
+    "": 257,
+    "Department": "ASLC",
+    "Number": 494,
+    "Name": "Istanbul"
+  },
+  {
+    "": 258,
+    "Department": "ASLC",
+    "Number": "498,",
+    "Name": "499 Senior Departmental Honors"
+  },
+  {
+    "": 259,
+    "Department": "CHIN",
+    "Number": 101,
+    "Name": "First-Year Chinese I"
+  },
+  {
+    "": 260,
+    "Department": "CHIN",
+    "Number": 102,
+    "Name": "First-Year Chinese II"
+  },
+  {
+    "": 261,
+    "Department": "CHIN",
+    "Number": 201,
+    "Name": "Second-Year Chinese I"
+  },
+  {
+    "": 262,
+    "Department": "CHIN",
+    "Number": 202,
+    "Name": "Second-Year Chinese II"
+  },
+  {
+    "": 263,
+    "Department": "CHIN",
+    "Number": 301,
+    "Name": "Third-Year Chinese I"
+  },
+  {
+    "": 264,
+    "Department": "CHIN",
+    "Number": 302,
+    "Name": "Third-Year Chinese II"
+  },
+  {
+    "": 265,
+    "Department": "CHIN",
+    "Number": 401,
+    "Name": "Fourth-Year Chinese I"
+  },
+  {
+    "": 266,
+    "Department": "CHIN",
+    "Number": 402,
+    "Name": "Fourth-Year Chinese II"
+  },
+  {
+    "": 267,
+    "Department": "CHIN",
+    "Number": 490,
+    "Name": "Special Topics"
+  },
+  {
+    "": 268,
+    "Department": "JAPA",
+    "Number": 101,
+    "Name": "Introduction to the Japanese Language"
+  },
+  {
+    "": 269,
+    "Department": "JAPA",
+    "Number": 102,
+    "Name": "Review and Progress in Japanese"
+  },
+  {
+    "": 270,
+    "Department": "JAPA",
+    "Number": 103,
+    "Name": "Building Survival Skills in Japanese II"
+  },
+  {
+    "": 271,
+    "Department": "JAPA",
+    "Number": 201,
+    "Name": "Functional Japanese"
+  },
+  {
+    "": 272,
+    "Department": "JAPA",
+    "Number": 202,
+    "Name": "Communicating in Sophisticated Japanese"
+  },
+  {
+    "": 273,
+    "Department": "JAPA",
+    "Number": 203,
+    "Name": "Experience with Authentic Japanese Materials"
+  },
+  {
+    "": 274,
+    "Department": "JAPA",
+    "Number": "209H",
+    "Name": "Conquering Kanji I"
+  },
+  {
+    "": 275,
+    "Department": "JAPA",
+    "Number": "210H",
+    "Name": "Conquering Kanji II"
+  },
+  {
+    "": 276,
+    "Department": "JAPA",
+    "Number": 301,
+    "Name": "Introduction to Different Genres of Japanese Writing and Film"
+  },
+  {
+    "": 277,
+    "Department": "JAPA",
+    "Number": 302,
+    "Name": "Moving From \"Learning to Read\" to \"Reading to Learn\" in Japanese"
+  },
+  {
+    "": 278,
+    "Department": "JAPA",
+    "Number": 401,
+    "Name": "Introduction to Thematic Reading and Writing"
+  },
+  {
+    "": 279,
+    "Department": "JAPA",
+    "Number": 402,
+    "Name": "Thematic Reading and Writing"
+  },
+  {
+    "": 280,
+    "Department": "JAPA",
+    "Number": 411,
+    "Name": "Introduction to Great Books and Films in the Original"
+  },
+  {
+    "": 281,
+    "Department": "JAPA",
+    "Number": 412,
+    "Name": "Great Books and Films in the Original"
+  },
+  {
+    "": 35,
+    "Department": "ANTH",
+    "Number": 112,
+    "Name": "Sociocultural Anthropology"
+  },
+  {
+    "": 36,
+    "Department": "ANTH",
+    "Number": 114,
+    "Name": "The Evolution of Human Nature"
+  },
+  {
+    "": 37,
+    "Department": "ANTH",
+    "Number": 200,
+    "Name": "Anthropology and China"
+  },
+  {
+    "": 38,
+    "Department": "ANTH",
+    "Number": 201,
+    "Name": "Anthropology and Science Fiction"
+  },
+  {
+    "": 39,
+    "Department": "ANTH",
+    "Number": 204,
+    "Name": "Living with Animals"
+  },
+  {
+    "": 40,
+    "Department": "ANTH",
+    "Number": 205,
+    "Name": "Latin American Nations"
+  },
+  {
+    "": 41,
+    "Department": "ANTH",
+    "Number": 210,
+    "Name": "Anthropology of Sexuality"
+  },
+  {
+    "": 42,
+    "Department": "ANTH",
+    "Number": 220,
+    "Name": "Collecting the Past: Art and Artifacts of the Ancient Americas"
+  },
+  {
+    "": 43,
+    "Department": "ANTH",
+    "Number": 224,
+    "Name": "Archaeological Method, Theory and Practice"
+  },
+  {
+    "": 44,
+    "Department": "ANTH",
+    "Number": 230,
+    "Name": "Ethnographic Methods"
+  },
+  {
+    "": 45,
+    "Department": "ANTH",
+    "Number": 235,
+    "Name": "Environmental Anthropology"
+  },
+  {
+    "": 46,
+    "Department": "ANTH",
+    "Number": 241,
+    "Name": "Visual Anthropology"
+  },
+  {
+    "": 47,
+    "Department": "ANTH",
+    "Number": 245,
+    "Name": "Medical Anthropology"
+  },
+  {
+    "": 48,
+    "Department": "ANTH",
+    "Number": 251,
+    "Name": "Anthropology of Natural Wealth"
+  },
+  {
+    "": 49,
+    "Department": "ANTH",
+    "Number": 253,
+    "Name": "Muslim Lives in South Asia"
+  },
+  {
+    "": 50,
+    "Department": "ANTH",
+    "Number": 255,
+    "Name": "Modernity's Media in South Asia"
+  },
+  {
+    "": 51,
+    "Department": "ANTH",
+    "Number": 288,
+    "Name": "Comparative Education"
+  },
+  {
+    "": 52,
+    "Department": "ANTH",
+    "Number": 310,
+    "Name": "Culture, Affect, and Psychiatry"
+  },
+  {
+    "": 53,
+    "Department": "ANTH",
+    "Number": 317,
+    "Name": "Researching China"
+  },
+  {
+    "": 54,
+    "Department": "ANTH",
+    "Number": 318,
+    "Name": "Chinese Childrearing"
+  },
+  {
+    "": 55,
+    "Department": "ANTH",
+    "Number": 323,
+    "Name": "History of Anthropological Theory"
+  },
+  {
+    "": 56,
+    "Department": "ANTH",
+    "Number": 324,
+    "Name": "Cultures of Money"
+  },
+  {
+    "": 57,
+    "Department": "ANTH",
+    "Number": 330,
+    "Name": "Writing about China"
+  },
+  {
+    "": 58,
+    "Department": "ANTH",
+    "Number": 331,
+    "Name": "Anthropology and the Middle East"
+  },
+  {
+    "": 59,
+    "Department": "ANTH",
+    "Number": 332,
+    "Name": "Topics in Contemporary Anthropology"
+  },
+  {
+    "": 60,
+    "Department": "ANTH",
+    "Number": 335,
+    "Name": "Gender: An Anthropological Perspective"
+  },
+  {
+    "": 61,
+    "Department": "ANTH",
+    "Number": 339,
+    "Name": "The Anthropology of Food"
+  },
+  {
+    "": 62,
+    "Department": "ANTH",
+    "Number": 343,
+    "Name": "Economic Anthropology and Social Theory"
+  },
+  {
+    "": 63,
+    "Department": "ANTH",
+    "Number": 431,
+    "Name": "Istanbul"
+  },
+  {
+    "": 64,
+    "Department": "ANTH",
+    "Number": "490,",
+    "Name": "490H Special Topics"
+  },
+  {
+    "": 65,
+    "Department": "ANTH",
+    "Number": "499,",
+    "Name": "498 Senior Departmental Honors"
+  },
+  {
+    "": 66,
+    "Department": "SOCI",
+    "Number": 112,
+    "Name": "Self and Society: An Introduction to Sociology"
+  },
+  {
+    "": 67,
+    "Department": "SOCI",
+    "Number": 225,
+    "Name": "Reproducing Social Order: Prisons, Schools, and the Military"
+  },
+  {
+    "": 68,
+    "Department": "SOCI",
+    "Number": 226,
+    "Name": "Unequal Footprints on the Earth: Understanding the Social Drivers of Ecological Crises and Environmental Inequality"
+  },
+  {
+    "": 69,
+    "Department": "SOCI",
+    "Number": 230,
+    "Name": "Economy, Society and Change in East Asia"
+  },
+  {
+    "": 70,
+    "Department": "SOCI",
+    "Number": 234,
+    "Name": "Social Class"
+  },
+  {
+    "": 71,
+    "Department": "SOCI",
+    "Number": 237,
+    "Name": "Gender and Work"
+  },
+  {
+    "": 72,
+    "Department": "SOCI",
+    "Number": 243,
+    "Name": "Drugs and Society"
+  },
+  {
+    "": 73,
+    "Department": "SOCI",
+    "Number": 260,
+    "Name": "Latino Migration:&nbsp; Labor, Lifestyle and Legality"
+  },
+  {
+    "": 74,
+    "Department": "SOCI",
+    "Number": 265,
+    "Name": "Unequal Childhoods:&nbsp; Race, Class and Gender in the United States"
+  },
+  {
+    "": 75,
+    "Department": "SOCI",
+    "Number": 302,
+    "Name": "Globalization, Inequality and Social Change"
+  },
+  {
+    "": 76,
+    "Department": "SOCI",
+    "Number": 305,
+    "Name": "Gender, Migration and Power:&nbsp; Latinos in the Americas"
+  },
+  {
+    "": 77,
+    "Department": "SOCI",
+    "Number": 315,
+    "Name": "Foundations of Sociological Theory"
+  },
+  {
+    "": 78,
+    "Department": "SOCI",
+    "Number": 316,
+    "Name": "Social Research"
+  },
+  {
+    "": 79,
+    "Department": "SOCI",
+    "Number": 324,
+    "Name": "Financial Crises and the Future of Democracy"
+  },
+  {
+    "": 80,
+    "Department": "SOCI",
+    "Number": 326,
+    "Name": "Immigration and the New Latino Second Generation"
+  },
+  {
+    "": 81,
+    "Department": "SOCI",
+    "Number": 334,
+    "Name": "Contours of a Colorblind Culture"
+  },
+  {
+    "": 82,
+    "Department": "SOCI",
+    "Number": 337,
+    "Name": "Dilemmas of Diversity: The Case of Higher Education"
+  },
+  {
+    "": 83,
+    "Department": "SOCI",
+    "Number": 341,
+    "Name": "Ecology, Justice, and the Struggle for Socio-Ecological Change:&nbsp; Environmental Movements and Ideas"
+  },
+  {
+    "": 84,
+    "Department": "SOCI",
+    "Number": 347,
+    "Name": "Sociology from the Margins"
+  },
+  {
+    "": 85,
+    "Department": "SOCI",
+    "Number": 350,
+    "Name": "Asian Capitalism: Historical and Contemporary Views"
+  },
+  {
+    "": 86,
+    "Department": "SOCI",
+    "Number": 353,
+    "Name": "Organizations and Inequality"
+  },
+  {
+    "": 87,
+    "Department": "SOCI",
+    "Number": "490,",
+    "Name": "390 Special Topics"
+  },
+  {
+    "": 88,
+    "Department": "SOCI",
+    "Number": "498,",
+    "Name": "499 Senior Departmental Honors"
+  },
+  {
+    "": 408,
+    "Department": "CLAS",
+    "Number": 121,
+    "Name": "Greek Mythology and Religion"
+  },
+  {
+    "": 409,
+    "Department": "CLAS",
+    "Number": 123,
+    "Name": "Greek Civilization"
+  },
+  {
+    "": 410,
+    "Department": "CLAS",
+    "Number": 124,
+    "Name": "Roman Civilization"
+  },
+  {
+    "": 411,
+    "Department": "CLAS",
+    "Number": 132,
+    "Name": "Greek History"
+  },
+  {
+    "": 412,
+    "Department": "CLAS",
+    "Number": 134,
+    "Name": "Archaeology of Greece"
+  },
+  {
+    "": 413,
+    "Department": "CLAS",
+    "Number": 135,
+    "Name": "History of the Roman Empire"
+  },
+  {
+    "": 414,
+    "Department": "CLAS",
+    "Number": 136,
+    "Name": "History of Rome"
+  },
+  {
+    "": 415,
+    "Department": "CLAS",
+    "Number": 138,
+    "Name": "Greek Drama"
+  },
+  {
+    "": 416,
+    "Department": "CLAS",
+    "Number": "490,",
+    "Name": "390 Special Topics"
+  },
+  {
+    "": 417,
+    "Department": "CLAS",
+    "Number": "499,",
+    "Name": "498 Senior Departmental Honors"
+  },
+  {
+    "": 418,
+    "Department": "GREE",
+    "Number": 111,
+    "Name": "Introduction to the Greek Language"
+  },
+  {
+    "": 419,
+    "Department": "GREE",
+    "Number": 212,
+    "Name": "Greek Prose: Plato's <em>Apology</em>"
+  },
+  {
+    "": 420,
+    "Department": "GREE",
+    "Number": 215,
+    "Name": "An Introduction to Greek Tragedy"
+  },
+  {
+    "": 421,
+    "Department": "GREE",
+    "Number": 217,
+    "Name": "Reading the New Testament"
+  },
+  {
+    "": 422,
+    "Department": "GREE",
+    "Number": 318,
+    "Name": "An Introduction to Greek Epic"
+  },
+  {
+    "": 423,
+    "Department": "GREE",
+    "Number": 441,
+    "Name": "Advanced Readings in Greek Literature I"
+  },
+  {
+    "": 424,
+    "Department": "GREE",
+    "Number": 442,
+    "Name": "Advanced Readings in Greek Literature II"
+  },
+  {
+    "": 425,
+    "Department": "GREE",
+    "Number": 490,
+    "Name": "Special Topics"
+  },
+  {
+    "": 426,
+    "Department": "GREE",
+    "Number": "499,",
+    "Name": "498 Senior Departmental Honors"
+  },
+  {
+    "": 427,
+    "Department": "LATI",
+    "Number": 111,
+    "Name": "An Introduction to Latin Language and Literature"
+  },
+  {
+    "": 428,
+    "Department": "LATI",
+    "Number": 202,
+    "Name": "Intermediate Latin: Introduction to Literature"
+  },
+  {
+    "": 429,
+    "Department": "LATI",
+    "Number": 215,
+    "Name": "Latin Literature: Catullus and the Lyric Spirit"
+  },
+  {
+    "": 430,
+    "Department": "LATI",
+    "Number": 316,
+    "Name": "Latin Literature in the Augustan Age"
+  },
+  {
+    "": 431,
+    "Department": "LATI",
+    "Number": 441,
+    "Name": "Advanced Readings in Latin Literature I"
+  },
+  {
+    "": 432,
+    "Department": "LATI",
+    "Number": 442,
+    "Name": "Advanced Readings in Latin Literature II"
+  },
+  {
+    "": 433,
+    "Department": "LATI",
+    "Number": 490,
+    "Name": "Special Topics"
+  },
+  {
+    "": 434,
+    "Department": "LATI",
+    "Number": "498,",
+    "Name": "499 Senior Departmental Honors"
+  },
+  {
+    "": 922,
+    "Department": "MATH",
+    "Number": 105,
+    "Name": "Calculus with Algebra"
+  },
+  {
+    "": 923,
+    "Department": "MATH",
+    "Number": 106,
+    "Name": "Calculus with Elementary Functions"
+  },
+  {
+    "": 924,
+    "Department": "MATH",
+    "Number": 111,
+    "Name": "Introduction to the Calculus"
+  },
+  {
+    "": 925,
+    "Department": "MATH",
+    "Number": 121,
+    "Name": "Intermediate Calculus"
+  },
+  {
+    "": 926,
+    "Department": "MATH",
+    "Number": 135,
+    "Name": "Introduction to Statistics via Modeling"
+  },
+  {
+    "": 927,
+    "Department": "MATH",
+    "Number": 140,
+    "Name": "Mathematical Modeling"
+  },
+  {
+    "": 928,
+    "Department": "MATH",
+    "Number": 150,
+    "Name": "Voting and Elections: A Mathematical Perspective"
+  },
+  {
+    "": 929,
+    "Department": "MATH",
+    "Number": 205,
+    "Name": "&ne; (Inequality)"
+  },
+  {
+    "": 930,
+    "Department": "MATH",
+    "Number": 211,
+    "Name": "Multivariable Calculus"
+  },
+  {
+    "": 931,
+    "Department": "MATH",
+    "Number": 220,
+    "Name": "Discrete Mathematics"
+  },
+  {
+    "": 932,
+    "Department": "MATH",
+    "Number": 225,
+    "Name": "Fractal Geometry"
+  },
+  {
+    "": 933,
+    "Department": "MATH",
+    "Number": 240,
+    "Name": "Mathematical Modeling of Biological Systems"
+  },
+  {
+    "": 934,
+    "Department": "MATH",
+    "Number": 250,
+    "Name": "Number Theory"
+  },
+  {
+    "": 935,
+    "Department": "MATH",
+    "Number": 255,
+    "Name": "Geometry"
+  },
+  {
+    "": 936,
+    "Department": "MATH",
+    "Number": 260,
+    "Name": "Differential Equations"
+  },
+  {
+    "": 937,
+    "Department": "MATH",
+    "Number": 271,
+    "Name": "Linear Algebra"
+  },
+  {
+    "": 938,
+    "Department": "MATH",
+    "Number": 272,
+    "Name": "Linear Algebra with Applications"
+  },
+  {
+    "": 939,
+    "Department": "MATH",
+    "Number": 280,
+    "Name": "Graph Theory"
+  },
+  {
+    "": 940,
+    "Department": "MATH",
+    "Number": 284,
+    "Name": "Numerical Analysis"
+  },
+  {
+    "": 941,
+    "Department": "MATH",
+    "Number": 294,
+    "Name": "Optimization"
+  },
+  {
+    "": 942,
+    "Department": "MATH",
+    "Number": 310,
+    "Name": "Introduction to the Theory of Partitions"
+  },
+  {
+    "": 943,
+    "Department": "MATH",
+    "Number": 320,
+    "Name": "Wavelet and Fourier Analysis"
+  },
+  {
+    "": 944,
+    "Department": "MATH",
+    "Number": 345,
+    "Name": "Functions of a Complex Variable"
+  },
+  {
+    "": 945,
+    "Department": "MATH",
+    "Number": 350,
+    "Name": "Groups, Rings and Fields"
+  },
+  {
+    "": 946,
+    "Department": "MATH",
+    "Number": 355,
+    "Name": "Introduction to Analysis"
+  },
+  {
+    "": 947,
+    "Department": "MATH",
+    "Number": 359,
+    "Name": "An Introduction to the p-adic Numbers"
+  },
+  {
+    "": 948,
+    "Department": "MATH",
+    "Number": 360,
+    "Name": "Probability"
+  },
+  {
+    "": 949,
+    "Department": "MATH",
+    "Number": 365,
+    "Name": "Stochastic Processes"
+  },
+  {
+    "": 950,
+    "Department": "MATH",
+    "Number": 370,
+    "Name": "Theoretical Statistics"
+  },
+  {
+    "": 951,
+    "Department": "MATH",
+    "Number": 375,
+    "Name": "Introduction to Representation Theory"
+  },
+  {
+    "": 952,
+    "Department": "MATH",
+    "Number": 380,
+    "Name": "Set Theory"
+  },
+  {
+    "": 953,
+    "Department": "MATH",
+    "Number": 385,
+    "Name": "Mathematical Logic"
+  },
+  {
+    "": 954,
+    "Department": "MATH",
+    "Number": "390,",
+    "Name": "490 Special Topics"
+  },
+  {
+    "": 955,
+    "Department": "MATH",
+    "Number": 410,
+    "Name": "Galois Theory"
+  },
+  {
+    "": 956,
+    "Department": "MATH",
+    "Number": 415,
+    "Name": "Topics in Mathematics"
+  },
+  {
+    "": 957,
+    "Department": "MATH",
+    "Number": 450,
+    "Name": "Functions of a Real Variable"
+  },
+  {
+    "": 958,
+    "Department": "MATH",
+    "Number": 455,
+    "Name": "Topology"
+  },
+  {
+    "": 959,
+    "Department": "MATH",
+    "Number": "498,",
+    "Name": "499 Senior Departmental Honors"
+  },
+  {
+    "": 960,
+    "Department": "STAT",
+    "Number": "111,",
+    "Name": "111E Introduction to Statistics"
+  },
+  {
+    "": 961,
+    "Department": "STAT",
+    "Number": 135,
+    "Name": "Introduction to Statistics via Modeling"
+  },
+  {
+    "": 962,
+    "Department": "STAT",
+    "Number": 220,
+    "Name": "Bayesian Modeling and Inference"
+  },
+  {
+    "": 963,
+    "Department": "STAT",
+    "Number": 225,
+    "Name": "Nonparametric Statistics"
+  },
+  {
+    "": 964,
+    "Department": "STAT",
+    "Number": 230,
+    "Name": "Intermediate Statistics"
+  },
+  {
+    "": 965,
+    "Department": "STAT",
+    "Number": 240,
+    "Name": "Multivariate Data Analysis"
+  },
+  {
+    "": 966,
+    "Department": "STAT",
+    "Number": 265,
+    "Name": "Spatial Statistics"
+  },
+  {
+    "": 967,
+    "Department": "STAT",
+    "Number": 320,
+    "Name": "Statistical Communication"
+  },
+  {
+    "": 968,
+    "Department": "STAT",
+    "Number": 360,
+    "Name": "Probability"
+  },
+  {
+    "": 969,
+    "Department": "STAT",
+    "Number": 370,
+    "Name": "Theoretical Statistics"
+  },
+  {
+    "": 1152,
+    "Department": "ASTR",
+    "Number": 111,
+    "Name": "Exploring the Cosmos"
+  },
+  {
+    "": 1153,
+    "Department": "ASTR",
+    "Number": 200,
+    "Name": "Practical Astronomy: Tools and Techniques for Astrophysical Problem Solving"
+  },
+  {
+    "": 1154,
+    "Department": "ASTR",
+    "Number": 220,
+    "Name": "Special Topics in Astronomy: Solar Astronomy"
+  },
+  {
+    "": 1155,
+    "Department": "ASTR",
+    "Number": 226,
+    "Name": "Cosmology"
+  },
+  {
+    "": 1156,
+    "Department": "ASTR",
+    "Number": 228,
+    "Name": "Astrophysics I: Stars and Galaxies"
+  },
+  {
+    "": 1157,
+    "Department": "ASTR",
+    "Number": 335,
+    "Name": "Astrophysics II: Stellar and Planetary Structure"
+  },
+  {
+    "": 1158,
+    "Department": "ASTR",
+    "Number": 352,
+    "Name": "Astrophysics III: Galaxies and the Universe"
+  },
+  {
+    "": 1159,
+    "Department": "ASTR",
+    "Number": 490,
+    "Name": "Special Topics"
+  },
+  {
+    "": 1160,
+    "Department": "ASTR",
+    "Number": "499,",
+    "Name": "498 Senior Departmental Honors"
+  },
+  {
+    "": 1161,
+    "Department": "PHYS",
+    "Number": 109,
+    "Name": "Energy"
+  },
+  {
+    "": 1162,
+    "Department": "PHYS",
+    "Number": 116,
+    "Name": "Introductory Physics I: Mechanics and Wave Motion"
+  },
+  {
+    "": 1163,
+    "Department": "PHYS",
+    "Number": 117,
+    "Name": "Introductory Physics II: Electromagnetism and Optics"
+  },
+  {
+    "": 1164,
+    "Department": "PHYS",
+    "Number": 123,
+    "Name": "The Newtonian Synthesis: Dynamics of Particles and Systems, Waves"
+  },
+  {
+    "": 1165,
+    "Department": "PHYS",
+    "Number": 124,
+    "Name": "The Maxwellian Synthesis: Dynamics of Charges and Fields, Optics"
+  },
+  {
+    "": 1166,
+    "Department": "PHYS",
+    "Number": 137,
+    "Name": "Quantum Mechanics of Two-Level Systems"
+  },
+  {
+    "": 1167,
+    "Department": "PHYS",
+    "Number": 225,
+    "Name": "Modern Physics"
+  },
+  {
+    "": 1168,
+    "Department": "PHYS",
+    "Number": 226,
+    "Name": "Signals and Noise Laboratory"
+  },
+  {
+    "": 1169,
+    "Department": "PHYS",
+    "Number": 227,
+    "Name": "Methods of Theoretical Physics"
+  },
+  {
+    "": 1170,
+    "Department": "PHYS",
+    "Number": 230,
+    "Name": "Statistical Mechanics and Thermodynamics"
+  },
+  {
+    "": 1171,
+    "Department": "PHYS",
+    "Number": 343,
+    "Name": "Dynamics"
+  },
+  {
+    "": 1172,
+    "Department": "PHYS",
+    "Number": 347,
+    "Name": "Electromagnetic Theory I"
+  },
+  {
+    "": 1173,
+    "Department": "PHYS",
+    "Number": 348,
+    "Name": "Quantum Mechanics I"
+  },
+  {
+    "": 1174,
+    "Department": "PHYS",
+    "Number": 400,
+    "Name": "Molecular and Cellular Biophysics"
+  },
+  {
+    "": 1175,
+    "Department": "PHYS",
+    "Number": 490,
+    "Name": "Special Topics"
+  }
+]

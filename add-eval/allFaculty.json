@@ -1,0 +1,4012 @@
+facultydata = [
+  {
+    "": 1,
+    "Department": "AMST",
+    "Name": "Wendy H. Bergoffen"
+  },
+  {
+    "": 2,
+    "Department": "AMST",
+    "Name": "Lisa Brooks"
+  },
+  {
+    "": 3,
+    "Department": "AMST",
+    "Name": "Francis G. Couvares"
+  },
+  {
+    "": 4,
+    "Department": "AMST",
+    "Name": "Solsiree Del Moral"
+  },
+  {
+    "": 5,
+    "Department": "AMST",
+    "Name": "Robert T. Hayashi"
+  },
+  {
+    "": 6,
+    "Department": "AMST",
+    "Name": "Franklin S. Odo"
+  },
+  {
+    "": 7,
+    "Department": "AMST",
+    "Name": "Karen J. Sanchez-Eppler"
+  },
+  {
+    "": 8,
+    "Department": "AMST",
+    "Name": "Leah C. Schmalzbauer"
+  },
+  {
+    "": 9,
+    "Department": "AMST",
+    "Name": "Kiara M. Vigil"
+  },
+  {
+    "": 10,
+    "Department": "AMST",
+    "Name": "hari stephen kumar"
+  },
+  {
+    "": 11,
+    "Department": "AMST",
+    "Name": "Molly Mead"
+  },
+  {
+    "": 12,
+    "Department": "AMST",
+    "Name": "Carol C. Clark"
+  },
+  {
+    "": 13,
+    "Department": "AMST",
+    "Name": "Jan E. Dizard"
+  },
+  {
+    "": 14,
+    "Department": "AMST",
+    "Name": "Allen Guttmann"
+  },
+  {
+    "": 15,
+    "Department": "AMST",
+    "Name": "N. Gordon Levin"
+  },
+  {
+    "": 16,
+    "Department": "AMST",
+    "Name": "Kevin M. Sweeney"
+  },
+  {
+    "": 17,
+    "Department": "AMST",
+    "Name": "Patricia J. Bachand"
+  },
+  {
+    "": 18,
+    "Department": "AMST",
+    "Name": "Karen H. Graves"
+  },
+  {
+    "": 19,
+    "Department": "ANTH",
+    "Name": "Nusrat S. Chowdhury"
+  },
+  {
+    "": 20,
+    "Department": "ANTH",
+    "Name": "Christopher T. Dole"
+  },
+  {
+    "": 21,
+    "Department": "ANTH",
+    "Name": "Vanessa L. Fong"
+  },
+  {
+    "": 22,
+    "Department": "ANTH",
+    "Name": "Deborah B. Gewertz"
+  },
+  {
+    "": 23,
+    "Department": "ANTH",
+    "Name": "Miriam R. Goheen"
+  },
+  {
+    "": 24,
+    "Department": "ANTH",
+    "Name": "Amy C. Hall"
+  },
+  {
+    "": 25,
+    "Department": "ANTH",
+    "Name": "Jerome L. Himmelstein"
+  },
+  {
+    "": 26,
+    "Department": "ANTH",
+    "Name": "Hannah A. Holleman"
+  },
+  {
+    "": 27,
+    "Department": "ANTH",
+    "Name": "Ron Lembo"
+  },
+  {
+    "": 28,
+    "Department": "ANTH",
+    "Name": "Leah C. Schmalzbauer"
+  },
+  {
+    "": 29,
+    "Department": "ANTH",
+    "Name": "Felicity Aulino"
+  },
+  {
+    "": 30,
+    "Department": "ANTH",
+    "Name": "Elizabeth Klarich"
+  },
+  {
+    "": 31,
+    "Department": "ANTH",
+    "Name": "Sahar Sadjadi"
+  },
+  {
+    "": 32,
+    "Department": "ANTH",
+    "Name": "Caterina Scaramelli"
+  },
+  {
+    "": 33,
+    "Department": "ANTH",
+    "Name": "William F. Zimmerman"
+  },
+  {
+    "": 34,
+    "Department": "ANTH",
+    "Name": "Lawrence A. Babb"
+  },
+  {
+    "": 35,
+    "Department": "ANTH",
+    "Name": "Jan E. Dizard"
+  },
+  {
+    "": 36,
+    "Department": "ANTH",
+    "Name": "Patricia J. Bachand"
+  },
+  {
+    "": 37,
+    "Department": "ANTH",
+    "Name": "Karen H. Graves"
+  },
+  {
+    "": 38,
+    "Department": "ARCH",
+    "Name": "Gabriel Arboleda"
+  },
+  {
+    "": 39,
+    "Department": "ARCH",
+    "Name": "Nicola M. Courtright"
+  },
+  {
+    "": 40,
+    "Department": "ARCH",
+    "Name": "Heidi Gilpin"
+  },
+  {
+    "": 41,
+    "Department": "ARCH",
+    "Name": "Thom Long"
+  },
+  {
+    "": 42,
+    "Department": "ARCH",
+    "Name": "Ronald C. Rosbottom"
+  },
+  {
+    "": 43,
+    "Department": "ARCH",
+    "Name": "Dwight A. Carey"
+  },
+  {
+    "": 44,
+    "Department": "ARCH",
+    "Name": "Michael T. Davis"
+  },
+  {
+    "": 45,
+    "Department": "ARCH",
+    "Name": "Jean Jaminet"
+  },
+  {
+    "": 46,
+    "Department": "ARCH",
+    "Name": "Yael R. Rice"
+  },
+  {
+    "": 47,
+    "Department": "ARCH",
+    "Name": "Megan L. Howes"
+  },
+  {
+    "": 48,
+    "Department": "ARHA",
+    "Name": "Rowland O. Abiodun"
+  },
+  {
+    "": 49,
+    "Department": "ARHA",
+    "Name": "Dwight A. Carey"
+  },
+  {
+    "": 50,
+    "Department": "ARHA",
+    "Name": "Nicola M. Courtright"
+  },
+  {
+    "": 51,
+    "Department": "ARHA",
+    "Name": "Douglas Culhane"
+  },
+  {
+    "": 52,
+    "Department": "ARHA",
+    "Name": "Wendy T. Ewald"
+  },
+  {
+    "": 53,
+    "Department": "ARHA",
+    "Name": "Betsey A. Garand"
+  },
+  {
+    "": 54,
+    "Department": "ARHA",
+    "Name": "David I. Gloman"
+  },
+  {
+    "": 55,
+    "Department": "ARHA",
+    "Name": "Carol W. Keller"
+  },
+  {
+    "": 56,
+    "Department": "ARHA",
+    "Name": "Justin F. Kimball"
+  },
+  {
+    "": 57,
+    "Department": "ARHA",
+    "Name": "Adam R. Levine"
+  },
+  {
+    "": 58,
+    "Department": "ARHA",
+    "Name": "Samuel C. Morse"
+  },
+  {
+    "": 59,
+    "Department": "ARHA",
+    "Name": "Yael R. Rice"
+  },
+  {
+    "": 60,
+    "Department": "ARHA",
+    "Name": "Natasha Staller"
+  },
+  {
+    "": 61,
+    "Department": "ARHA",
+    "Name": "Robert T. Sweeney"
+  },
+  {
+    "": 62,
+    "Department": "ARHA",
+    "Name": "Niko K. Vicario"
+  },
+  {
+    "": 63,
+    "Department": "ARHA",
+    "Name": "Cullen B. Washington"
+  },
+  {
+    "": 64,
+    "Department": "ARHA",
+    "Name": "Michael T. Davis"
+  },
+  {
+    "": 65,
+    "Department": "ARHA",
+    "Name": "Lorne Falk"
+  },
+  {
+    "": 66,
+    "Department": "ARHA",
+    "Name": "Chao Ling"
+  },
+  {
+    "": 67,
+    "Department": "ARHA",
+    "Name": "Thom Long"
+  },
+  {
+    "": 68,
+    "Department": "ARHA",
+    "Name": "Pooja G. Rangan"
+  },
+  {
+    "": 69,
+    "Department": "ARHA",
+    "Name": "Carol C. Clark"
+  },
+  {
+    "": 70,
+    "Department": "ARHA",
+    "Name": "Joel M. Upton"
+  },
+  {
+    "": 71,
+    "Department": "ARHA",
+    "Name": "Louise M. Beckett"
+  },
+  {
+    "": 72,
+    "Department": "ARHA",
+    "Name": "Richard Scorpio"
+  },
+  {
+    "": 73,
+    "Department": "ASLC",
+    "Name": "Fumiko U. Brown"
+  },
+  {
+    "": 74,
+    "Department": "ASLC",
+    "Name": "Jerry P. Dennerline"
+  },
+  {
+    "": 75,
+    "Department": "ASLC",
+    "Name": "Mohamed H. Hassan"
+  },
+  {
+    "": 76,
+    "Department": "ASLC",
+    "Name": "Ikumi Kayama"
+  },
+  {
+    "": 77,
+    "Department": "ASLC",
+    "Name": "Weijia Li"
+  },
+  {
+    "": 78,
+    "Department": "ASLC",
+    "Name": "Trent E. Maxey"
+  },
+  {
+    "": 79,
+    "Department": "ASLC",
+    "Name": "Kozue Miyama"
+  },
+  {
+    "": 80,
+    "Department": "ASLC",
+    "Name": "Samuel C. Morse"
+  },
+  {
+    "": 81,
+    "Department": "ASLC",
+    "Name": "Yael R. Rice"
+  },
+  {
+    "": 82,
+    "Department": "ASLC",
+    "Name": "Monica M. Ringer"
+  },
+  {
+    "": 83,
+    "Department": "ASLC",
+    "Name": "Dwaipayan Sen"
+  },
+  {
+    "": 84,
+    "Department": "ASLC",
+    "Name": "Tong Shen"
+  },
+  {
+    "": 85,
+    "Department": "ASLC",
+    "Name": "Wako Tawa"
+  },
+  {
+    "": 86,
+    "Department": "ASLC",
+    "Name": "Xiaoping Teng"
+  },
+  {
+    "": 87,
+    "Department": "ASLC",
+    "Name": "Timothy J. Van Compernolle"
+  },
+  {
+    "": 88,
+    "Department": "ASLC",
+    "Name": "Hisaaki Wake"
+  },
+  {
+    "": 89,
+    "Department": "ASLC",
+    "Name": "Elizabeth J. Angowski"
+  },
+  {
+    "": 90,
+    "Department": "ASLC",
+    "Name": "Amrita Basu"
+  },
+  {
+    "": 91,
+    "Department": "ASLC",
+    "Name": "Nusrat S. Chowdhury"
+  },
+  {
+    "": 92,
+    "Department": "ASLC",
+    "Name": "Christopher T. Dole"
+  },
+  {
+    "": 93,
+    "Department": "ASLC",
+    "Name": "Vanessa L. Fong"
+  },
+  {
+    "": 94,
+    "Department": "ASLC",
+    "Name": "Maria R. Heim"
+  },
+  {
+    "": 95,
+    "Department": "ASLC",
+    "Name": "Tariq Jaffer"
+  },
+  {
+    "": 96,
+    "Department": "ASLC",
+    "Name": "Brahim Oulbeid"
+  },
+  {
+    "": 97,
+    "Department": "ASLC",
+    "Name": "Alaa J. Razeq"
+  },
+  {
+    "": 98,
+    "Department": "ASLC",
+    "Name": "Krupa Shandilya"
+  },
+  {
+    "": 99,
+    "Department": "ASLC",
+    "Name": "Steven N. Simon"
+  },
+  {
+    "": 100,
+    "Department": "ASLC",
+    "Name": "Hitomi Sovjani"
+  },
+  {
+    "": 101,
+    "Department": "ASLC",
+    "Name": "Lawrence A. Babb"
+  },
+  {
+    "": 102,
+    "Department": "ASLC",
+    "Name": "Christopher L. Williford"
+  },
+  {
+    "": 103,
+    "Department": "BCBP",
+    "Name": "Anthony C. Bishop"
+  },
+  {
+    "": 104,
+    "Department": "BCBP",
+    "Name": "Ashley R. Carter"
+  },
+  {
+    "": 105,
+    "Department": "BCBP",
+    "Name": "Caroline E. Goutte"
+  },
+  {
+    "": 106,
+    "Department": "BCBP",
+    "Name": "David E. Hansen"
+  },
+  {
+    "": 107,
+    "Department": "BCBP",
+    "Name": "Sheila S. Jaswal"
+  },
+  {
+    "": 108,
+    "Department": "BCBP",
+    "Name": "Jeeyon Jeong"
+  },
+  {
+    "": 109,
+    "Department": "BCBP",
+    "Name": "William A. Loinaz"
+  },
+  {
+    "": 110,
+    "Department": "BCBP",
+    "Name": "Patricia B. O&#039;Hara"
+  },
+  {
+    "": 111,
+    "Department": "BCBP",
+    "Name": "Dominic L. Poccia"
+  },
+  {
+    "": 112,
+    "Department": "BCBP",
+    "Name": "Alexandra E. Purdy"
+  },
+  {
+    "": 113,
+    "Department": "BCBP",
+    "Name": "David I. Ratner"
+  },
+  {
+    "": 114,
+    "Department": "BCBP",
+    "Name": "Patrick L. Williamson"
+  },
+  {
+    "": 115,
+    "Department": "BCBP",
+    "Name": "Julia A. Emerson"
+  },
+  {
+    "": 116,
+    "Department": "BCBP",
+    "Name": "Catherine A. Stillerman"
+  },
+  {
+    "": 117,
+    "Department": "BIOL",
+    "Name": "Ethan D. Clotfelter"
+  },
+  {
+    "": 118,
+    "Department": "BIOL",
+    "Name": "Caroline E. Goutte"
+  },
+  {
+    "": 119,
+    "Department": "BIOL",
+    "Name": "Ethan R. Graf"
+  },
+  {
+    "": 120,
+    "Department": "BIOL",
+    "Name": "Michael E. Hood"
+  },
+  {
+    "": 121,
+    "Department": "BIOL",
+    "Name": "Jeeyon Jeong"
+  },
+  {
+    "": 122,
+    "Department": "BIOL",
+    "Name": "Rachel A. Levin"
+  },
+  {
+    "": 123,
+    "Department": "BIOL",
+    "Name": "Jill S. Miller"
+  },
+  {
+    "": 124,
+    "Department": "BIOL",
+    "Name": "Dominic L. Poccia"
+  },
+  {
+    "": 125,
+    "Department": "BIOL",
+    "Name": "Alexandra E. Purdy"
+  },
+  {
+    "": 126,
+    "Department": "BIOL",
+    "Name": "David I. Ratner"
+  },
+  {
+    "": 127,
+    "Department": "BIOL",
+    "Name": "Ethan J. Temeles"
+  },
+  {
+    "": 128,
+    "Department": "BIOL",
+    "Name": "Josef G. Trapani"
+  },
+  {
+    "": 129,
+    "Department": "BIOL",
+    "Name": "Patrick L. Williamson"
+  },
+  {
+    "": 130,
+    "Department": "BIOL",
+    "Name": "Julia A. Emerson"
+  },
+  {
+    "": 131,
+    "Department": "BIOL",
+    "Name": "Thea V. Kristensen"
+  },
+  {
+    "": 132,
+    "Department": "BIOL",
+    "Name": "William A. Loinaz"
+  },
+  {
+    "": 133,
+    "Department": "BIOL",
+    "Name": "Patricia B. O&#039;Hara"
+  },
+  {
+    "": 134,
+    "Department": "BIOL",
+    "Name": "Stephen A. George"
+  },
+  {
+    "": 135,
+    "Department": "BIOL",
+    "Name": "Richard A. Goldsby"
+  },
+  {
+    "": 136,
+    "Department": "BIOL",
+    "Name": "William F. Zimmerman"
+  },
+  {
+    "": 137,
+    "Department": "BIOL",
+    "Name": "Julie Fitzgerald"
+  },
+  {
+    "": 138,
+    "Department": "BIOL",
+    "Name": "Valerie A. Hale"
+  },
+  {
+    "": 139,
+    "Department": "BIOL",
+    "Name": "Ronald J. Hebert"
+  },
+  {
+    "": 140,
+    "Department": "BIOL",
+    "Name": "Alan R. Krause"
+  },
+  {
+    "": 141,
+    "Department": "BIOL",
+    "Name": "Maureen G. Manning"
+  },
+  {
+    "": 142,
+    "Department": "BIOL",
+    "Name": "Karen A. Racz"
+  },
+  {
+    "": 143,
+    "Department": "BLST",
+    "Name": "Rowland O. Abiodun"
+  },
+  {
+    "": 144,
+    "Department": "BLST",
+    "Name": "C. Rhonda Cobham-Sander"
+  },
+  {
+    "": 145,
+    "Department": "BLST",
+    "Name": "Solsiree Del Moral"
+  },
+  {
+    "": 146,
+    "Department": "BLST",
+    "Name": "John E. Drabinski"
+  },
+  {
+    "": 147,
+    "Department": "BLST",
+    "Name": "Jeffrey B. Ferguson"
+  },
+  {
+    "": 148,
+    "Department": "BLST",
+    "Name": "Miriam R. Goheen"
+  },
+  {
+    "": 149,
+    "Department": "BLST",
+    "Name": "Alec F. Hickmott"
+  },
+  {
+    "": 150,
+    "Department": "BLST",
+    "Name": "Mary E. Hicks"
+  },
+  {
+    "": 151,
+    "Department": "BLST",
+    "Name": "Hilary J. Moss"
+  },
+  {
+    "": 152,
+    "Department": "BLST",
+    "Name": "Khary O. Polk"
+  },
+  {
+    "": 153,
+    "Department": "BLST",
+    "Name": "Carol Y. Bailey"
+  },
+  {
+    "": 154,
+    "Department": "BLST",
+    "Name": "Amrita Basu"
+  },
+  {
+    "": 155,
+    "Department": "BLST",
+    "Name": "Dwight A. Carey"
+  },
+  {
+    "": 156,
+    "Department": "BLST",
+    "Name": "Michael C. Ching"
+  },
+  {
+    "": 157,
+    "Department": "BLST",
+    "Name": "David P. Delaney"
+  },
+  {
+    "": 158,
+    "Department": "BLST",
+    "Name": "Allen J. Hart"
+  },
+  {
+    "": 159,
+    "Department": "BLST",
+    "Name": "Aneeka A. Henderson"
+  },
+  {
+    "": 160,
+    "Department": "BLST",
+    "Name": "Leah D. Hewitt"
+  },
+  {
+    "": 161,
+    "Department": "BLST",
+    "Name": "Ron Lembo"
+  },
+  {
+    "": 162,
+    "Department": "BLST",
+    "Name": "Branwen Okpako"
+  },
+  {
+    "": 163,
+    "Department": "BLST",
+    "Name": "Olabode F. Omojola"
+  },
+  {
+    "": 164,
+    "Department": "BLST",
+    "Name": "Marisa Parham"
+  },
+  {
+    "": 165,
+    "Department": "BLST",
+    "Name": "Sean Redding"
+  },
+  {
+    "": 166,
+    "Department": "BLST",
+    "Name": "Jason L. Robinson"
+  },
+  {
+    "": 167,
+    "Department": "BLST",
+    "Name": "Geoffrey D. Sanborn"
+  },
+  {
+    "": 168,
+    "Department": "BLST",
+    "Name": "Martha Saxton"
+  },
+  {
+    "": 169,
+    "Department": "BLST",
+    "Name": "Adam Sitze"
+  },
+  {
+    "": 170,
+    "Department": "BLST",
+    "Name": "Kiara M. Vigil"
+  },
+  {
+    "": 171,
+    "Department": "BLST",
+    "Name": "Dale E. Peterson"
+  },
+  {
+    "": 172,
+    "Department": "BLST",
+    "Name": "Andrea B. Rushing"
+  },
+  {
+    "": 173,
+    "Department": "BLST",
+    "Name": "Karla Keyes"
+  },
+  {
+    "": 174,
+    "Department": "CHEM",
+    "Name": "Ashfaq A. Bengali"
+  },
+  {
+    "": 175,
+    "Department": "CHEM",
+    "Name": "Anthony C. Bishop"
+  },
+  {
+    "": 176,
+    "Department": "CHEM",
+    "Name": "Sandra L. Burkett"
+  },
+  {
+    "": 177,
+    "Department": "CHEM",
+    "Name": "David E. Hansen"
+  },
+  {
+    "": 178,
+    "Department": "CHEM",
+    "Name": "Sheila S. Jaswal"
+  },
+  {
+    "": 179,
+    "Department": "CHEM",
+    "Name": "Joseph N. Kushick"
+  },
+  {
+    "": 180,
+    "Department": "CHEM",
+    "Name": "Helen O. Leung"
+  },
+  {
+    "": 181,
+    "Department": "CHEM",
+    "Name": "Mark D. Marshall"
+  },
+  {
+    "": 182,
+    "Department": "CHEM",
+    "Name": "Patricia B. O&#039;Hara"
+  },
+  {
+    "": 183,
+    "Department": "CHEM",
+    "Name": "Elizabeth R. Young"
+  },
+  {
+    "": 184,
+    "Department": "CHEM",
+    "Name": "Richmond J. Ampiah-Bonney"
+  },
+  {
+    "": 185,
+    "Department": "CHEM",
+    "Name": "Jeeyon Jeong"
+  },
+  {
+    "": 186,
+    "Department": "CHEM",
+    "Name": "William A. Loinaz"
+  },
+  {
+    "": 187,
+    "Department": "CHEM",
+    "Name": "Lauren M. Reutenauer"
+  },
+  {
+    "": 188,
+    "Department": "CHEM",
+    "Name": "Kenneth S. Rotondi"
+  },
+  {
+    "": 189,
+    "Department": "CHEM",
+    "Name": "Patrick L. Williamson"
+  },
+  {
+    "": 190,
+    "Department": "CHEM",
+    "Name": "Richard D. Fink"
+  },
+  {
+    "": 191,
+    "Department": "CHEM",
+    "Name": "Shelly A. Martin"
+  },
+  {
+    "": 192,
+    "Department": "CHEM",
+    "Name": "Catherine A. Stillerman"
+  },
+  {
+    "": 193,
+    "Department": "CLAS",
+    "Name": "Frederick T. Griffiths"
+  },
+  {
+    "": 194,
+    "Department": "CLAS",
+    "Name": "Sarah E. Olsen"
+  },
+  {
+    "": 195,
+    "Department": "CLAS",
+    "Name": "Rebecca H. Sinos"
+  },
+  {
+    "": 196,
+    "Department": "CLAS",
+    "Name": "Christopher S. van den Berg"
+  },
+  {
+    "": 197,
+    "Department": "CLAS",
+    "Name": "Andreas T. Zanker"
+  },
+  {
+    "": 198,
+    "Department": "CLAS",
+    "Name": "Dale Sinos"
+  },
+  {
+    "": 199,
+    "Department": "CLAS",
+    "Name": "Laurie P. Canter"
+  },
+  {
+    "": 200,
+    "Department": "COSC",
+    "Name": "James R. Glenn"
+  },
+  {
+    "": 201,
+    "Department": "COSC",
+    "Name": "Scott F. Kaplan"
+  },
+  {
+    "": 202,
+    "Department": "COSC",
+    "Name": "Lyle A. McGeoch"
+  },
+  {
+    "": 203,
+    "Department": "COSC",
+    "Name": "Aarathi Prasad"
+  },
+  {
+    "": 204,
+    "Department": "COSC",
+    "Name": "John E. Rager"
+  },
+  {
+    "": 205,
+    "Department": "COSC",
+    "Name": "Crystal L. Valentine"
+  },
+  {
+    "": 206,
+    "Department": "COSC",
+    "Name": "Anne W. Torrey"
+  },
+  {
+    "": 207,
+    "Department": "ECON",
+    "Name": "Brian H. Baisa"
+  },
+  {
+    "": 208,
+    "Department": "ECON",
+    "Name": "Daniel P. Barbezat"
+  },
+  {
+    "": 209,
+    "Department": "ECON",
+    "Name": "Adam D. Honig"
+  },
+  {
+    "": 210,
+    "Department": "ECON",
+    "Name": "Jun Ishii"
+  },
+  {
+    "": 211,
+    "Department": "ECON",
+    "Name": "Christopher G. Kingston"
+  },
+  {
+    "": 212,
+    "Department": "ECON",
+    "Name": "Stanislav Rabinovich"
+  },
+  {
+    "": 213,
+    "Department": "ECON",
+    "Name": "Collin B. Raymond"
+  },
+  {
+    "": 214,
+    "Department": "ECON",
+    "Name": "Jessica Wolpaw Reyes"
+  },
+  {
+    "": 215,
+    "Department": "ECON",
+    "Name": "Katharine R.E. Sims"
+  },
+  {
+    "": 216,
+    "Department": "ECON",
+    "Name": "Prakarsh Singh"
+  },
+  {
+    "": 217,
+    "Department": "ECON",
+    "Name": "Caroline B. Theoharides"
+  },
+  {
+    "": 218,
+    "Department": "ECON",
+    "Name": "Geoffrey R. Woglom"
+  },
+  {
+    "": 219,
+    "Department": "ECON",
+    "Name": "Beth V. Yarbrough"
+  },
+  {
+    "": 220,
+    "Department": "ECON",
+    "Name": "Andreas V. Georgiou"
+  },
+  {
+    "": 221,
+    "Department": "ECON",
+    "Name": "Steven Schmeiser"
+  },
+  {
+    "": 222,
+    "Department": "ECON",
+    "Name": "Robert M. Yarbrough"
+  },
+  {
+    "": 223,
+    "Department": "ECON",
+    "Name": "Ralph E. Beals"
+  },
+  {
+    "": 224,
+    "Department": "ECON",
+    "Name": "Heinz Kohler"
+  },
+  {
+    "": 225,
+    "Department": "ECON",
+    "Name": "Walter E. Nicholson"
+  },
+  {
+    "": 226,
+    "Department": "ECON",
+    "Name": "Frank H. Westhoff"
+  },
+  {
+    "": 227,
+    "Department": "ECON",
+    "Name": "Jeanne E. Reinle"
+  },
+  {
+    "": 228,
+    "Department": "ENGL",
+    "Name": "Anston L. Bosman"
+  },
+  {
+    "": 229,
+    "Department": "ENGL",
+    "Name": "Lisa Brooks"
+  },
+  {
+    "": 230,
+    "Department": "ENGL",
+    "Name": "Alicia J. Christoff"
+  },
+  {
+    "": 231,
+    "Department": "ENGL",
+    "Name": "C. Rhonda Cobham-Sander"
+  },
+  {
+    "": 232,
+    "Department": "ENGL",
+    "Name": "Judith E. Frank"
+  },
+  {
+    "": 233,
+    "Department": "ENGL",
+    "Name": "Christopher A. Grobe"
+  },
+  {
+    "": 234,
+    "Department": "ENGL",
+    "Name": "Joshua M. Guilford"
+  },
+  {
+    "": 235,
+    "Department": "ENGL",
+    "Name": "Daniel J. Hall"
+  },
+  {
+    "": 236,
+    "Department": "ENGL",
+    "Name": "Amelie E. Hastie"
+  },
+  {
+    "": 237,
+    "Department": "ENGL",
+    "Name": "Yu-ting Huang"
+  },
+  {
+    "": 238,
+    "Department": "ENGL",
+    "Name": "Naomi Jackson"
+  },
+  {
+    "": 239,
+    "Department": "ENGL",
+    "Name": "Ingrid L. Nelson"
+  },
+  {
+    "": 240,
+    "Department": "ENGL",
+    "Name": "Marisa Parham"
+  },
+  {
+    "": 241,
+    "Department": "ENGL",
+    "Name": "Pooja G. Rangan"
+  },
+  {
+    "": 242,
+    "Department": "ENGL",
+    "Name": "Geoffrey D. Sanborn"
+  },
+  {
+    "": 243,
+    "Department": "ENGL",
+    "Name": "Benigno R. Sanchez-Eppler"
+  },
+  {
+    "": 244,
+    "Department": "ENGL",
+    "Name": "Karen J. Sanchez-Eppler"
+  },
+  {
+    "": 245,
+    "Department": "ENGL",
+    "Name": "David R. Sofield"
+  },
+  {
+    "": 246,
+    "Department": "ENGL",
+    "Name": "Amelia S. Worsley"
+  },
+  {
+    "": 247,
+    "Department": "ENGL",
+    "Name": "Carol Y. Bailey"
+  },
+  {
+    "": 248,
+    "Department": "ENGL",
+    "Name": "Michele Barale"
+  },
+  {
+    "": 249,
+    "Department": "ENGL",
+    "Name": "Polina Barskova"
+  },
+  {
+    "": 250,
+    "Department": "ENGL",
+    "Name": "Peter Berek"
+  },
+  {
+    "": 251,
+    "Department": "ENGL",
+    "Name": "Justin D. Cammy"
+  },
+  {
+    "": 252,
+    "Department": "ENGL",
+    "Name": "Connie Congdon"
+  },
+  {
+    "": 253,
+    "Department": "ENGL",
+    "Name": "Aneeka A. Henderson"
+  },
+  {
+    "": 254,
+    "Department": "ENGL",
+    "Name": "Baba Hillman"
+  },
+  {
+    "": 255,
+    "Department": "ENGL",
+    "Name": "Adam R. Levine"
+  },
+  {
+    "": 256,
+    "Department": "ENGL",
+    "Name": "Benson Lieber"
+  },
+  {
+    "": 257,
+    "Department": "ENGL",
+    "Name": "Jake M. Meginsky"
+  },
+  {
+    "": 258,
+    "Department": "ENGL",
+    "Name": "Sarah Osment"
+  },
+  {
+    "": 259,
+    "Department": "ENGL",
+    "Name": "Adam Sitze"
+  },
+  {
+    "": 260,
+    "Department": "ENGL",
+    "Name": "Wendy Woodson"
+  },
+  {
+    "": 261,
+    "Department": "ENGL",
+    "Name": "John Cameron"
+  },
+  {
+    "": 262,
+    "Department": "ENGL",
+    "Name": "Howell D. Chickering"
+  },
+  {
+    "": 263,
+    "Department": "ENGL",
+    "Name": "Allen Guttmann"
+  },
+  {
+    "": 264,
+    "Department": "ENGL",
+    "Name": "Barry O&#039;Connell"
+  },
+  {
+    "": 265,
+    "Department": "ENGL",
+    "Name": "Dale E. Peterson"
+  },
+  {
+    "": 266,
+    "Department": "ENGL",
+    "Name": "William H. Pritchard"
+  },
+  {
+    "": 267,
+    "Department": "ENGL",
+    "Name": "Andrea B. Rushing"
+  },
+  {
+    "": 268,
+    "Department": "ENGL",
+    "Name": "Kim Townsend"
+  },
+  {
+    "": 269,
+    "Department": "ENGL",
+    "Name": "Helen L. von Schmidt"
+  },
+  {
+    "": 270,
+    "Department": "ENGL",
+    "Name": "Julie R. Howland"
+  },
+  {
+    "": 271,
+    "Department": "ENGL",
+    "Name": "Bette A. Kanner"
+  },
+  {
+    "": 272,
+    "Department": "ENST",
+    "Name": "Ethan D. Clotfelter"
+  },
+  {
+    "": 273,
+    "Department": "ENST",
+    "Name": "Jessica N. Hejny"
+  },
+  {
+    "": 274,
+    "Department": "ENST",
+    "Name": "Rachel A. Levin"
+  },
+  {
+    "": 275,
+    "Department": "ENST",
+    "Name": "Rick A. Lopez"
+  },
+  {
+    "": 276,
+    "Department": "ENST",
+    "Name": "Anna M. Martini"
+  },
+  {
+    "": 277,
+    "Department": "ENST",
+    "Name": "Edward D. Melillo"
+  },
+  {
+    "": 278,
+    "Department": "ENST",
+    "Name": "Jill S. Miller"
+  },
+  {
+    "": 279,
+    "Department": "ENST",
+    "Name": "Joseph G. Moore"
+  },
+  {
+    "": 280,
+    "Department": "ENST",
+    "Name": "Katharine R.E. Sims"
+  },
+  {
+    "": 281,
+    "Department": "ENST",
+    "Name": "Ethan J. Temeles"
+  },
+  {
+    "": 282,
+    "Department": "ENST",
+    "Name": "Peter D. Crowley"
+  },
+  {
+    "": 283,
+    "Department": "ENST",
+    "Name": "David P. Delaney"
+  },
+  {
+    "": 284,
+    "Department": "ENST",
+    "Name": "Amy P. Demorest"
+  },
+  {
+    "": 285,
+    "Department": "ENST",
+    "Name": "Robert T. Hayashi"
+  },
+  {
+    "": 286,
+    "Department": "ENST",
+    "Name": "Hannah A. Holleman"
+  },
+  {
+    "": 287,
+    "Department": "ENST",
+    "Name": "Michael E. Hood"
+  },
+  {
+    "": 288,
+    "Department": "ENST",
+    "Name": "Larry R. Hunter"
+  },
+  {
+    "": 289,
+    "Department": "ENST",
+    "Name": "Joanna M. Jeneralczuk"
+  },
+  {
+    "": 290,
+    "Department": "ENST",
+    "Name": "Tanya L. Leise"
+  },
+  {
+    "": 291,
+    "Department": "ENST",
+    "Name": "Shu-Min Liao"
+  },
+  {
+    "": 292,
+    "Department": "ENST",
+    "Name": "Jessica Wolpaw Reyes"
+  },
+  {
+    "": 293,
+    "Department": "ENST",
+    "Name": "Amy S. Wagaman"
+  },
+  {
+    "": 294,
+    "Department": "ENST",
+    "Name": "Jan E. Dizard"
+  },
+  {
+    "": 295,
+    "Department": "ENST",
+    "Name": "Thomas R. Kearns"
+  },
+  {
+    "": 296,
+    "Department": "ENST",
+    "Name": "Diane B. Hutton"
+  },
+  {
+    "": 297,
+    "Department": "EUST",
+    "Name": "Daniel P. Barbezat"
+  },
+  {
+    "": 298,
+    "Department": "EUST",
+    "Name": "Ellen R. Boucher"
+  },
+  {
+    "": 299,
+    "Department": "EUST",
+    "Name": "Ute Brandes"
+  },
+  {
+    "": 300,
+    "Department": "EUST",
+    "Name": "Sara J. Brenneis"
+  },
+  {
+    "": 301,
+    "Department": "EUST",
+    "Name": "Catherine A. Ciepiela"
+  },
+  {
+    "": 302,
+    "Department": "EUST",
+    "Name": "Nicola M. Courtright"
+  },
+  {
+    "": 303,
+    "Department": "EUST",
+    "Name": "Rosalina M. de la Carrera"
+  },
+  {
+    "": 304,
+    "Department": "EUST",
+    "Name": "Robert Doran"
+  },
+  {
+    "": 305,
+    "Department": "EUST",
+    "Name": "Jeffers L. Engelhardt"
+  },
+  {
+    "": 306,
+    "Department": "EUST",
+    "Name": "Catherine A. Epstein"
+  },
+  {
+    "": 307,
+    "Department": "EUST",
+    "Name": "Heidi Gilpin"
+  },
+  {
+    "": 308,
+    "Department": "EUST",
+    "Name": "Frederick T. Griffiths"
+  },
+  {
+    "": 309,
+    "Department": "EUST",
+    "Name": "Catherine V. Infante"
+  },
+  {
+    "": 310,
+    "Department": "EUST",
+    "Name": "Laure A. Katsaros"
+  },
+  {
+    "": 311,
+    "Department": "EUST",
+    "Name": "Thom Long"
+  },
+  {
+    "": 312,
+    "Department": "EUST",
+    "Name": "Pavel Machala"
+  },
+  {
+    "": 313,
+    "Department": "EUST",
+    "Name": "Ruxandra Paul"
+  },
+  {
+    "": 314,
+    "Department": "EUST",
+    "Name": "Stanley J. Rabinowitz"
+  },
+  {
+    "": 315,
+    "Department": "EUST",
+    "Name": "Paul V. Rockwell"
+  },
+  {
+    "": 316,
+    "Department": "EUST",
+    "Name": "Christian Rogowski"
+  },
+  {
+    "": 317,
+    "Department": "EUST",
+    "Name": "Ronald C. Rosbottom"
+  },
+  {
+    "": 318,
+    "Department": "EUST",
+    "Name": "David E. Schneider"
+  },
+  {
+    "": 319,
+    "Department": "EUST",
+    "Name": "Rebecca H. Sinos"
+  },
+  {
+    "": 320,
+    "Department": "EUST",
+    "Name": "Natasha Staller"
+  },
+  {
+    "": 321,
+    "Department": "EUST",
+    "Name": "Ilan Stavans"
+  },
+  {
+    "": 322,
+    "Department": "EUST",
+    "Name": "Boris Wolfson"
+  },
+  {
+    "": 323,
+    "Department": "EUST",
+    "Name": "Polina Barskova"
+  },
+  {
+    "": 324,
+    "Department": "EUST",
+    "Name": "Justin D. Cammy"
+  },
+  {
+    "": 325,
+    "Department": "EUST",
+    "Name": "Jun Hee Cho"
+  },
+  {
+    "": 326,
+    "Department": "EUST",
+    "Name": "Sergey Glebov"
+  },
+  {
+    "": 327,
+    "Department": "EUST",
+    "Name": "Jenny L. Kallick"
+  },
+  {
+    "": 328,
+    "Department": "EUST",
+    "Name": "Rick A. Lopez"
+  },
+  {
+    "": 329,
+    "Department": "EUST",
+    "Name": "Klara Moricz"
+  },
+  {
+    "": 330,
+    "Department": "EUST",
+    "Name": "Ingrid L. Nelson"
+  },
+  {
+    "": 331,
+    "Department": "EUST",
+    "Name": "Lisa A. Raskin"
+  },
+  {
+    "": 332,
+    "Department": "EUST",
+    "Name": "April D. Trask"
+  },
+  {
+    "": 333,
+    "Department": "EUST",
+    "Name": "Robert J. Bezucha"
+  },
+  {
+    "": 334,
+    "Department": "EUST",
+    "Name": "Jay L. Caplan"
+  },
+  {
+    "": 335,
+    "Department": "EUST",
+    "Name": "Howell D. Chickering"
+  },
+  {
+    "": 336,
+    "Department": "EUST",
+    "Name": "Peter Czap"
+  },
+  {
+    "": 337,
+    "Department": "EUST",
+    "Name": "Leah D. Hewitt"
+  },
+  {
+    "": 338,
+    "Department": "EUST",
+    "Name": "James E. Maraniss"
+  },
+  {
+    "": 339,
+    "Department": "EUST",
+    "Name": "Sigrit I. Schutz"
+  },
+  {
+    "": 340,
+    "Department": "EUST",
+    "Name": "Ronald S. Tiersky"
+  },
+  {
+    "": 341,
+    "Department": "EUST",
+    "Name": "Laurie P. Canter"
+  },
+  {
+    "": 342,
+    "Department": "FAMS",
+    "Name": "Joshua M. Guilford"
+  },
+  {
+    "": 343,
+    "Department": "FAMS",
+    "Name": "Amelie E. Hastie"
+  },
+  {
+    "": 344,
+    "Department": "FAMS",
+    "Name": "Adam R. Levine"
+  },
+  {
+    "": 345,
+    "Department": "FAMS",
+    "Name": "Pooja G. Rangan"
+  },
+  {
+    "": 346,
+    "Department": "FAMS",
+    "Name": "Timothy J. Van Compernolle"
+  },
+  {
+    "": 347,
+    "Department": "FAMS",
+    "Name": "Sara J. Brenneis"
+  },
+  {
+    "": 348,
+    "Department": "FAMS",
+    "Name": "Francis G. Couvares"
+  },
+  {
+    "": 349,
+    "Department": "FAMS",
+    "Name": "John E. Drabinski"
+  },
+  {
+    "": 350,
+    "Department": "FAMS",
+    "Name": "Jeffers L. Engelhardt"
+  },
+  {
+    "": 351,
+    "Department": "FAMS",
+    "Name": "Deborah B. Gewertz"
+  },
+  {
+    "": 352,
+    "Department": "FAMS",
+    "Name": "Heidi Gilpin"
+  },
+  {
+    "": 353,
+    "Department": "FAMS",
+    "Name": "Aneeka A. Henderson"
+  },
+  {
+    "": 354,
+    "Department": "FAMS",
+    "Name": "Baba Hillman"
+  },
+  {
+    "": 355,
+    "Department": "FAMS",
+    "Name": "Carol W. Keller"
+  },
+  {
+    "": 356,
+    "Department": "FAMS",
+    "Name": "Justin F. Kimball"
+  },
+  {
+    "": 357,
+    "Department": "FAMS",
+    "Name": "Ron Lembo"
+  },
+  {
+    "": 358,
+    "Department": "FAMS",
+    "Name": "Sarah Osment"
+  },
+  {
+    "": 359,
+    "Department": "FAMS",
+    "Name": "Marisa Parham"
+  },
+  {
+    "": 360,
+    "Department": "FAMS",
+    "Name": "Jason L. Robinson"
+  },
+  {
+    "": 361,
+    "Department": "FAMS",
+    "Name": "Christian Rogowski"
+  },
+  {
+    "": 362,
+    "Department": "FAMS",
+    "Name": "Ronald C. Rosbottom"
+  },
+  {
+    "": 363,
+    "Department": "FAMS",
+    "Name": "Austin D. Sarat"
+  },
+  {
+    "": 364,
+    "Department": "FAMS",
+    "Name": "Krupa Shandilya"
+  },
+  {
+    "": 365,
+    "Department": "FAMS",
+    "Name": "Boris Wolfson"
+  },
+  {
+    "": 366,
+    "Department": "FAMS",
+    "Name": "Wendy Woodson"
+  },
+  {
+    "": 367,
+    "Department": "FAMS",
+    "Name": "John Cameron"
+  },
+  {
+    "": 368,
+    "Department": "FAMS",
+    "Name": "Jay L. Caplan"
+  },
+  {
+    "": 369,
+    "Department": "FAMS",
+    "Name": "Leah D. Hewitt"
+  },
+  {
+    "": 370,
+    "Department": "FAMS",
+    "Name": "James E. Maraniss"
+  },
+  {
+    "": 371,
+    "Department": "FAMS",
+    "Name": "Helen L. von Schmidt"
+  },
+  {
+    "": 372,
+    "Department": "FAMS",
+    "Name": "Elizabeth J. Kolenda"
+  },
+  {
+    "": 373,
+    "Department": "FREN",
+    "Name": "Rosalina M. de la Carrera"
+  },
+  {
+    "": 374,
+    "Department": "FREN",
+    "Name": "Laure A. Katsaros"
+  },
+  {
+    "": 375,
+    "Department": "FREN",
+    "Name": "Paul V. Rockwell"
+  },
+  {
+    "": 376,
+    "Department": "FREN",
+    "Name": "Raphael Sigal"
+  },
+  {
+    "": 377,
+    "Department": "FREN",
+    "Name": "Raina F. Uhden"
+  },
+  {
+    "": 378,
+    "Department": "FREN",
+    "Name": "Anouk Alquier"
+  },
+  {
+    "": 379,
+    "Department": "FREN",
+    "Name": "Ronald C. Rosbottom"
+  },
+  {
+    "": 380,
+    "Department": "FREN",
+    "Name": "Jay L. Caplan"
+  },
+  {
+    "": 381,
+    "Department": "FREN",
+    "Name": "Leah D. Hewitt"
+  },
+  {
+    "": 382,
+    "Department": "FREN",
+    "Name": "Aida Y. Nawar"
+  },
+  {
+    "": 383,
+    "Department": "FREN",
+    "Name": "Elizabeth A. Eddy"
+  },
+  {
+    "": 384,
+    "Department": "GEOL",
+    "Name": "John T. Cheney"
+  },
+  {
+    "": 385,
+    "Department": "GEOL",
+    "Name": "Peter D. Crowley"
+  },
+  {
+    "": 386,
+    "Department": "GEOL",
+    "Name": "Tekla A. Harms"
+  },
+  {
+    "": 387,
+    "Department": "GEOL",
+    "Name": "David S. Jones"
+  },
+  {
+    "": 388,
+    "Department": "GEOL",
+    "Name": "Kinuyo Kanamaru"
+  },
+  {
+    "": 389,
+    "Department": "GEOL",
+    "Name": "Anna M. Martini"
+  },
+  {
+    "": 390,
+    "Department": "GEOL",
+    "Name": "Margery C. Coombs"
+  },
+  {
+    "": 391,
+    "Department": "GEOL",
+    "Name": "Edward S. Belt"
+  },
+  {
+    "": 392,
+    "Department": "GEOL",
+    "Name": "Diane B. Hutton"
+  },
+  {
+    "": 393,
+    "Department": "GEOL",
+    "Name": "Hayley M. Singleton"
+  },
+  {
+    "": 394,
+    "Department": "GEOL",
+    "Name": "William R. Slocombe"
+  },
+  {
+    "": 395,
+    "Department": "GEOL",
+    "Name": "Alfred J. Venne"
+  },
+  {
+    "": 396,
+    "Department": "GERM",
+    "Name": "Ute Brandes"
+  },
+  {
+    "": 397,
+    "Department": "GERM",
+    "Name": "Heidi Gilpin"
+  },
+  {
+    "": 398,
+    "Department": "GERM",
+    "Name": "Biddy Martin"
+  },
+  {
+    "": 399,
+    "Department": "GERM",
+    "Name": "Christian Rogowski"
+  },
+  {
+    "": 400,
+    "Department": "GERM",
+    "Name": "Anna K Schrade"
+  },
+  {
+    "": 401,
+    "Department": "GERM",
+    "Name": "Sigrit I. Schutz"
+  },
+  {
+    "": 402,
+    "Department": "GERM",
+    "Name": "Donald O. White"
+  },
+  {
+    "": 403,
+    "Department": "GERM",
+    "Name": "Megan L. Howes"
+  },
+  {
+    "": 404,
+    "Department": "HIST",
+    "Name": "Ellen R. Boucher"
+  },
+  {
+    "": 405,
+    "Department": "HIST",
+    "Name": "Jun Hee Cho"
+  },
+  {
+    "": 406,
+    "Department": "HIST",
+    "Name": "Francis G. Couvares"
+  },
+  {
+    "": 407,
+    "Department": "HIST",
+    "Name": "Jerry P. Dennerline"
+  },
+  {
+    "": 408,
+    "Department": "HIST",
+    "Name": "Catherine A. Epstein"
+  },
+  {
+    "": 409,
+    "Department": "HIST",
+    "Name": "Sergey Glebov"
+  },
+  {
+    "": 410,
+    "Department": "HIST",
+    "Name": "Adi Gordon"
+  },
+  {
+    "": 411,
+    "Department": "HIST",
+    "Name": "Alec F. Hickmott"
+  },
+  {
+    "": 412,
+    "Department": "HIST",
+    "Name": "Mary E. Hicks"
+  },
+  {
+    "": 413,
+    "Department": "HIST",
+    "Name": "Rick A. Lopez"
+  },
+  {
+    "": 414,
+    "Department": "HIST",
+    "Name": "Jen Manion"
+  },
+  {
+    "": 415,
+    "Department": "HIST",
+    "Name": "Trent E. Maxey"
+  },
+  {
+    "": 416,
+    "Department": "HIST",
+    "Name": "Edward D. Melillo"
+  },
+  {
+    "": 417,
+    "Department": "HIST",
+    "Name": "Hilary J. Moss"
+  },
+  {
+    "": 418,
+    "Department": "HIST",
+    "Name": "Sean Redding"
+  },
+  {
+    "": 419,
+    "Department": "HIST",
+    "Name": "Monica M. Ringer"
+  },
+  {
+    "": 420,
+    "Department": "HIST",
+    "Name": "Dwaipayan Sen"
+  },
+  {
+    "": 421,
+    "Department": "HIST",
+    "Name": "John W. Servos"
+  },
+  {
+    "": 422,
+    "Department": "HIST",
+    "Name": "Steven N. Simon"
+  },
+  {
+    "": 423,
+    "Department": "HIST",
+    "Name": "April D. Trask"
+  },
+  {
+    "": 424,
+    "Department": "HIST",
+    "Name": "Vanessa Walker"
+  },
+  {
+    "": 425,
+    "Department": "HIST",
+    "Name": "Michael C. Ching"
+  },
+  {
+    "": 426,
+    "Department": "HIST",
+    "Name": "Franklin S. Odo"
+  },
+  {
+    "": 427,
+    "Department": "HIST",
+    "Name": "Robert J. Bezucha"
+  },
+  {
+    "": 428,
+    "Department": "HIST",
+    "Name": "Mavis C. Campbell"
+  },
+  {
+    "": 429,
+    "Department": "HIST",
+    "Name": "Peter Czap"
+  },
+  {
+    "": 430,
+    "Department": "HIST",
+    "Name": "N. Gordon Levin"
+  },
+  {
+    "": 431,
+    "Department": "HIST",
+    "Name": "Ray A. Moore"
+  },
+  {
+    "": 432,
+    "Department": "HIST",
+    "Name": "Martha Saxton"
+  },
+  {
+    "": 433,
+    "Department": "HIST",
+    "Name": "Kevin M. Sweeney"
+  },
+  {
+    "": 434,
+    "Department": "HIST",
+    "Name": "Tracie L. Rubeck"
+  },
+  {
+    "": 435,
+    "Department": "LJST",
+    "Name": "Arnulf A. Becker"
+  },
+  {
+    "": 436,
+    "Department": "LJST",
+    "Name": "David P. Delaney"
+  },
+  {
+    "": 437,
+    "Department": "LJST",
+    "Name": "Lawrence R. Douglas"
+  },
+  {
+    "": 438,
+    "Department": "LJST",
+    "Name": "Sarah Johnson"
+  },
+  {
+    "": 439,
+    "Department": "LJST",
+    "Name": "Austin D. Sarat"
+  },
+  {
+    "": 440,
+    "Department": "LJST",
+    "Name": "Adam Sitze"
+  },
+  {
+    "": 441,
+    "Department": "LJST",
+    "Name": "Martha M. Umphrey"
+  },
+  {
+    "": 442,
+    "Department": "LJST",
+    "Name": "Thomas R. Kearns"
+  },
+  {
+    "": 443,
+    "Department": "LJST",
+    "Name": "Megan L. Estes"
+  },
+  {
+    "": 444,
+    "Department": "MATH",
+    "Name": "Danielle L. Benedetto"
+  },
+  {
+    "": 445,
+    "Department": "MATH",
+    "Name": "Robert L. Benedetto"
+  },
+  {
+    "": 446,
+    "Department": "MATH",
+    "Name": "Gregory S. Call"
+  },
+  {
+    "": 447,
+    "Department": "MATH",
+    "Name": "Michael C. Ching"
+  },
+  {
+    "": 448,
+    "Department": "MATH",
+    "Name": "David A. Cox"
+  },
+  {
+    "": 449,
+    "Department": "MATH",
+    "Name": "Harris B. Daniels"
+  },
+  {
+    "": 450,
+    "Department": "MATH",
+    "Name": "Amanda L. Folsom"
+  },
+  {
+    "": 451,
+    "Department": "MATH",
+    "Name": "Nicholas J. Horton"
+  },
+  {
+    "": 452,
+    "Department": "MATH",
+    "Name": "Jamie L. Juul"
+  },
+  {
+    "": 453,
+    "Department": "MATH",
+    "Name": "Tanya L. Leise"
+  },
+  {
+    "": 454,
+    "Department": "MATH",
+    "Name": "Shu-Min Liao"
+  },
+  {
+    "": 455,
+    "Department": "MATH",
+    "Name": "Pamela B. Matheson"
+  },
+  {
+    "": 456,
+    "Department": "MATH",
+    "Name": "Yusra F. Naqvi"
+  },
+  {
+    "": 457,
+    "Department": "MATH",
+    "Name": "Gabriel E. Sosa Castillo"
+  },
+  {
+    "": 458,
+    "Department": "MATH",
+    "Name": "Daniel J. Velleman"
+  },
+  {
+    "": 459,
+    "Department": "MATH",
+    "Name": "Amy S. Wagaman"
+  },
+  {
+    "": 460,
+    "Department": "MATH",
+    "Name": "Yongheng Zhang"
+  },
+  {
+    "": 461,
+    "Department": "MATH",
+    "Name": "Joanna M. Jeneralczuk"
+  },
+  {
+    "": 462,
+    "Department": "MATH",
+    "Name": "Hilary J. Moss"
+  },
+  {
+    "": 463,
+    "Department": "MATH",
+    "Name": "Karamatou A. Yacoubou Djima"
+  },
+  {
+    "": 464,
+    "Department": "MATH",
+    "Name": "David L. Armacost"
+  },
+  {
+    "": 465,
+    "Department": "MATH",
+    "Name": "Norton Starr"
+  },
+  {
+    "": 466,
+    "Department": "MATH",
+    "Name": "Anne W. Torrey"
+  },
+  {
+    "": 467,
+    "Department": "MUSI",
+    "Name": "Mallorie Chernin"
+  },
+  {
+    "": 468,
+    "Department": "MUSI",
+    "Name": "Bruce P. Diehl"
+  },
+  {
+    "": 469,
+    "Department": "MUSI",
+    "Name": "Jeffers L. Engelhardt"
+  },
+  {
+    "": 470,
+    "Department": "MUSI",
+    "Name": "Jenny L. Kallick"
+  },
+  {
+    "": 471,
+    "Department": "MUSI",
+    "Name": "John D. McDonald"
+  },
+  {
+    "": 472,
+    "Department": "MUSI",
+    "Name": "Klara Moricz"
+  },
+  {
+    "": 473,
+    "Department": "MUSI",
+    "Name": "Jason L. Robinson"
+  },
+  {
+    "": 474,
+    "Department": "MUSI",
+    "Name": "Eric W. Sawyer"
+  },
+  {
+    "": 475,
+    "Department": "MUSI",
+    "Name": "David E. Schneider"
+  },
+  {
+    "": 476,
+    "Department": "MUSI",
+    "Name": "Mark L. Swanson"
+  },
+  {
+    "": 477,
+    "Department": "MUSI",
+    "Name": "Suzette M. Farnham"
+  },
+  {
+    "": 478,
+    "Department": "MUSI",
+    "Name": "Jake M. Meginsky"
+  },
+  {
+    "": 479,
+    "Department": "MUSI",
+    "Name": "Olabode F. Omojola"
+  },
+  {
+    "": 480,
+    "Department": "MUSI",
+    "Name": "Dylan J. Schneider"
+  },
+  {
+    "": 481,
+    "Department": "MUSI",
+    "Name": "Wendy Woodson"
+  },
+  {
+    "": 482,
+    "Department": "MUSI",
+    "Name": "Edmund M. Keyes"
+  },
+  {
+    "": 483,
+    "Department": "MUSI",
+    "Name": "Ann R. Maggs"
+  },
+  {
+    "": 484,
+    "Department": "MUSI",
+    "Name": "Alisa C. Pearson"
+  },
+  {
+    "": 485,
+    "Department": "NEUR",
+    "Name": "John-Paul Baird"
+  },
+  {
+    "": 486,
+    "Department": "NEUR",
+    "Name": "Ethan R. Graf"
+  },
+  {
+    "": 487,
+    "Department": "NEUR",
+    "Name": "Lisa A. Raskin"
+  },
+  {
+    "": 488,
+    "Department": "NEUR",
+    "Name": "Josef G. Trapani"
+  },
+  {
+    "": 489,
+    "Department": "NEUR",
+    "Name": "Sarah M. Turgeon"
+  },
+  {
+    "": 490,
+    "Department": "NEUR",
+    "Name": "Caroline E. Goutte"
+  },
+  {
+    "": 491,
+    "Department": "NEUR",
+    "Name": "Dominic L. Poccia"
+  },
+  {
+    "": 492,
+    "Department": "NEUR",
+    "Name": "Patrick L. Williamson"
+  },
+  {
+    "": 493,
+    "Department": "NEUR",
+    "Name": "Stephen A. George"
+  },
+  {
+    "": 494,
+    "Department": "NEUR",
+    "Name": "Isabel Margolin"
+  },
+  {
+    "": 495,
+    "Department": "PHIL",
+    "Name": "Jyl Gentzler"
+  },
+  {
+    "": 496,
+    "Department": "PHIL",
+    "Name": "Alexander George"
+  },
+  {
+    "": 497,
+    "Department": "PHIL",
+    "Name": "Rafeeq Hasan"
+  },
+  {
+    "": 498,
+    "Department": "PHIL",
+    "Name": "Joseph G. Moore"
+  },
+  {
+    "": 499,
+    "Department": "PHIL",
+    "Name": "Nishiten Shah"
+  },
+  {
+    "": 500,
+    "Department": "PHIL",
+    "Name": "Jonathan M. Vogel"
+  },
+  {
+    "": 501,
+    "Department": "PHIL",
+    "Name": "Kristen G. Brookes"
+  },
+  {
+    "": 502,
+    "Department": "PHIL",
+    "Name": "Thomas R. Kearns"
+  },
+  {
+    "": 503,
+    "Department": "PHIL",
+    "Name": "Dee J. Brace"
+  },
+  {
+    "": 504,
+    "Department": "PHYS",
+    "Name": "Ashley R. Carter"
+  },
+  {
+    "": 505,
+    "Department": "PHYS",
+    "Name": "Katherine B. Follette"
+  },
+  {
+    "": 506,
+    "Department": "PHYS",
+    "Name": "Jonathan R. Friedman"
+  },
+  {
+    "": 507,
+    "Department": "PHYS",
+    "Name": "David S. Hall"
+  },
+  {
+    "": 508,
+    "Department": "PHYS",
+    "Name": "David A. Hanneke"
+  },
+  {
+    "": 509,
+    "Department": "PHYS",
+    "Name": "Larry R. Hunter"
+  },
+  {
+    "": 510,
+    "Department": "PHYS",
+    "Name": "Kannan Jagannathan"
+  },
+  {
+    "": 511,
+    "Department": "PHYS",
+    "Name": "William A. Loinaz"
+  },
+  {
+    "": 512,
+    "Department": "PHYS",
+    "Name": "Michael D. Stage"
+  },
+  {
+    "": 513,
+    "Department": "PHYS",
+    "Name": "Ryan A. Carollo"
+  },
+  {
+    "": 514,
+    "Department": "PHYS",
+    "Name": "Patrick L. Williamson"
+  },
+  {
+    "": 515,
+    "Department": "PHYS",
+    "Name": "Joel E. Gordon"
+  },
+  {
+    "": 516,
+    "Department": "PHYS",
+    "Name": "George S. Greenstein"
+  },
+  {
+    "": 517,
+    "Department": "PHYS",
+    "Name": "Robert C. Hilborn"
+  },
+  {
+    "": 518,
+    "Department": "PHYS",
+    "Name": "Robert H. Romer"
+  },
+  {
+    "": 519,
+    "Department": "PHYS",
+    "Name": "Arthur G. Zajonc"
+  },
+  {
+    "": 520,
+    "Department": "PHYS",
+    "Name": "Mishael Coggeshall-Burr"
+  },
+  {
+    "": 521,
+    "Department": "PHYS",
+    "Name": "Charles A. Collett"
+  },
+  {
+    "": 522,
+    "Department": "PHYS",
+    "Name": "Brian J. Crepeau"
+  },
+  {
+    "": 523,
+    "Department": "PHYS",
+    "Name": "Moumita Dasgupta"
+  },
+  {
+    "": 524,
+    "Department": "PHYS",
+    "Name": "James M. Kubasek"
+  },
+  {
+    "": 525,
+    "Department": "PHYS",
+    "Name": "Stephen K. Peck"
+  },
+  {
+    "": 526,
+    "Department": "PHYS",
+    "Name": "Alice M. Simmoneau"
+  },
+  {
+    "": 527,
+    "Department": "POSC",
+    "Name": "Amrita Basu"
+  },
+  {
+    "": 528,
+    "Department": "POSC",
+    "Name": "Kristin Bumiller"
+  },
+  {
+    "": 529,
+    "Department": "POSC",
+    "Name": "Javier Corrales"
+  },
+  {
+    "": 530,
+    "Department": "POSC",
+    "Name": "Thomas L. Dumm"
+  },
+  {
+    "": 531,
+    "Department": "POSC",
+    "Name": "Pavel Machala"
+  },
+  {
+    "": 532,
+    "Department": "POSC",
+    "Name": "Jonathan M. Obert"
+  },
+  {
+    "": 533,
+    "Department": "POSC",
+    "Name": "Ruxandra Paul"
+  },
+  {
+    "": 534,
+    "Department": "POSC",
+    "Name": "Manuela Picq"
+  },
+  {
+    "": 535,
+    "Department": "POSC",
+    "Name": "Andrew Poe"
+  },
+  {
+    "": 536,
+    "Department": "POSC",
+    "Name": "Kerry E. Ratigan"
+  },
+  {
+    "": 537,
+    "Department": "POSC",
+    "Name": "Austin D. Sarat"
+  },
+  {
+    "": 538,
+    "Department": "POSC",
+    "Name": "Kim Y. Dionne"
+  },
+  {
+    "": 539,
+    "Department": "POSC",
+    "Name": "Jessica C. Lake"
+  },
+  {
+    "": 540,
+    "Department": "POSC",
+    "Name": "Eleonora Mattiacci"
+  },
+  {
+    "": 541,
+    "Department": "POSC",
+    "Name": "Sayres S. Rudy"
+  },
+  {
+    "": 542,
+    "Department": "POSC",
+    "Name": "Krupa Shandilya"
+  },
+  {
+    "": 543,
+    "Department": "POSC",
+    "Name": "Hadley P. Arkes"
+  },
+  {
+    "": 544,
+    "Department": "POSC",
+    "Name": "William C. Taubman"
+  },
+  {
+    "": 545,
+    "Department": "POSC",
+    "Name": "Ronald S. Tiersky"
+  },
+  {
+    "": 546,
+    "Department": "POSC",
+    "Name": "Theresa A. Laizer"
+  },
+  {
+    "": 547,
+    "Department": "POSC",
+    "Name": "Donna M. Simpter"
+  },
+  {
+    "": 548,
+    "Department": "PSYC",
+    "Name": "Elizabeth J. Aries"
+  },
+  {
+    "": 549,
+    "Department": "PSYC",
+    "Name": "John-Paul Baird"
+  },
+  {
+    "": 550,
+    "Department": "PSYC",
+    "Name": "Amy P. Demorest"
+  },
+  {
+    "": 551,
+    "Department": "PSYC",
+    "Name": "Allen J. Hart"
+  },
+  {
+    "": 552,
+    "Department": "PSYC",
+    "Name": "Megan K. McCarty"
+  },
+  {
+    "": 553,
+    "Department": "PSYC",
+    "Name": "Julia D. McQuade"
+  },
+  {
+    "": 554,
+    "Department": "PSYC",
+    "Name": "Carrie Palmquist"
+  },
+  {
+    "": 555,
+    "Department": "PSYC",
+    "Name": "Lisa A. Raskin"
+  },
+  {
+    "": 556,
+    "Department": "PSYC",
+    "Name": "Catherine A. Sanderson"
+  },
+  {
+    "": 557,
+    "Department": "PSYC",
+    "Name": "Matthew D. Schulkind"
+  },
+  {
+    "": 558,
+    "Department": "PSYC",
+    "Name": "Sarah M. Turgeon"
+  },
+  {
+    "": 559,
+    "Department": "PSYC",
+    "Name": "Ethan R. Graf"
+  },
+  {
+    "": 560,
+    "Department": "PSYC",
+    "Name": "Isabel Margolin"
+  },
+  {
+    "": 561,
+    "Department": "RELI",
+    "Name": "Andrew C. Dole"
+  },
+  {
+    "": 562,
+    "Department": "RELI",
+    "Name": "Robert Doran"
+  },
+  {
+    "": 563,
+    "Department": "RELI",
+    "Name": "Bill Girard"
+  },
+  {
+    "": 564,
+    "Department": "RELI",
+    "Name": "Maria R. Heim"
+  },
+  {
+    "": 565,
+    "Department": "RELI",
+    "Name": "Tariq Jaffer"
+  },
+  {
+    "": 566,
+    "Department": "RELI",
+    "Name": "Susan Niditch"
+  },
+  {
+    "": 567,
+    "Department": "RELI",
+    "Name": "David W. Wills"
+  },
+  {
+    "": 568,
+    "Department": "RELI",
+    "Name": "Elizabeth J. Angowski"
+  },
+  {
+    "": 569,
+    "Department": "RELI",
+    "Name": "Mary Farag"
+  },
+  {
+    "": 570,
+    "Department": "RELI",
+    "Name": "Joel Kaminsky"
+  },
+  {
+    "": 571,
+    "Department": "RELI",
+    "Name": "Andrew Olendzki"
+  },
+  {
+    "": 572,
+    "Department": "RELI",
+    "Name": "Lisa M. Ballou"
+  },
+  {
+    "": 573,
+    "Department": "RUSS",
+    "Name": "Tatyana Babyonyshev"
+  },
+  {
+    "": 574,
+    "Department": "RUSS",
+    "Name": "Catherine A. Ciepiela"
+  },
+  {
+    "": 575,
+    "Department": "RUSS",
+    "Name": "Stanley J. Rabinowitz"
+  },
+  {
+    "": 576,
+    "Department": "RUSS",
+    "Name": "Boris Wolfson"
+  },
+  {
+    "": 577,
+    "Department": "RUSS",
+    "Name": "Polina Barskova"
+  },
+  {
+    "": 578,
+    "Department": "RUSS",
+    "Name": "Sergey Glebov"
+  },
+  {
+    "": 579,
+    "Department": "RUSS",
+    "Name": "Dale E. Peterson"
+  },
+  {
+    "": 580,
+    "Department": "RUSS",
+    "Name": "Viktoria Schweitzer"
+  },
+  {
+    "": 581,
+    "Department": "RUSS",
+    "Name": "Jane A. Taubman"
+  },
+  {
+    "": 582,
+    "Department": "RUSS",
+    "Name": "Elizabeth H. Damon"
+  },
+  {
+    "": 583,
+    "Department": "SWAG",
+    "Name": "Michele Barale"
+  },
+  {
+    "": 584,
+    "Department": "SWAG",
+    "Name": "Amrita Basu"
+  },
+  {
+    "": 585,
+    "Department": "SWAG",
+    "Name": "Wendy H. Bergoffen"
+  },
+  {
+    "": 586,
+    "Department": "SWAG",
+    "Name": "Frederick T. Griffiths"
+  },
+  {
+    "": 587,
+    "Department": "SWAG",
+    "Name": "Aneeka A. Henderson"
+  },
+  {
+    "": 588,
+    "Department": "SWAG",
+    "Name": "Biddy Martin"
+  },
+  {
+    "": 589,
+    "Department": "SWAG",
+    "Name": "Khary O. Polk"
+  },
+  {
+    "": 590,
+    "Department": "SWAG",
+    "Name": "Sahar Sadjadi"
+  },
+  {
+    "": 591,
+    "Department": "SWAG",
+    "Name": "Krupa Shandilya"
+  },
+  {
+    "": 592,
+    "Department": "SWAG",
+    "Name": "Carol Y. Bailey"
+  },
+  {
+    "": 593,
+    "Department": "SWAG",
+    "Name": "Nicola M. Courtright"
+  },
+  {
+    "": 594,
+    "Department": "SWAG",
+    "Name": "Deborah B. Gewertz"
+  },
+  {
+    "": 595,
+    "Department": "SWAG",
+    "Name": "Maryam Kamali Andani"
+  },
+  {
+    "": 596,
+    "Department": "SWAG",
+    "Name": "Jessica C. Lake"
+  },
+  {
+    "": 597,
+    "Department": "SWAG",
+    "Name": "Benson Lieber"
+  },
+  {
+    "": 598,
+    "Department": "SWAG",
+    "Name": "Jen Manion"
+  },
+  {
+    "": 599,
+    "Department": "SWAG",
+    "Name": "Manuela Picq"
+  },
+  {
+    "": 600,
+    "Department": "SWAG",
+    "Name": "Natasha Staller"
+  },
+  {
+    "": 601,
+    "Department": "SWAG",
+    "Name": "April D. Trask"
+  },
+  {
+    "": 602,
+    "Department": "SWAG",
+    "Name": "Martha Saxton"
+  },
+  {
+    "": 603,
+    "Department": "SWAG",
+    "Name": "Stephanie M. Orion"
+  },
+  {
+    "": 604,
+    "Department": "SPAN",
+    "Name": "Monica Bel Lopez"
+  },
+  {
+    "": 605,
+    "Department": "SPAN",
+    "Name": "Sara J. Brenneis"
+  },
+  {
+    "": 606,
+    "Department": "SPAN",
+    "Name": "Carmen C. Granda"
+  },
+  {
+    "": 607,
+    "Department": "SPAN",
+    "Name": "Catherine V. Infante"
+  },
+  {
+    "": 608,
+    "Department": "SPAN",
+    "Name": "Maribel Rams"
+  },
+  {
+    "": 609,
+    "Department": "SPAN",
+    "Name": "Paul A. Schroeder Rodriguez"
+  },
+  {
+    "": 610,
+    "Department": "SPAN",
+    "Name": "Ilan Stavans"
+  },
+  {
+    "": 611,
+    "Department": "SPAN",
+    "Name": "James E. Maraniss"
+  },
+  {
+    "": 612,
+    "Department": "SPAN",
+    "Name": "Lauren F. Gladu"
+  },
+  {
+    "": 613,
+    "Department": "THDA",
+    "Name": "Ronald Dean Bashford"
+  },
+  {
+    "": 614,
+    "Department": "THDA",
+    "Name": "Connie Congdon"
+  },
+  {
+    "": 615,
+    "Department": "THDA",
+    "Name": "Suzanne P. Dougan"
+  },
+  {
+    "": 616,
+    "Department": "THDA",
+    "Name": "Yagil Eliraz"
+  },
+  {
+    "": 617,
+    "Department": "THDA",
+    "Name": "Ninoska M. Escobar"
+  },
+  {
+    "": 618,
+    "Department": "THDA",
+    "Name": "Paul D. Matteson"
+  },
+  {
+    "": 619,
+    "Department": "THDA",
+    "Name": "Wendy Woodson"
+  },
+  {
+    "": 620,
+    "Department": "THDA",
+    "Name": "Djola Branner"
+  },
+  {
+    "": 621,
+    "Department": "THDA",
+    "Name": "Kathy C. Couch"
+  },
+  {
+    "": 622,
+    "Department": "THDA",
+    "Name": "Shakia F. Johnson"
+  },
+  {
+    "": 623,
+    "Department": "THDA",
+    "Name": "Jake M. Meginsky"
+  },
+  {
+    "": 624,
+    "Department": "THDA",
+    "Name": "Jennifer C. Nugent"
+  },
+  {
+    "": 625,
+    "Department": "THDA",
+    "Name": "Marilyn M. Sylla"
+  },
+  {
+    "": 626,
+    "Department": "THDA",
+    "Name": "Constance Valis Hill"
+  },
+  {
+    "": 627,
+    "Department": "THDA",
+    "Name": "Peter T. Lobdell"
+  },
+  {
+    "": 628,
+    "Department": "THDA",
+    "Name": "Jeffrey C. Bird"
+  },
+  {
+    "": 629,
+    "Department": "THDA",
+    "Name": "Jonathan M. Doyle"
+  },
+  {
+    "": 630,
+    "Department": "THDA",
+    "Name": "Carla G. Froeberg"
+  },
+  {
+    "": 631,
+    "Department": "THDA",
+    "Name": "Sylvia B. Hickman"
+  },
+  {
+    "": 632,
+    "Department": "THDA",
+    "Name": "Emily K. Hoem"
+  },
+  {
+    "": 633,
+    "Department": "THDA",
+    "Name": "Suzie Rivers"
+  },
+  {
+    "": 731,
+    "Department": "ARAB",
+    "Name": "Fumiko U. Brown"
+  },
+  {
+    "": 741,
+    "Department": "ARAB",
+    "Name": "Jerry P. Dennerline"
+  },
+  {
+    "": 751,
+    "Department": "ARAB",
+    "Name": "Mohamed H. Hassan"
+  },
+  {
+    "": 761,
+    "Department": "ARAB",
+    "Name": "Ikumi Kayama"
+  },
+  {
+    "": 771,
+    "Department": "ARAB",
+    "Name": "Weijia Li"
+  },
+  {
+    "": 781,
+    "Department": "ARAB",
+    "Name": "Trent E. Maxey"
+  },
+  {
+    "": 791,
+    "Department": "ARAB",
+    "Name": "Kozue Miyama"
+  },
+  {
+    "": 801,
+    "Department": "ARAB",
+    "Name": "Samuel C. Morse"
+  },
+  {
+    "": 811,
+    "Department": "ARAB",
+    "Name": "Yael R. Rice"
+  },
+  {
+    "": 821,
+    "Department": "ARAB",
+    "Name": "Monica M. Ringer"
+  },
+  {
+    "": 831,
+    "Department": "ARAB",
+    "Name": "Dwaipayan Sen"
+  },
+  {
+    "": 841,
+    "Department": "ARAB",
+    "Name": "Tong Shen"
+  },
+  {
+    "": 851,
+    "Department": "ARAB",
+    "Name": "Wako Tawa"
+  },
+  {
+    "": 861,
+    "Department": "ARAB",
+    "Name": "Xiaoping Teng"
+  },
+  {
+    "": 871,
+    "Department": "ARAB",
+    "Name": "Timothy J. Van Compernolle"
+  },
+  {
+    "": 881,
+    "Department": "ARAB",
+    "Name": "Hisaaki Wake"
+  },
+  {
+    "": 891,
+    "Department": "ARAB",
+    "Name": "Elizabeth J. Angowski"
+  },
+  {
+    "": 901,
+    "Department": "ARAB",
+    "Name": "Amrita Basu"
+  },
+  {
+    "": 911,
+    "Department": "ARAB",
+    "Name": "Nusrat S. Chowdhury"
+  },
+  {
+    "": 921,
+    "Department": "ARAB",
+    "Name": "Christopher T. Dole"
+  },
+  {
+    "": 931,
+    "Department": "ARAB",
+    "Name": "Vanessa L. Fong"
+  },
+  {
+    "": 941,
+    "Department": "ARAB",
+    "Name": "Maria R. Heim"
+  },
+  {
+    "": 951,
+    "Department": "ARAB",
+    "Name": "Tariq Jaffer"
+  },
+  {
+    "": 961,
+    "Department": "ARAB",
+    "Name": "Brahim Oulbeid"
+  },
+  {
+    "": 971,
+    "Department": "ARAB",
+    "Name": "Alaa J. Razeq"
+  },
+  {
+    "": 981,
+    "Department": "ARAB",
+    "Name": "Krupa Shandilya"
+  },
+  {
+    "": 991,
+    "Department": "ARAB",
+    "Name": "Steven N. Simon"
+  },
+  {
+    "": 1001,
+    "Department": "ARAB",
+    "Name": "Hitomi Sovjani"
+  },
+  {
+    "": 1011,
+    "Department": "ARAB",
+    "Name": "Lawrence A. Babb"
+  },
+  {
+    "": 1021,
+    "Department": "ARAB",
+    "Name": "Christopher L. Williford"
+  },
+  {
+    "": 732,
+    "Department": "CHIN",
+    "Name": "Fumiko U. Brown"
+  },
+  {
+    "": 742,
+    "Department": "CHIN",
+    "Name": "Jerry P. Dennerline"
+  },
+  {
+    "": 752,
+    "Department": "CHIN",
+    "Name": "Mohamed H. Hassan"
+  },
+  {
+    "": 762,
+    "Department": "CHIN",
+    "Name": "Ikumi Kayama"
+  },
+  {
+    "": 772,
+    "Department": "CHIN",
+    "Name": "Weijia Li"
+  },
+  {
+    "": 782,
+    "Department": "CHIN",
+    "Name": "Trent E. Maxey"
+  },
+  {
+    "": 792,
+    "Department": "CHIN",
+    "Name": "Kozue Miyama"
+  },
+  {
+    "": 802,
+    "Department": "CHIN",
+    "Name": "Samuel C. Morse"
+  },
+  {
+    "": 812,
+    "Department": "CHIN",
+    "Name": "Yael R. Rice"
+  },
+  {
+    "": 822,
+    "Department": "CHIN",
+    "Name": "Monica M. Ringer"
+  },
+  {
+    "": 832,
+    "Department": "CHIN",
+    "Name": "Dwaipayan Sen"
+  },
+  {
+    "": 842,
+    "Department": "CHIN",
+    "Name": "Tong Shen"
+  },
+  {
+    "": 852,
+    "Department": "CHIN",
+    "Name": "Wako Tawa"
+  },
+  {
+    "": 862,
+    "Department": "CHIN",
+    "Name": "Xiaoping Teng"
+  },
+  {
+    "": 872,
+    "Department": "CHIN",
+    "Name": "Timothy J. Van Compernolle"
+  },
+  {
+    "": 882,
+    "Department": "CHIN",
+    "Name": "Hisaaki Wake"
+  },
+  {
+    "": 892,
+    "Department": "CHIN",
+    "Name": "Elizabeth J. Angowski"
+  },
+  {
+    "": 902,
+    "Department": "CHIN",
+    "Name": "Amrita Basu"
+  },
+  {
+    "": 912,
+    "Department": "CHIN",
+    "Name": "Nusrat S. Chowdhury"
+  },
+  {
+    "": 922,
+    "Department": "CHIN",
+    "Name": "Christopher T. Dole"
+  },
+  {
+    "": 932,
+    "Department": "CHIN",
+    "Name": "Vanessa L. Fong"
+  },
+  {
+    "": 942,
+    "Department": "CHIN",
+    "Name": "Maria R. Heim"
+  },
+  {
+    "": 952,
+    "Department": "CHIN",
+    "Name": "Tariq Jaffer"
+  },
+  {
+    "": 962,
+    "Department": "CHIN",
+    "Name": "Brahim Oulbeid"
+  },
+  {
+    "": 972,
+    "Department": "CHIN",
+    "Name": "Alaa J. Razeq"
+  },
+  {
+    "": 982,
+    "Department": "CHIN",
+    "Name": "Krupa Shandilya"
+  },
+  {
+    "": 992,
+    "Department": "CHIN",
+    "Name": "Steven N. Simon"
+  },
+  {
+    "": 1002,
+    "Department": "CHIN",
+    "Name": "Hitomi Sovjani"
+  },
+  {
+    "": 1012,
+    "Department": "CHIN",
+    "Name": "Lawrence A. Babb"
+  },
+  {
+    "": 1022,
+    "Department": "CHIN",
+    "Name": "Christopher L. Williford"
+  },
+  {
+    "": 733,
+    "Department": "JAPA",
+    "Name": "Fumiko U. Brown"
+  },
+  {
+    "": 743,
+    "Department": "JAPA",
+    "Name": "Jerry P. Dennerline"
+  },
+  {
+    "": 753,
+    "Department": "JAPA",
+    "Name": "Mohamed H. Hassan"
+  },
+  {
+    "": 763,
+    "Department": "JAPA",
+    "Name": "Ikumi Kayama"
+  },
+  {
+    "": 773,
+    "Department": "JAPA",
+    "Name": "Weijia Li"
+  },
+  {
+    "": 783,
+    "Department": "JAPA",
+    "Name": "Trent E. Maxey"
+  },
+  {
+    "": 793,
+    "Department": "JAPA",
+    "Name": "Kozue Miyama"
+  },
+  {
+    "": 803,
+    "Department": "JAPA",
+    "Name": "Samuel C. Morse"
+  },
+  {
+    "": 813,
+    "Department": "JAPA",
+    "Name": "Yael R. Rice"
+  },
+  {
+    "": 823,
+    "Department": "JAPA",
+    "Name": "Monica M. Ringer"
+  },
+  {
+    "": 833,
+    "Department": "JAPA",
+    "Name": "Dwaipayan Sen"
+  },
+  {
+    "": 843,
+    "Department": "JAPA",
+    "Name": "Tong Shen"
+  },
+  {
+    "": 853,
+    "Department": "JAPA",
+    "Name": "Wako Tawa"
+  },
+  {
+    "": 863,
+    "Department": "JAPA",
+    "Name": "Xiaoping Teng"
+  },
+  {
+    "": 873,
+    "Department": "JAPA",
+    "Name": "Timothy J. Van Compernolle"
+  },
+  {
+    "": 883,
+    "Department": "JAPA",
+    "Name": "Hisaaki Wake"
+  },
+  {
+    "": 893,
+    "Department": "JAPA",
+    "Name": "Elizabeth J. Angowski"
+  },
+  {
+    "": 903,
+    "Department": "JAPA",
+    "Name": "Amrita Basu"
+  },
+  {
+    "": 913,
+    "Department": "JAPA",
+    "Name": "Nusrat S. Chowdhury"
+  },
+  {
+    "": 923,
+    "Department": "JAPA",
+    "Name": "Christopher T. Dole"
+  },
+  {
+    "": 933,
+    "Department": "JAPA",
+    "Name": "Vanessa L. Fong"
+  },
+  {
+    "": 943,
+    "Department": "JAPA",
+    "Name": "Maria R. Heim"
+  },
+  {
+    "": 953,
+    "Department": "JAPA",
+    "Name": "Tariq Jaffer"
+  },
+  {
+    "": 963,
+    "Department": "JAPA",
+    "Name": "Brahim Oulbeid"
+  },
+  {
+    "": 973,
+    "Department": "JAPA",
+    "Name": "Alaa J. Razeq"
+  },
+  {
+    "": 983,
+    "Department": "JAPA",
+    "Name": "Krupa Shandilya"
+  },
+  {
+    "": 993,
+    "Department": "JAPA",
+    "Name": "Steven N. Simon"
+  },
+  {
+    "": 1003,
+    "Department": "JAPA",
+    "Name": "Hitomi Sovjani"
+  },
+  {
+    "": 1013,
+    "Department": "JAPA",
+    "Name": "Lawrence A. Babb"
+  },
+  {
+    "": 1023,
+    "Department": "JAPA",
+    "Name": "Christopher L. Williford"
+  },
+  {
+    "": 1910,
+    "Department": "SOCI",
+    "Name": "Nusrat S. Chowdhury"
+  },
+  {
+    "": 2010,
+    "Department": "SOCI",
+    "Name": "Christopher T. Dole"
+  },
+  {
+    "": 2110,
+    "Department": "SOCI",
+    "Name": "Vanessa L. Fong"
+  },
+  {
+    "": 2210,
+    "Department": "SOCI",
+    "Name": "Deborah B. Gewertz"
+  },
+  {
+    "": 2310,
+    "Department": "SOCI",
+    "Name": "Miriam R. Goheen"
+  },
+  {
+    "": 2410,
+    "Department": "SOCI",
+    "Name": "Amy C. Hall"
+  },
+  {
+    "": 2510,
+    "Department": "SOCI",
+    "Name": "Jerome L. Himmelstein"
+  },
+  {
+    "": 2610,
+    "Department": "SOCI",
+    "Name": "Hannah A. Holleman"
+  },
+  {
+    "": 2710,
+    "Department": "SOCI",
+    "Name": "Ron Lembo"
+  },
+  {
+    "": 2810,
+    "Department": "SOCI",
+    "Name": "Leah C. Schmalzbauer"
+  },
+  {
+    "": 2910,
+    "Department": "SOCI",
+    "Name": "Felicity Aulino"
+  },
+  {
+    "": 3010,
+    "Department": "SOCI",
+    "Name": "Elizabeth Klarich"
+  },
+  {
+    "": 3110,
+    "Department": "SOCI",
+    "Name": "Sahar Sadjadi"
+  },
+  {
+    "": 3210,
+    "Department": "SOCI",
+    "Name": "Caterina Scaramelli"
+  },
+  {
+    "": 3310,
+    "Department": "SOCI",
+    "Name": "William F. Zimmerman"
+  },
+  {
+    "": 3410,
+    "Department": "SOCI",
+    "Name": "Lawrence A. Babb"
+  },
+  {
+    "": 3510,
+    "Department": "SOCI",
+    "Name": "Jan E. Dizard"
+  },
+  {
+    "": 3610,
+    "Department": "SOCI",
+    "Name": "Patricia J. Bachand"
+  },
+  {
+    "": 3710,
+    "Department": "SOCI",
+    "Name": "Karen H. Graves"
+  },
+  {
+    "": 1931,
+    "Department": "GREE",
+    "Name": "Frederick T. Griffiths"
+  },
+  {
+    "": 1941,
+    "Department": "GREE",
+    "Name": "Sarah E. Olsen"
+  },
+  {
+    "": 1951,
+    "Department": "GREE",
+    "Name": "Rebecca H. Sinos"
+  },
+  {
+    "": 1961,
+    "Department": "GREE",
+    "Name": "Christopher S. van den Berg"
+  },
+  {
+    "": 1971,
+    "Department": "GREE",
+    "Name": "Andreas T. Zanker"
+  },
+  {
+    "": 1981,
+    "Department": "GREE",
+    "Name": "Dale Sinos"
+  },
+  {
+    "": 1991,
+    "Department": "GREE",
+    "Name": "Laurie P. Canter"
+  },
+  {
+    "": 1932,
+    "Department": "LATI",
+    "Name": "Frederick T. Griffiths"
+  },
+  {
+    "": 1942,
+    "Department": "LATI",
+    "Name": "Sarah E. Olsen"
+  },
+  {
+    "": 1952,
+    "Department": "LATI",
+    "Name": "Rebecca H. Sinos"
+  },
+  {
+    "": 1962,
+    "Department": "LATI",
+    "Name": "Christopher S. van den Berg"
+  },
+  {
+    "": 1972,
+    "Department": "LATI",
+    "Name": "Andreas T. Zanker"
+  },
+  {
+    "": 1982,
+    "Department": "LATI",
+    "Name": "Dale Sinos"
+  },
+  {
+    "": 1992,
+    "Department": "LATI",
+    "Name": "Laurie P. Canter"
+  },
+  {
+    "": 4441,
+    "Department": "STAT",
+    "Name": "Danielle L. Benedetto"
+  },
+  {
+    "": 4451,
+    "Department": "STAT",
+    "Name": "Robert L. Benedetto"
+  },
+  {
+    "": 4461,
+    "Department": "STAT",
+    "Name": "Gregory S. Call"
+  },
+  {
+    "": 4471,
+    "Department": "STAT",
+    "Name": "Michael C. Ching"
+  },
+  {
+    "": 4481,
+    "Department": "STAT",
+    "Name": "David A. Cox"
+  },
+  {
+    "": 4491,
+    "Department": "STAT",
+    "Name": "Harris B. Daniels"
+  },
+  {
+    "": 4501,
+    "Department": "STAT",
+    "Name": "Amanda L. Folsom"
+  },
+  {
+    "": 4511,
+    "Department": "STAT",
+    "Name": "Nicholas J. Horton"
+  },
+  {
+    "": 4521,
+    "Department": "STAT",
+    "Name": "Jamie L. Juul"
+  },
+  {
+    "": 4531,
+    "Department": "STAT",
+    "Name": "Tanya L. Leise"
+  },
+  {
+    "": 4541,
+    "Department": "STAT",
+    "Name": "Shu-Min Liao"
+  },
+  {
+    "": 4551,
+    "Department": "STAT",
+    "Name": "Pamela B. Matheson"
+  },
+  {
+    "": 4561,
+    "Department": "STAT",
+    "Name": "Yusra F. Naqvi"
+  },
+  {
+    "": 4571,
+    "Department": "STAT",
+    "Name": "Gabriel E. Sosa Castillo"
+  },
+  {
+    "": 4581,
+    "Department": "STAT",
+    "Name": "Daniel J. Velleman"
+  },
+  {
+    "": 4591,
+    "Department": "STAT",
+    "Name": "Amy S. Wagaman"
+  },
+  {
+    "": 4601,
+    "Department": "STAT",
+    "Name": "Yongheng Zhang"
+  },
+  {
+    "": 4611,
+    "Department": "STAT",
+    "Name": "Joanna M. Jeneralczuk"
+  },
+  {
+    "": 4621,
+    "Department": "STAT",
+    "Name": "Hilary J. Moss"
+  },
+  {
+    "": 4631,
+    "Department": "STAT",
+    "Name": "Karamatou A. Yacoubou Djima"
+  },
+  {
+    "": 4641,
+    "Department": "STAT",
+    "Name": "David L. Armacost"
+  },
+  {
+    "": 4651,
+    "Department": "STAT",
+    "Name": "Norton Starr"
+  },
+  {
+    "": 4661,
+    "Department": "STAT",
+    "Name": "Anne W. Torrey"
+  },
+  {
+    "": 5041,
+    "Department": "ASTR",
+    "Name": "Ashley R. Carter"
+  },
+  {
+    "": 5051,
+    "Department": "ASTR",
+    "Name": "Katherine B. Follette"
+  },
+  {
+    "": 5061,
+    "Department": "ASTR",
+    "Name": "Jonathan R. Friedman"
+  },
+  {
+    "": 5071,
+    "Department": "ASTR",
+    "Name": "David S. Hall"
+  },
+  {
+    "": 5081,
+    "Department": "ASTR",
+    "Name": "David A. Hanneke"
+  },
+  {
+    "": 5091,
+    "Department": "ASTR",
+    "Name": "Larry R. Hunter"
+  },
+  {
+    "": 5101,
+    "Department": "ASTR",
+    "Name": "Kannan Jagannathan"
+  },
+  {
+    "": 5111,
+    "Department": "ASTR",
+    "Name": "William A. Loinaz"
+  },
+  {
+    "": 5121,
+    "Department": "ASTR",
+    "Name": "Michael D. Stage"
+  },
+  {
+    "": 5131,
+    "Department": "ASTR",
+    "Name": "Ryan A. Carollo"
+  },
+  {
+    "": 5141,
+    "Department": "ASTR",
+    "Name": "Patrick L. Williamson"
+  },
+  {
+    "": 5151,
+    "Department": "ASTR",
+    "Name": "Joel E. Gordon"
+  },
+  {
+    "": 5161,
+    "Department": "ASTR",
+    "Name": "George S. Greenstein"
+  },
+  {
+    "": 5171,
+    "Department": "ASTR",
+    "Name": "Robert C. Hilborn"
+  },
+  {
+    "": 5181,
+    "Department": "ASTR",
+    "Name": "Robert H. Romer"
+  },
+  {
+    "": 5191,
+    "Department": "ASTR",
+    "Name": "Arthur G. Zajonc"
+  },
+  {
+    "": 5201,
+    "Department": "ASTR",
+    "Name": "Mishael Coggeshall-Burr"
+  },
+  {
+    "": 5211,
+    "Department": "ASTR",
+    "Name": "Charles A. Collett"
+  },
+  {
+    "": 5221,
+    "Department": "ASTR",
+    "Name": "Brian J. Crepeau"
+  },
+  {
+    "": 5231,
+    "Department": "ASTR",
+    "Name": "Moumita Dasgupta"
+  },
+  {
+    "": 5241,
+    "Department": "ASTR",
+    "Name": "James M. Kubasek"
+  },
+  {
+    "": 5251,
+    "Department": "ASTR",
+    "Name": "Stephen K. Peck"
+  },
+  {
+    "": 5261,
+    "Department": "ASTR",
+    "Name": "Alice M. Simmoneau"
+  }
+]
